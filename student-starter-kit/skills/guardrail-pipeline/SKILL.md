@@ -190,7 +190,7 @@ SELECT * FROM guardrail_logs ORDER BY timestamp DESC LIMIT 10;
 - Roles: student, admin, viewer
 - Tables: students, courses, transactions
 - Sensitive: emails, DOB, financial amounts, GPA (viewer)
-- Reference: `Euron/AI Architech Mastery/GuradraildinAI_zip_k4Yd/`
+- Reference: See the guardrail pipeline example in this repository
 
 ### Banking / Financial
 - Roles: customer, agent, admin, auditor
@@ -249,7 +249,7 @@ $0 — pure Python, no external APIs needed for guardrails themselves
 
 ## Reference Implementation
 
-Full working example: `Euron/AI Architech Mastery/GuradraildinAI_zip_k4Yd/`
+Full working example included in this skill's reference implementation.
 - FastAPI + Streamlit + LangChain ReAct + Supabase + Euri LLM
 - 400 students, 80 courses, 600 transactions seeded
 - All 6 layers tested and verified

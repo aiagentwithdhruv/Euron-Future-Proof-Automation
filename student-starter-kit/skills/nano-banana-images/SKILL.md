@@ -11,7 +11,7 @@ The purpose of this skill is to provide a standardized, highly controlled method
 
 ## Prerequisites
 - fal.ai API key (`FAL_KEY` in `.env`) — sign up at https://fal.ai (free tier, Nano Banana 2 model)
-- OR Euri API key (`EURI_API_KEY` in `.env`) — free for Euron students at https://euron.one/euri
+- OR Euri API key (`EURI_API_KEY` in `.env`) — available via the Euri platform
 - A clear understanding of the user's desired Subject, Lighting, and Camera characteristics.
 
 ## Core Schema Structure
