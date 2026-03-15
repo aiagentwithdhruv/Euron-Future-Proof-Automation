@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neon Galaxy: Space Shooter</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+</head>
+
+<body>
+    <div id="ui-container">
+        <div id="score-element">Score: <span id="score">0</span></div>
+
+        <div id="start-screen" class="screen active">
+            <h1>NEON GALAXY</h1>
+            <p>Use W, A, S, D or Arrow Keys to move.</p>
+            <p>Click or press Spacebar to shoot.</p>
+            <button id="start-btn">START MISSION</button>
+        </div>
+
+        <div id="game-over-screen" class="screen">
+            <h1>MISSION FAILED</h1>
+            <p id="final-score">Final Score: 0</p>
+            <button id="restart-btn">RETRY</button>
+        </div>
+    </div>
+
+    <canvas id="game-canvas"></canvas>
+
+    <script src="game.js"></script>
+</body>
+
+</html>
