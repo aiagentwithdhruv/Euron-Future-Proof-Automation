@@ -1,0 +1,8 @@
+apify-client>=1.8.0
+outscraper>=3.0.0
+pyhunter>=1.7.0
+gspread>=6.0.0
+google-auth>=2.25.0
+pandas>=2.1.0
+python-dotenv>=1.0.0
+openpyxl>=3.1.0

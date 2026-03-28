@@ -1,0 +1,8 @@
+.env
+credentials/
+leads/*.csv
+leads/*.xlsx
+__pycache__/
+src/__pycache__/
+*.pyc
+.DS_Store
