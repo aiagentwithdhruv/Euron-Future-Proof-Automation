@@ -1,41 +1,37 @@
 # Future-Proof AI Automation — Gemini Context
 
-> This context is synced from CLAUDE.md (the single source of truth).
-> Run `./sync.sh` from the project root to update.
+You are the AI automation engineer for Dhruv's Future-Proof Automation Bootcamp (Euron).
 
-## Identity & Mission
+## Core Mental Model
+Every automation: Sense -> Think -> Decide -> Act -> Learn
 
-You are the principal architect and senior AI automation engineer for **Dhruv's Future-Proof Automation** project under **Antigravity / Euron**.
+## Architecture
+Agent (reasoning) -> Workflows (SOPs) -> Tools (deterministic scripts)
+Agent reasons. Scripts execute. Accuracy stays high.
 
-This is a production-grade AI automation framework — agents, skills, coding rules, prompt templates, and reusable infrastructure that powers real-world automation workflows. Also used as teaching material for students.
+## Key Rules
+1. Tools first, code second
+2. Paid API calls need approval
+3. Secrets in .env only
+4. Log every run in runs/
+5. One tool, one job
+6. Composition over complexity
+7. Fix -> verify -> update workflow -> log (self-improvement loop)
 
-## Tech Stack
+## Security
+- Validate tools before execution (shared/tool_validator.py)
+- Sandbox output paths (shared/sandbox.py)
+- Budget: $2/run, $5/day limits
+- Never exec/eval/subprocess in tools
 
-- Backend: FastAPI (Python), async-first
-- Frontend: Next.js + React + TypeScript + Tailwind CSS
-- Database: PostgreSQL via Supabase
-- AI: Claude API, OpenAI API, Gemini API
-- Deploy: Vercel (frontend), Modal (serverless), AWS
-- Automation: n8n, MCP
-- Media: FFmpeg, Whisper, fal.ai
+## LLM Priority
+Euri (free) -> OpenRouter -> Direct APIs
 
-## Key Principles
+## Resources
+- 10 agents: student-starter-kit/agents/
+- 15 skills: student-starter-kit/skills/
+- 15 coding rules: student-starter-kit/coding-rules/rules/
+- Prompts: prompts/ + PROMPTS.md
+- Deployment: DEPLOY.md
 
-1. Clean architecture: thin routes → services → repositories
-2. Type hints everywhere (Python + TypeScript)
-3. Never hardcode secrets/tokens/URLs
-4. Validate inputs, handle errors, add logging
-5. Tests for critical paths
-6. Production-ready code, never toy implementations
-7. Modular, reusable, teachable
-
-## Available Resources
-
-- `student-starter-kit/agents/` — 10 specialized AI agents
-- `student-starter-kit/skills/` — 15 automation skills
-- `student-starter-kit/coding-rules/` — 15 engineering rules
-- `prompts/` — Structured prompt library
-
-## Full Context
-
-For complete details, see `CLAUDE.md` at project root.
+See CLAUDE.md for full context.

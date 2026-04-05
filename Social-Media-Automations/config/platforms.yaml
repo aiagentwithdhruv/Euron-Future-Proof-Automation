@@ -1,0 +1,43 @@
+linkedin:
+  name: LinkedIn
+  char_limit: 3000
+  image_max_mb: 10
+  image_size: "1200x627"
+  image_formats: ["jpg", "png"]
+  hashtag_style: inline      # hashtags mixed in text
+  max_hashtags: 5
+  api_base: "https://api.linkedin.com/rest"
+  api_version: "202404"
+
+x:
+  name: X (Twitter)
+  char_limit: 280
+  image_max_mb: 5
+  image_size: "1600x900"
+  image_formats: ["jpg", "png", "gif"]
+  max_images: 4
+  hashtag_style: end         # hashtags at end of tweet
+  max_hashtags: 3
+  api_base: "https://api.x.com/2"
+
+instagram:
+  name: Instagram
+  image_max_mb: 8
+  image_size: "1080x1080"
+  image_formats: ["jpg"]
+  video_max_mb: 1024
+  video_max_seconds: 90
+  hashtag_style: first_comment  # hashtags as first comment
+  max_hashtags: 30
+  api_base: "https://graph.facebook.com/v21.0"
+
+youtube:
+  name: YouTube
+  title_max_chars: 100
+  description_max_chars: 5000
+  max_tags: 30
+  tag_max_chars: 500
+  thumbnail_size: "1280x720"
+  thumbnail_max_mb: 2
+  shorts_max_seconds: 60
+  api_base: "https://www.googleapis.com/youtube/v3"
