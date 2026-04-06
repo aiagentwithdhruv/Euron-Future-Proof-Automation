@@ -7,12 +7,13 @@ from dotenv import load_dotenv
 
 
 def load_env():
-    """Load .env from project root. Exit if file missing."""
+    """Load .env from project root. Skips gracefully if running in CI (GitHub Actions)."""
     env_path = Path(__file__).parent.parent / ".env"
-    if not env_path.exists():
+    if env_path.exists():
+        load_dotenv(env_path)
+    elif not os.getenv("CI") and not os.getenv("GITHUB_ACTIONS"):
         print("ERROR: .env file not found. Copy .env.example to .env and add your API keys.")
         sys.exit(1)
-    load_dotenv(env_path)
 
 
 def get_required(key: str) -> str:
