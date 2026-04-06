@@ -1,0 +1,23 @@
+# LLM Routing — which provider to use for AI-powered ranking
+#
+# Priority order: Euri (free) → OpenRouter (paid) → keyword fallback (no AI)
+# All providers are OpenAI-compatible — same SDK, just swap base_url.
+
+providers:
+  euri:
+    base_url: "https://api.euron.one/api/v1/euri"
+    env_key: EURI_API_KEY
+    model: "gpt-4o-mini"
+    priority: 1
+    cost_per_1k_tokens: 0.00  # Free tier
+
+  openrouter:
+    base_url: "https://openrouter.ai/api/v1"
+    env_key: OPENROUTER_API_KEY
+    model: "openai/gpt-4o-mini"
+    priority: 2
+    cost_per_1k_tokens: 0.00015
+
+# If no LLM key is available, rank_news.py falls back to keyword scoring.
+# No AI needed — just frequency + recency + source authority.
+fallback: keyword_scoring

@@ -1,0 +1,52 @@
+# Global settings for the AI News Telegram Bot
+
+news:
+  max_articles_to_fetch: 30        # Fetch this many, then rank down to top 5
+  top_n: 5                         # Number of news items to send
+  categories:
+    - artificial intelligence
+    - machine learning
+    - AI deployment
+    - large language models
+    - AI startups
+
+sources:
+  newsapi:
+    enabled: true
+    query: "artificial intelligence OR AI deployment OR LLM OR machine learning"
+    language: en
+    sort_by: publishedAt
+    page_size: 20
+  rss:
+    enabled: true
+    feeds:
+      - name: TechCrunch AI
+        url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+      - name: The Verge AI
+        url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+      - name: Ars Technica AI
+        url: "https://feeds.arstechnica.com/arstechnica/technology-lab"
+      - name: MIT Tech Review AI
+        url: "https://www.technologyreview.com/feed/"
+  tavily:
+    enabled: false  # Only if TAVILY_API_KEY is set
+    query: "latest AI news today"
+    max_results: 10
+
+telegram:
+  parse_mode: MarkdownV2
+  max_message_length: 4096
+  disable_web_page_preview: false
+
+retry:
+  max_attempts: 3
+  backoff: exponential
+  base_delay_seconds: 2
+
+cost:
+  daily_limit_usd: 5.00
+  warn_at_usd: 3.00
+
+logging:
+  level: INFO
+  format: json

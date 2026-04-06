@@ -1,0 +1,55 @@
+# Tool Registry — schemas for all tools in this project.
+# The agent reads this to know what tools exist and how to call them.
+
+tools:
+  fetch_news:
+    description: "Fetch AI news from multiple sources (NewsAPI, RSS, Tavily)"
+    file: tools/fetch_news.py
+    inputs:
+      sources: {type: string, default: "newsapi,rss", description: "Comma-separated source list"}
+      limit: {type: int, default: 20, description: "Max articles per source"}
+      output: {type: string, default: ".tmp/raw_news.json"}
+    outputs:
+      file: ".tmp/raw_news.json"
+      format: "JSON array of article objects"
+    cost: "$0 (NewsAPI free tier + RSS)"
+    requires: [NEWSAPI_KEY]
+
+  rank_news:
+    description: "Rank articles by importance — LLM or keyword fallback"
+    file: tools/rank_news.py
+    inputs:
+      input: {type: string, default: ".tmp/raw_news.json"}
+      top: {type: int, default: 5}
+      no-llm: {type: bool, default: false, description: "Skip LLM, use keyword scoring"}
+      output: {type: string, default: ".tmp/ranked_news.json"}
+    outputs:
+      file: ".tmp/ranked_news.json"
+      format: "JSON array of top N articles with summaries"
+    cost: "~$0.005 per run (Euri free) or $0 (keyword mode)"
+    requires: []
+
+  format_message:
+    description: "Format ranked articles into Telegram-ready message"
+    file: tools/format_message.py
+    inputs:
+      input: {type: string, default: ".tmp/ranked_news.json"}
+      format: {type: string, default: "markdown", choices: ["markdown", "plain"]}
+      output: {type: string, default: ".tmp/telegram_message.txt"}
+    outputs:
+      file: ".tmp/telegram_message.txt"
+      format: "Text (MarkdownV2 or plain)"
+    cost: "$0"
+    requires: []
+
+  send_telegram:
+    description: "Send formatted message to Telegram chat/channel"
+    file: tools/send_telegram.py
+    inputs:
+      input: {type: string, default: ".tmp/telegram_message.txt"}
+      message: {type: string, optional: true, description: "Direct text instead of file"}
+      parse-mode: {type: string, default: "MarkdownV2"}
+    outputs:
+      format: "JSON with message_id on success"
+    cost: "$0 (Telegram Bot API is free)"
+    requires: [TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID]
