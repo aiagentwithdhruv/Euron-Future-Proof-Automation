@@ -100,6 +100,24 @@
 
 ---
 
+### 2026-04-06 — GitHub Actions workflows must be at repo ROOT .github/workflows/
+**Error:** `could not find any workflows` — workflow file wasn't detected
+**Cause:** Placed workflow at `AI_News_Telegram_Bot/.github/workflows/`. GitHub only reads from root `.github/workflows/`.
+**Fix:** Always put workflow files at `<repo-root>/.github/workflows/`, never inside subfolders.
+**Rule:** GitHub Actions ONLY reads `.github/workflows/` at repo root. Period.
+**Applies to:** All GitHub Actions deployments
+**Category:** Deployment
+
+### 2026-04-06 — env_loader crashes in CI because no .env file exists
+**Error:** `ERROR: .env file not found` in GitHub Actions
+**Cause:** `load_env()` called `sys.exit(1)` when `.env` missing. In CI, secrets are env vars, not files.
+**Fix:** Check `os.getenv("GITHUB_ACTIONS")` — if set, skip `.env` file requirement.
+**Rule:** Always support both `.env` files (local) AND environment variables (CI). Check for `GITHUB_ACTIONS` or `CI` env var.
+**Applies to:** Any project deployed to GitHub Actions
+**Category:** Deployment
+
+---
+
 ## AI/LLM
 
 _(No entries yet)_
@@ -152,6 +170,6 @@ _(No entries yet)_
 
 | Metric | Count |
 |--------|-------|
-| Total errors logged | 9 |
+| Total errors logged | 11 |
 | Categories covered | 2/10 |
-| Last updated | 2026-04-05 |
+| Last updated | 2026-04-06 |
