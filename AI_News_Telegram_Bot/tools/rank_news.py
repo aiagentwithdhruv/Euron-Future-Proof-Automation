@@ -57,7 +57,7 @@ def rank_with_keywords(articles: list, top_n: int) -> list:
     scored.sort(key=lambda x: x[0], reverse=True)
     ranked = []
     for score, article in scored[:top_n]:
-        article["summary"] = article.get("description", "")[:200]
+        article["summary"] = (article.get("description") or "")[:200]
         article["rank_score"] = score
         article["rank_method"] = "keyword"
         ranked.append(article)
@@ -88,7 +88,7 @@ def rank_with_llm(articles: list, top_n: int) -> list:
 
     articles_text = ""
     for i, a in enumerate(articles[:25], 1):
-        articles_text += f"{i}. [{a.get('source', 'Unknown')}] {a.get('title', '')}\n   {a.get('description', '')[:150]}\n\n"
+        articles_text += f"{i}. [{a.get('source') or 'Unknown'}] {a.get('title') or ''}\n   {(a.get('description') or '')[:150]}\n\n"
 
     prompt = f"""You are an AI news editor. From these {len(articles[:25])} articles, pick the top {top_n} most important and interesting AI news stories.
 
@@ -127,7 +127,7 @@ Articles:
             idx = pick.get("index", 1) - 1
             if 0 <= idx < len(articles):
                 article = articles[idx]
-                article["summary"] = pick.get("summary", article.get("description", "")[:200])
+                article["summary"] = pick.get("summary") or (article.get("description") or "")[:200]
                 article["rank_method"] = f"llm:{provider}"
                 ranked.append(article)
 
