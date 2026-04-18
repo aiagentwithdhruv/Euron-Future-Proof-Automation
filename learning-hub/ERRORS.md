@@ -116,6 +116,14 @@
 **Applies to:** Any project deployed to GitHub Actions
 **Category:** Deployment
 
+### 2026-04-18 — dict.get(key, default) does NOT use default when value is None
+**Error:** `TypeError: 'NoneType' object is not subscriptable` on `a.get("description", "")[:150]`
+**Cause:** NewsAPI returned `description: null` (explicit null, not missing key). Python's `.get("k", default)` only uses `default` when the key is MISSING. If the value is explicitly `None`, it returns `None`. Then `None[:150]` crashes.
+**Fix:** Use `(a.get("k") or "")[:150]` instead of `a.get("k", "")[:150]`. The `or ""` converts None to empty string before any operation.
+**Rule:** When a dict value could be `None` (from an API response with nullable fields), always use `(dict.get("key") or fallback)`, never `dict.get("key", fallback)`.
+**Applies to:** All API response parsing. Especially NewsAPI, LinkedIn, Blotato, any external API with nullable fields.
+**Category:** Backend
+
 ---
 
 ## AI/LLM
@@ -170,6 +178,6 @@ _(No entries yet)_
 
 | Metric | Count |
 |--------|-------|
-| Total errors logged | 11 |
-| Categories covered | 2/10 |
-| Last updated | 2026-04-06 |
+| Total errors logged | 12 |
+| Categories covered | 3/10 |
+| Last updated | 2026-04-18 |
