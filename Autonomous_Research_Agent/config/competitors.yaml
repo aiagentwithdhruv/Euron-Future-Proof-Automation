@@ -1,0 +1,32 @@
+# Competitor list for the weekly research cycle.
+#
+# Rules:
+# - Public pages only. No login-gated content.
+# - `homepage` is required. Other URLs are optional.
+# - `news_keywords` seeds NewsAPI / Tavily queries.
+# - `social` handles are optional. Social fetch is best-effort (free tier only).
+# - Order matters — competitors are processed sequentially with 3s rate limits.
+#
+# The build contract says "test with 2 competitors" so this file ships with 2
+# real AI-automation competitors that are relevant to Angelina-OS / QuotaHit.
+
+business_context: "AI automation platforms — agent orchestration, workflow automation, inbound revenue OS"
+
+competitors:
+  - name: "n8n"
+    homepage: "https://n8n.io"
+    pricing: "https://n8n.io/pricing"
+    blog: "https://blog.n8n.io"
+    news_keywords: ["n8n", "n8n.io"]
+    social:
+      twitter: "n8n_io"
+      linkedin: "n8n-io"
+
+  - name: "Lindy"
+    homepage: "https://www.lindy.ai"
+    pricing: "https://www.lindy.ai/pricing"
+    blog: "https://www.lindy.ai/blog"
+    news_keywords: ["Lindy.ai", "Lindy AI agent"]
+    social:
+      twitter: "Lindy_AI"
+      linkedin: "lindy-ai"

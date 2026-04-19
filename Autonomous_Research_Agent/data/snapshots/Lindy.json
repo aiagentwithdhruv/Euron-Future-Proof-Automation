@@ -1,0 +1,35 @@
+{
+  "competitor": "Lindy",
+  "saved_at": "2026-04-19T06:30:52.680083+00:00",
+  "site": {
+    "https://www.lindy.ai": {
+      "http_status": null,
+      "content_hash": null,
+      "title": "",
+      "meta_description": "",
+      "headings": [],
+      "pricing_hints": [],
+      "status": "skipped"
+    },
+    "https://www.lindy.ai/pricing": {
+      "http_status": null,
+      "content_hash": null,
+      "title": "",
+      "meta_description": "",
+      "headings": [],
+      "pricing_hints": [],
+      "status": "skipped"
+    },
+    "https://www.lindy.ai/blog": {
+      "http_status": null,
+      "content_hash": null,
+      "title": "",
+      "meta_description": "",
+      "headings": [],
+      "pricing_hints": [],
+      "status": "skipped"
+    }
+  },
+  "news": {},
+  "social": {}
+}

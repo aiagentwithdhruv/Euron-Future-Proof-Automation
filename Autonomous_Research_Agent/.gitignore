@@ -1,0 +1,13 @@
+.env
+.tmp/*
+!.tmp/.gitkeep
+!.tmp/fetch/.gitkeep
+!.tmp/diff/.gitkeep
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.venv/
+venv/
+# Keep snapshots (small, commitable, diff source-of-truth)
+!data/snapshots/*.json

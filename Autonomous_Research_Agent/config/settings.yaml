@@ -1,0 +1,22 @@
+agent:
+  name: "Autonomous Research Agent"
+  owner: "Atlas"
+  version: "0.1.0"
+
+limits:
+  cost_cap_usd_per_run: 1.00
+  cost_daily_limit_usd: 5.00
+  rate_limit_seconds: 3
+  request_timeout_seconds: 15
+  max_pages_per_competitor: 4
+  max_news_per_competitor: 15
+
+llm:
+  primary: "euri"
+  fallback: "openrouter"
+  model_euri: "gpt-4o-mini"
+  model_openrouter: "openai/gpt-4o-mini"
+
+delivery:
+  channels: ["slack", "email", "telegram"]
+  email_subject_prefix: "Competitor Digest"

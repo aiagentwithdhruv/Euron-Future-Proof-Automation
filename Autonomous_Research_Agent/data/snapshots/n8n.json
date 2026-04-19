@@ -1,0 +1,46 @@
+{
+  "competitor": "n8n",
+  "saved_at": "2026-04-19T06:30:47.865590+00:00",
+  "site": {
+    "https://n8n.io": {
+      "http_status": null,
+      "content_hash": null,
+      "title": "",
+      "meta_description": "",
+      "headings": [],
+      "pricing_hints": [],
+      "status": "skipped"
+    },
+    "https://n8n.io/pricing": {
+      "http_status": null,
+      "content_hash": null,
+      "title": "",
+      "meta_description": "",
+      "headings": [],
+      "pricing_hints": [],
+      "status": "skipped"
+    },
+    "https://blog.n8n.io": {
+      "http_status": 200,
+      "content_hash": "32e5768c343e503452304e79c7f85a129180a06635991518f3e10ba86da35d6d",
+      "title": "Guide, Tutorials, and Updates on Workflow Automation - n8n Blog",
+      "meta_description": "Discover insights, tutorials, and updates on workflow automation. Learn how to enhance your automation processes with expert advice and detailed guides.",
+      "headings": [
+        "Workflow Automation vs. Orchestration: Architectural Differences That Matter at Scale",
+        "Explore by use case",
+        "Orchestration vs. Choreography: Which One to Choose – or Use Both?",
+        "We need re-learn what AI agent development tools are in 2026",
+        "RAG System Architecture: Components, How To Implement, Challenges, and Best Practices",
+        "Production AI Playbook: Deterministic Steps & AI Steps",
+        "Production AI Playbook: Introduction",
+        "Firecrawl + n8n: real-time web data for your AI workflows",
+        "Build Multi-Domain RAG Systems with Specialized Knowledge Bases",
+        "Production AI Playbook: Human Oversight"
+      ],
+      "pricing_hints": [],
+      "status": "ok"
+    }
+  },
+  "news": {},
+  "social": {}
+}
