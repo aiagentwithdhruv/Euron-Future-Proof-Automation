@@ -1,6 +1,6 @@
 {
   "competitor": "n8n",
-  "saved_at": "2026-04-19T06:30:47.865590+00:00",
+  "saved_at": "2026-04-19T07:06:43.957732+00:00",
   "site": {
     "https://n8n.io": {
       "http_status": null,
@@ -41,6 +41,200 @@
       "status": "ok"
     }
   },
-  "news": {},
-  "social": {}
+  "news": {
+    "https://www.techradar.com/pro/n8n-vs-openclaw-what-are-the-differences-and-where-should-you-use-either-of-them": {
+      "title": "n8n vs OpenClaw: What are the differences and where should you use either of them?",
+      "source": "TechRadar",
+      "published": "2026-04-17T11:02:52Z",
+      "description": "Where is operational tooling going?"
+    },
+    "https://github.com/Agent-FM/agentfm-core": {
+      "title": "Show HN: Rebuilt SETI Home but for AI",
+      "source": "Github.com",
+      "published": "2026-04-16T22:40:33Z",
+      "description": "It’s a single Go binary that turns unused home GPUs into a decentralized, peer-to-peer AI compute grid. Think SETI@home, but for running local LLMs and AI workloads.\n\nComments URL: https://news.ycombinator.com/item?id=[phone]\nPoints: 3\n# Comments: 3"
+    },
+    "https://blog.talosintelligence.com/the-q1-vulnerability-pulse/": {
+      "title": "The Q1 vulnerability pulse",
+      "source": "Talosintelligence.com",
+      "published": "2026-04-16T18:00:31Z",
+      "description": "Thor provides an overview of the Q1 2026 vulnerability statistics, highlighting key trends in legacy CVEs and the evolving impact of AI on the threat landscape."
+    },
+    "https://securityaffairs.com/190887/hacking/ai-platform-n8n-abused-for-stealthy-phishing-and-malware-delivery.html": {
+      "title": "AI platform n8n abused for stealthy phishing and malware delivery",
+      "source": "Securityaffairs.com",
+      "published": "2026-04-16T13:57:04Z",
+      "description": "Attackers abuse AI automation platform n8n to run phishing campaigns, deliver malware, and evade security by using trusted infrastructure. Threat actors are exploiting the popular AI workflow automation platform n8n to launch advanced phishing campaigns, deli…"
+    },
+    "https://thenextweb.com/news/make-automation-station-f-mentorship-office-paris/": {
+      "title": "Exclusive: Make opens a mentorship office at STATION F",
+      "source": "The Next Web",
+      "published": "2026-04-16T10:00:21Z",
+      "description": "The Celonis-owned visual automation platform, which already has more than 200 STATION F startups on its programme, is putting a permanent on-campus presence in Paris as it targets France as a strategic growth market. One-on-onementorship, workshops, and hacka…"
+    },
+    "https://9to5mac.com/2026/04/16/opera-extends-the-browser-connector-functionality-to-opera-one-and-opera-gx/": {
+      "title": "Opera extends the Browser Connector functionality to Opera One and Opera GX",
+      "source": "9to5Mac",
+      "published": "2026-04-16T08:00:00Z",
+      "description": "Following last month’s launch of MCP compatibility in Opera Neon, Opera is now bringing its browser connector feature to Opera One and Opera GX. Here’s what that means.\n\n\n\n more…"
+    },
+    "https://thenextweb.com/news/accel-5-billion-fund-ai-anthropic-cursor-venture-capital/": {
+      "title": "Accel raises $5 billion for AI as venture capital bets reach infrastructure scale",
+      "source": "The Next Web",
+      "published": "2026-04-15T18:00:37Z",
+      "description": "In short: Accel has raised $5 billion in new capital, comprising a $4 billion Leaders Fund V and a $650 million sidecar, targeting 20-25 late-stage AI investments at an average cheque size of $200 million. The raise follows standout returns from its Anthropic…"
+    },
+    "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html": {
+      "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
+      "source": "Internet",
+      "published": "2026-04-15T17:09:00Z",
+      "description": "Threat actors have been observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payloads or fingerprint devices by sending automated emails.\n\"By levera…"
+    },
+    "https://blog.talosintelligence.com/the-n8n-n8mare/": {
+      "title": "The n8n n8mare: How threat actors are misusing AI workflow automation",
+      "source": "Talosintelligence.com",
+      "published": "2026-04-15T10:00:52Z",
+      "description": "Cisco Talos research has uncovered agentic AI workflow automation platform abuse in emails. Recently, we identified an increase in the number of emails that abuse n8n, one of these platforms, from as early as October 2025 through March 2026."
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/0.1.0/": {
+      "title": "wexample-wex-addon-services-platform 0.1.0",
+      "source": "Pypi.org",
+      "published": "2026-04-14T20:04:08Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/": {
+      "title": "wexample-wex-addon-services-platform added to PyPI",
+      "source": "Pypi.org",
+      "published": "2026-04-14T18:41:53Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    },
+    "https://www.jeffbullas.com/ai-marketing-playbook/": {
+      "title": "This $401 Million Company Built by Two People Reveals the New Rules of AI Powered Marketing",
+      "source": "Jeffbullas.com",
+      "published": "2026-04-14T16:45:21Z",
+      "description": "AI makes marketing faster, but not smarter. Here’s why demand-first strategy and GEO now define who wins visibility.\nThe post This $401 Million Company Built by Two People Reveals the New Rules of AI Powered Marketing appeared first on jeffbullas.com."
+    },
+    "https://betalist.com/startups/localith": {
+      "title": "Localith – The operating system for managing hundreds of Google Business Profiles",
+      "source": "Betalist.com",
+      "published": "2026-04-14T14:05:00Z",
+      "description": "The operating system for managing hundreds of Google Business Profiles"
+    },
+    "https://www.kdnuggets.com/top-7-docker-compose-templates-every-developer-should-use": {
+      "title": "Top 7 Docker Compose Templates Every Developer Should Use",
+      "source": "Kdnuggets.com",
+      "published": "2026-04-14T12:00:21Z",
+      "description": "Learn seven Docker Compose templates for CMS, web apps, databases, Python backends, streaming, automation, and local AI development."
+    },
+    "https://www.c-sharpcorner.com/article/types-of-rag-in-n8n-complete-guide-with-real-examples/": {
+      "title": "Types of RAG in n8n (Complete Guide with Real Examples)",
+      "source": "C-sharpcorner.com",
+      "published": "2026-04-13T09:39:36Z",
+      "description": "Master Retrieval-Augmented Generation (RAG) in n8n with this practical guide. Learn Naive, Advanced, Adaptive, Multi-Agent, Hybrid, and Self-Reflective RAG with real-world examples. Build powerful AI workflows, improve accuracy, and create scalable automation…"
+    },
+    "https://nypost.com/video/first-deported-migrants-arrive-in-costa-rica-as-part-of-us-deal/": {
+      "title": "First deported migrants arrive in Costa Rica as part of US deal (Video) - New York Post",
+      "source": "Tavily",
+      "published": "Tue, 14 Apr 2026 21:02:12 GMT",
+      "description": "If you do not wish for us or our third party partners such as advertising networks and social media platforms to sell or share your personal information to others, please **click the red \"Do Not Sell or Share My Personal Information/Opt-Out” button provided below.** If you access this site and/or ap"
+    },
+    "https://www.icis.com/explore/resources/news/2026/04/16/11198549/eu-inflation-rises-in-march-to-2-8": {
+      "title": "EU inflation rises in March to 2.8% - ICIS",
+      "source": "Tavily",
+      "published": "Thu, 16 Apr 2026 11:55:27 GMT",
+      "description": "## Global News + ICIS Chemical Business (ICB). See the full picture, with unlimited access to ICIS chemicals news across all markets and regions, plus ICB, the industry-leading magazine for the chemicals industry. #### ICIS Global LNG Outlook 2026 shorthand. #### 2026 LNG Global Supply & Demand Outl"
+    },
+    "https://www.nature.com/articles/s42004-026-02026-2": {
+      "title": "Slug-flow microchannel enables efficient and controllable preparation of sensitive protein nanoparticles - Nature",
+      "source": "Tavily",
+      "published": "Tue, 14 Apr 2026 04:05:17 GMT",
+      "description": "Slug-flow microchannel enables efficient and controllable preparation of sensitive protein nanoparticles. # Slug-flow microchannel enables efficient and controllable preparation of sensitive protein nanoparticles. This study applied a gas-liquid slug-flow microchannel to synthesize protein nanostruc"
+    },
+    "https://www.cnet.com/tech/services-and-software/i-love-my-wife-but-im-not-sharing-airpods-with-her-again-thanks-to-this-iphone-trick/": {
+      "title": "I Love My Wife, but I'm Not Sharing AirPods With Her Again Thanks to This iPhone Trick - CNET",
+      "source": "Tavily",
+      "published": "Mon, 13 Apr 2026 10:00:00 GMT",
+      "description": "But thanks to Apple's Audio Sharing\") feature, we can enjoy a show together while using our own sets of AirPods, AirPods Pro or other headphones. It allows two pairs of compatible AirPods or Beats headphones to pair with a single iPhone or iPad. So you and another person can immerse yourselves in mu"
+    },
+    "https://variety.com/2026/tv/awards/lord-of-the-flies-netflix-emmys-submissions-1236720654/": {
+      "title": "Netflix’s ‘Lord of the Flies’ Enters 12 Emmy Categories, Positioning Young Cast for Potential Nominations (EXCLUSIVE) - Variety",
+      "source": "Tavily",
+      "published": "Tue, 14 Apr 2026 19:00:00 GMT",
+      "description": "Netflix and the BBC’s new limited series adaptation, written by Emmy winner Jack Thorne, is mounting a multi-category campaign that will highlight its young ensemble cast alongside its talented artisan achievements. Directed by Marc Munden in a co-production between Sony Pictures Television’s Eleven"
+    },
+    "https://www.icelandreview.com/news/low-altitude-icelandair-flight-over-westman-islands-draws-international-attention/": {
+      "title": "Low-Altitude Icelandair Flight Over Westman Islands Draws International Attention - Iceland Review",
+      "source": "Tavily",
+      "published": "Mon, 13 Apr 2026 10:30:13 GMT",
+      "description": "An Icelandair flight over the Vestmannaeyjar has drawn international attention after the aircraft was flown below permitted altitude limits, according to reports. * **Archives:** Access over 400 longform articles covering Iceland with exclusive videos. The technical storage or access is strictly nec"
+    },
+    "https://www.csoonline.com/article/4159248/critical-nginx-ui-tool-vulnerability-opens-web-servers-to-full-compromise.html": {
+      "title": "Critical nginx UI tool vulnerability opens web servers to full compromise - csoonline.com",
+      "source": "Tavily",
+      "published": "Wed, 15 Apr 2026 00:00:00 GMT",
+      "description": "# Critical nginx UI tool vulnerability opens web servers to full compromise. Security vendor Pluto Security has published details of a critical vulnerability in the open-source nginx UI web server configuration tool that has been under active exploitation by cybercriminals since March. The vulnerabi"
+    },
+    "https://dailyutahchronicle.com/2026/04/15/farewell-ella-richards/": {
+      "title": "Farewell: Ella Richards - The Daily Utah Chronicle",
+      "source": "Tavily",
+      "published": "Wed, 15 Apr 2026 18:34:16 GMT",
+      "description": "# The Daily Utah Chronicle. # Farewell: Ella Richards. (Photo by Addy Cowley | The Daily Utah Chronicle). (Design by Ella Richards | The Daily Utah Chronicle). Farewell: Getting to design my future. Farewell: Ink isn't enough. Farewell: Stay true to yourself. Farewell: The women who shaped my story "
+    },
+    "https://www.telecoms.com/security/cinia-taps-nokia-for-ddos-protection-of-critical-infrastructure": {
+      "title": "Cinia taps Nokia for DDoS protection of critical infrastructure - Telecoms",
+      "source": "Tavily",
+      "published": "Thu, 16 Apr 2026 15:50:43 GMT",
+      "description": "# Cinia taps Nokia for DDoS protection of critical infrastructure. Critical connectivity and cybersecurity provider Cinia has teamed up with Nokia to roll out Distributed Denial of Service (DDoS) protection solutions in Finland. Through this model, Cinia, which also operates international submarine "
+    }
+  },
+  "social": {
+    "https://x.com/n8n_io": {
+      "platform": "twitter",
+      "title": "n8n.io (@n8n_io) / Posts / X - Twitter",
+      "published": "",
+      "content": "Workflow automation for technical teams to build AI solutions that integrate with any app or API at no-code speed and code flexibility. Open and self-hostable."
+    },
+    "https://x.com/n8n_io/status/1950828880127746464": {
+      "platform": "twitter",
+      "title": "n8n.io",
+      "published": "",
+      "content": "Our Ambassador Inyoung Lee put together a very handy n8n Cheat Sheet covering triggers, expressions, nodes, AI agents, HTTP requests and more."
+    },
+    "https://x.com/n8n_io/status/2016436170092089844": {
+      "platform": "twitter",
+      "title": "n8n.io",
+      "published": "",
+      "content": "With Chat Hub, you can expose powerful n8n AI agents to Sales, Support, Marketing and more without them needing to understand nodes or JSON. ✓"
+    },
+    "https://x.com/n8n_io/highlights?lang=el": {
+      "platform": "twitter",
+      "title": "n8n.io (@n8n_io) / Highlights / X",
+      "published": "",
+      "content": "The n8n Forum is a community space to ask questions, collaborate, share workflows, and connects with other builders. If you enjoy helping others, you can also"
+    },
+    "https://x.com/n8n_io/status/1937163866254803309": {
+      "platform": "twitter",
+      "title": "n8n.io",
+      "published": "",
+      "content": "This workflow by Nasser takes the title, subtitles and some other meta information from your YouTube videos and uses AI to generate a full"
+    },
+    "https://x.com/n8n_io/status/1952376515032715669": {
+      "platform": "twitter",
+      "title": "n8n.io",
+      "published": "",
+      "content": "What's your take on this n8n physical button? @RoniBandini built a simple hardware button that triggers workflows instantly, no phone or"
+    },
+    "https://x.com/n8n_io/status/1955230317855252732": {
+      "platform": "twitter",
+      "title": "A new n8n cheat sheet is out. After the great response to the one we ...",
+      "published": "",
+      "content": "A new n8n cheat sheet is out. After the great response to the one we shared a couple of weeks ago, here's another one from our community,"
+    },
+    "https://x.com/n8n_io/status/2041569006444810633": {
+      "platform": "twitter",
+      "title": "Etienne Lescot built n8n as Code, a tool that lets you create n8n ...",
+      "published": "",
+      "content": "Etienne Lescot built n8n as Code, a tool that lets you create n8n workflows directly in Cursor, VS Code, Claude Code, or OpenClaw."
+    }
+  }
 }
