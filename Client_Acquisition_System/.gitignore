@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.local
+
+# State (local pipeline data, never commit)
+state/*.json
+state/*.log
+
+# Intermediate / draft artifacts
+.tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Editors
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,54 @@
+# Ideal Customer Profile (ICP) — Client Acquisition System
+# Edit this before running the pipeline. The values below are defaults
+# for a B2B AI-automation consulting offer — replace with your own.
+
+name: "AI-Automation B2B Consulting"
+version: 1
+
+# Industry / vertical targets
+industries:
+  - "D2C e-commerce"
+  - "SaaS (Series A-B)"
+  - "Professional services (agencies, law firms, accounting)"
+
+# Geography (include country for unambiguous scraping)
+geographies:
+  - "Dubai, UAE"
+  - "Mumbai, India"
+  - "New York, USA"
+
+# Company size
+company_size:
+  employees_min: 10
+  employees_max: 200
+  revenue_min_usd: 500000
+  revenue_max_usd: 50000000
+
+# Target role / persona
+roles:
+  - "Founder"
+  - "CEO"
+  - "Head of Marketing"
+  - "Head of Operations"
+  - "VP Sales"
+
+# Buying signals (any of these boost score)
+signals:
+  - "Hiring automation / AI roles on LinkedIn"
+  - "Recent funding announcement"
+  - "Posted about manual processes or hiring backlog"
+  - "Tech stack includes HubSpot / Salesforce / Notion / Zapier"
+  - "Website mentions 'scale', 'growth', or 'operations'"
+
+# Disqualifiers
+disqualifiers:
+  - "Already has in-house AI team of 5+"
+  - "Company size <5 employees"
+  - "Agency / consultancy selling the same offer"
+
+# Pain hypotheses (for LLM to ground personalization)
+pain_hypotheses:
+  - "Manual workflows slowing growth"
+  - "Customer support overwhelmed"
+  - "Sales team buried in CRM data entry"
+  - "Content / social media bottleneck"

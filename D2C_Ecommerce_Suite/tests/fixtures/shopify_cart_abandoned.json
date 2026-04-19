@@ -1,0 +1,14 @@
+{
+  "id": "ck_abandoned_123",
+  "token": "abtoken123",
+  "email": "bea.smith@example.com",
+  "phone": null,
+  "total_price": "890.00",
+  "currency": "INR",
+  "customer": {"first_name": "Bea", "last_name": "Smith"},
+  "abandoned_checkout_url": "https://example.myshopify.com/checkouts/abtoken123",
+  "updated_at": "2026-04-19T10:00:00+00:00",
+  "line_items": [
+    {"title": "Winter Hoodie — Navy", "quantity": 1, "price": "890.00", "sku": "HDY-NVY-M"}
+  ]
+}

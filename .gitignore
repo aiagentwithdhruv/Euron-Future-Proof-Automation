@@ -27,3 +27,11 @@ venv/
 
 # GSD planning (local state)
 .planning/
+
+# Per-project virtual envs
+**/.venv/
+**/venv/
+
+# Intermediate build artifacts (regeneratable)
+**/.tmp/
+.tmp/

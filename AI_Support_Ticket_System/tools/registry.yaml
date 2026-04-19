@@ -1,0 +1,75 @@
+# Tool Registry — AI_Support_Ticket_System
+# Every tool lists its inputs, outputs, required env vars.
+
+tools:
+  fetch_emails:
+    file: fetch_emails.py
+    purpose: Poll IMAP inbox OR load fixtures; emit a list of new emails.
+    inputs: { since: "int minutes (IMAP)", fixtures: "path (optional)", output: "path" }
+    output: .tmp/new_emails.json
+    requires_live: [IMAP_HOST, IMAP_PORT, IMAP_USER, IMAP_PASS]
+    dry_run_ok: true
+
+  classify_ticket:
+    file: classify_ticket.py
+    purpose: Label each email with intent + priority + sentiment + team.
+    inputs: { input: ".tmp/new_emails.json", output: ".tmp/classified.json", no_llm: "bool" }
+    output: .tmp/classified.json
+    requires_live: []  # works with keyword fallback if no LLM key
+    dry_run_ok: true
+
+  create_ticket:
+    file: create_ticket.py
+    purpose: Persist ticket to Airtable or local JSON store.
+    inputs: { input: ".tmp/classified.json", store: ".tmp/tickets.json | airtable" }
+    output: output/tickets.json (default)
+    requires_live: []  # Airtable optional, falls back to local JSON
+    dry_run_ok: true
+
+  draft_reply:
+    file: draft_reply.py
+    purpose: Draft a polite non-committal reply using the KB.
+    inputs: { ticket_id: str, kb: "path", output: ".tmp/drafts.json" }
+    output: .tmp/drafts.json
+    requires_live: []  # falls back to templated reply if no LLM key
+    dry_run_ok: true
+
+  guardrail:
+    file: guardrail.py
+    purpose: Strip PII, block pricing/commitment phrases, monitor.
+    inputs: { draft_text: str, ticket_id: str }
+    output: { safe_text, flags[], blocked: bool }
+    requires_live: []
+    dry_run_ok: true
+
+  notify_team:
+    file: notify_team.py
+    purpose: Post ticket summary + approval CLI command to Slack.
+    inputs: { ticket_id: str }
+    output: .tmp/slack_outbox.jsonl (dry-run) OR Slack response
+    requires_live: [SLACK_WEBHOOK_URL]
+    dry_run_ok: true
+
+  send_reply:
+    file: send_reply.py
+    purpose: Send final approved reply via Resend.
+    inputs: { ticket_id: str }
+    output: .tmp/sent_replies.jsonl (dry-run) OR Resend response
+    requires_live: [RESEND_API_KEY, EMAIL_FROM]
+    dry_run_ok: true
+
+  approval_queue:
+    file: approval_queue.py
+    purpose: Operator CLI — list, show, edit, approve, reject tickets.
+    inputs: { list | show ID | edit ID --text ... | approve ID | reject ID --reason ... }
+    output: stdout (human-readable) + state mutations
+    requires_live: []
+    dry_run_ok: true
+
+  run_ticket_cycle:
+    file: run_ticket_cycle.py
+    purpose: Orchestrator — runs fetch → classify → create → draft → guardrail → notify.
+    inputs: { dry_run: bool, fixtures: path, limit: int }
+    output: runs/YYYY-MM-DD-ticket-cycle.md
+    requires_live: []  # in dry-run mode
+    dry_run_ok: true

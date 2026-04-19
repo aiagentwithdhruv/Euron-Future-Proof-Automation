@@ -1,0 +1,26 @@
+[
+  {
+    "ticket_id": "TICKET-20260419-063124-1051",
+    "priority": "P2",
+    "team": "billing",
+    "from_email": "chloe.n@example.org",
+    "subject": "Refund request — didn't use the product",
+    "queued_at": "2026-04-19T06:31:24.046780+00:00"
+  },
+  {
+    "ticket_id": "TICKET-20260419-063124-1718",
+    "priority": "P4",
+    "team": "success",
+    "from_email": "dan@example.net",
+    "subject": "Love the new dashboard!",
+    "queued_at": "2026-04-19T06:31:24.046796+00:00"
+  },
+  {
+    "ticket_id": "TICKET-20260419-063124-6439",
+    "priority": "P4",
+    "team": "success",
+    "from_email": "elena.rossi@example.it",
+    "subject": "Quick question about API rate limits",
+    "queued_at": "2026-04-19T06:31:24.046823+00:00"
+  }
+]

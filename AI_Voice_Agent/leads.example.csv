@@ -1,0 +1,2 @@
+name,phone,email,consent_outbound,last_touch,offer,notes,timezone
+Test User,+15555550123,test@example.com,true,2026-04-12 consult call,new-patient discount 20% through May 15,qualified from web form,America/Los_Angeles

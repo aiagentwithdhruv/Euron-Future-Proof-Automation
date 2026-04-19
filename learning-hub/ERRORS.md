@@ -152,7 +152,13 @@ _(No entries yet)_
 
 ## Backend
 
-_(No entries yet)_
+### 2026-04-19 — shared/cost_tracker exposes `record_cost`, not `log_cost`
+**Error:** `ImportError: cannot import name 'log_cost' from 'shared.cost_tracker'`
+**Cause:** Agentic-Workflow shared/ docs use `log_cost`, but the copied `AI_News_Telegram_Bot/shared/cost_tracker.py` exposes `record_cost(tool, cost)`. I imported the wrong name.
+**Fix:** `from shared.cost_tracker import check_budget, record_cost` then `record_cost("tool_name", 0.0001)`.
+**Rule:** Always grep the shared module's `def` signatures before importing — different bootcamp projects drifted apart. The canonical name in the copy that ships with the news bot is `record_cost`.
+**Applies to:** Any new project that copies `shared/cost_tracker.py` from AI_News_Telegram_Bot.
+**Category:** Backend
 
 ---
 
@@ -170,7 +176,13 @@ _(No entries yet)_
 
 ## General
 
-_(No entries yet)_
+### 2026-04-19 — `\b` word boundary fails before `(` in phone regex
+**Error:** Phone-number regex `\b(?:\+?\d{1,3}[\s\-]?)?(?:\(\d{3}\)|\d{3})[\s\-]?\d{3}[\s\-]?\d{4}\b` missed `(415) 555-0123` but matched `415-555-0123`.
+**Cause:** `\b` is a transition between word (`\w`) and non-word (`\W`) characters. `(` is non-word, so `\b` before `(` requires the preceding char to be a word char — fails at start of line or after whitespace.
+**Fix:** Use lookaround assertions instead: `(?<!\d)...(?!\d)`. No word-class assumption — cleanly anchors digit sequences in any surrounding context.
+**Rule:** For digit-pattern boundaries (phones, SSNs, card numbers), prefer `(?<!\d)` / `(?!\d)` over `\b`. `\b` only works when the sequence starts/ends with a word character.
+**Applies to:** All PII-detection regex. Especially guardrails, input sanitization, log scrubbing.
+**Category:** General
 
 ---
 
@@ -178,6 +190,6 @@ _(No entries yet)_
 
 | Metric | Count |
 |--------|-------|
-| Total errors logged | 12 |
-| Categories covered | 3/10 |
-| Last updated | 2026-04-18 |
+| Total errors logged | 14 |
+| Categories covered | 5/10 |
+| Last updated | 2026-04-19 |

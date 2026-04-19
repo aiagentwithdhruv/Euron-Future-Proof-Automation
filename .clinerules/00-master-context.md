@@ -256,16 +256,26 @@ Full deployment guide for students (free + paid): **see `DEPLOY.md`**
 
 Quick reference (verified April 2026):
 
-| Use Case | Free Option | Paid Option |
-|----------|------------|-------------|
-| Webhooks/APIs | **Koyeb** (always-on, no sleep) | Railway ($5/mo) |
-| Bots (Telegram/Discord) | **Koyeb** (24/7, no credit card) | Hostinger VPS ($5/mo) |
-| n8n Self-Hosted | Oracle Cloud Free VPS | PikaPods ($3.80/mo) or Hostinger |
-| Scheduled Tasks | GitHub Actions, cron-job.org | Any VPS |
-| Full-Stack Apps | Vercel (frontend) + Koyeb (backend) | DigitalOcean ($6/mo) |
-| AI/GPU (serverless Python) | Modal ($30/mo free credit) | Modal Pro |
-| React/Next.js Frontend | Vercel Hobby (free, best-in-class) | Vercel Pro |
-| Local Dev Tunnels | Cloudflare Tunnel (stable URL) | ngrok ($8/mo) |
+**TWO deployment paths. Both free.**
+
+| Pattern | Path | Where |
+|---------|------|-------|
+| Scheduled (cron) | **GitHub Actions** | `.github/workflows/*.yml` at repo root |
+| Event-driven / chat / webhook | **n8n** | `n8n.aiwithdhruv.cloud` (bootcamp instance) |
+| Unsure? | **n8n** | Handles both patterns |
+
+Selection rules:
+
+- Daily/weekly/monthly schedule → GitHub Actions (free on public repos, unlimited minutes)
+- Listens for webhook / Shopify / Slack / signup / chat → n8n
+- Needs always-on HTTP server → n8n (has built-in webhook + chat trigger)
+- Needs batch + state tracking → GitHub Actions (with committed state files)
+
+**What we DON'T use** (and why):
+- Koyeb — free tier removed, now $30/mo
+- Railway — no free tier since 2023
+- Vercel serverless Python — 10s timeout breaks RAG
+- Render free — sleeps after 15 min idle
 
 ---
 

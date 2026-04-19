@@ -1,0 +1,6 @@
+{
+  "ticket_id": "T-TEST-1",
+  "from_email": "customer@example.com",
+  "subject": "My order never arrived",
+  "body": "Hi, I placed order #1099 last Thursday and nothing has shown up yet. The tracking hasn't updated in 5 days. Can you help?"
+}

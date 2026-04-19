@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.tmp/*
+!.tmp/.gitkeep
+runs/*
+!runs/.gitkeep
+*.json
+!vapi/assistant.example.json
+!package.json
+.DS_Store

@@ -1,0 +1,34 @@
+# Offer — what you sell and the proposal shape.
+
+name: "AI Automation Sprint"
+one_liner: "Ship one revenue-generating AI automation in 30 days — scoped, built, and deployed."
+
+deliverables:
+  - "Business audit + automation opportunity map (week 1)"
+  - "One production automation built to spec (weeks 2-3)"
+  - "Deployment + team handover + runbook (week 4)"
+  - "30-day post-launch support"
+
+price_band:
+  low_usd: 5000
+  high_usd: 15000
+  currency: USD
+  payment_terms: "50% on signoff, 50% on delivery"
+
+timeline_weeks: 4
+
+case_studies:
+  - name: "DWERP CRM — glass manufacturing ERP"
+    result: "184 endpoints shipped, replaced 5 legacy tools"
+  - name: "Onsite Quotation Generator"
+    result: "4 AI agents + 210 workflows, est 10Cr ARR impact"
+
+hero_quote: "The agent did in 2 weeks what took our team 6 months. — founder, construction SaaS"
+
+# Discovery call framework (see workflows/discovery-call-script.md)
+call_duration_minutes: 30
+
+# Proposal next steps options
+next_steps_options:
+  - "Sign the pilot and kick off Monday"
+  - "30-min review with co-founder first"

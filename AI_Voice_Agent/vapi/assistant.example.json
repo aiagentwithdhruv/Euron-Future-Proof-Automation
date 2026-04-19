@@ -1,0 +1,159 @@
+{
+  "name": "{{BUSINESS_NAME}} Receptionist",
+  "voice": {
+    "provider": "11labs",
+    "voiceId": "21m00Tcm4TlvDq8ikWAM"
+  },
+  "model": {
+    "provider": "custom-llm",
+    "model": "gpt-4o-mini",
+    "messages": [
+      {
+        "role": "system",
+        "content": "SEE prompts/receptionist_system_v1.md  -- paste the compiled prompt here with variables interpolated."
+      }
+    ],
+    "tools": [
+      {
+        "type": "function",
+        "function": {
+          "name": "lookup_customer",
+          "description": "Look up an existing customer by phone number.",
+          "parameters": {
+            "type": "object",
+            "required": ["phone"],
+            "properties": {
+              "phone": {"type": "string", "description": "E.164 phone number, e.g. +15551234567"}
+            }
+          }
+        },
+        "server": {
+          "url": "https://YOUR_TUNNEL/tool/lookup_customer",
+          "headers": {"X-Api-Key": "{{API_KEY}}"}
+        }
+      },
+      {
+        "type": "function",
+        "function": {
+          "name": "check_availability",
+          "description": "Find open appointment slots on the business calendar.",
+          "parameters": {
+            "type": "object",
+            "properties": {
+              "service_type": {"type": "string"},
+              "date_preference": {"type": "string", "description": "Natural language, e.g. 'next Tuesday morning'"},
+              "duration_minutes": {"type": "integer", "default": 30},
+              "count": {"type": "integer", "default": 3}
+            }
+          }
+        },
+        "server": {
+          "url": "https://YOUR_TUNNEL/tool/check_availability",
+          "headers": {"X-Api-Key": "{{API_KEY}}"}
+        }
+      },
+      {
+        "type": "function",
+        "function": {
+          "name": "book_appointment",
+          "description": "Create a calendar event for the caller.",
+          "parameters": {
+            "type": "object",
+            "required": ["slot_start_iso", "customer_name", "customer_phone"],
+            "properties": {
+              "slot_start_iso": {"type": "string", "description": "ISO-8601 start time"},
+              "duration_minutes": {"type": "integer", "default": 30},
+              "customer_name": {"type": "string"},
+              "customer_phone": {"type": "string"},
+              "customer_email": {"type": "string"},
+              "service_type": {"type": "string"},
+              "notes": {"type": "string"}
+            }
+          }
+        },
+        "server": {
+          "url": "https://YOUR_TUNNEL/tool/book_appointment",
+          "headers": {"X-Api-Key": "{{API_KEY}}"}
+        }
+      },
+      {
+        "type": "function",
+        "function": {
+          "name": "capture_lead",
+          "description": "Record lead info in the CRM when they do not book.",
+          "parameters": {
+            "type": "object",
+            "required": ["phone"],
+            "properties": {
+              "name": {"type": "string"},
+              "phone": {"type": "string"},
+              "email": {"type": "string"},
+              "reason": {"type": "string"},
+              "notes": {"type": "string"},
+              "source": {"type": "string", "default": "inbound_voice"},
+              "outcome": {"type": "string"},
+              "callback_requested": {"type": "boolean"},
+              "callback_at": {"type": "string"}
+            }
+          }
+        },
+        "server": {
+          "url": "https://YOUR_TUNNEL/tool/capture_lead",
+          "headers": {"X-Api-Key": "{{API_KEY}}"}
+        }
+      },
+      {
+        "type": "function",
+        "function": {
+          "name": "send_confirmation",
+          "description": "Fire SMS + email confirmation after a booking.",
+          "parameters": {
+            "type": "object",
+            "properties": {
+              "booking_id": {"type": "string"},
+              "customer_phone": {"type": "string"},
+              "customer_email": {"type": "string"},
+              "summary": {"type": "string"}
+            }
+          }
+        },
+        "server": {
+          "url": "https://YOUR_TUNNEL/tool/send_confirmation",
+          "headers": {"X-Api-Key": "{{API_KEY}}"}
+        }
+      },
+      {
+        "type": "function",
+        "function": {
+          "name": "escalate_to_human",
+          "description": "Acknowledge a human-handoff request and log it. The actual transfer is executed by Vapi's transferCall tool.",
+          "parameters": {
+            "type": "object",
+            "required": ["call_id", "reason"],
+            "properties": {
+              "call_id": {"type": "string"},
+              "reason": {"type": "string"},
+              "priority": {"type": "string", "enum": ["low", "normal", "high"], "default": "normal"},
+              "transcript_so_far": {"type": "string"}
+            }
+          }
+        },
+        "server": {
+          "url": "https://YOUR_TUNNEL/tool/escalate_to_human",
+          "headers": {"X-Api-Key": "{{API_KEY}}"}
+        }
+      },
+      {
+        "type": "transferCall",
+        "destinations": [
+          {"type": "number", "number": "{{HUMAN_HANDOFF_NUMBER}}"}
+        ]
+      }
+    ]
+  },
+  "serverUrl": "https://YOUR_TUNNEL/webhook/call_ended",
+  "serverUrlSecret": "{{API_KEY}}",
+  "endCallMessage": "Thanks for calling. Goodbye.",
+  "endCallPhrases": ["goodbye", "bye", "hang up", "end call"],
+  "firstMessage": "Hi, {{BUSINESS_NAME}}. This call is being recorded for quality. How can I help you today?"
+}
