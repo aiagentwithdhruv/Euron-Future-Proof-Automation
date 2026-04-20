@@ -1,6 +1,6 @@
 {
   "competitor": "Lindy",
-  "saved_at": "2026-04-19T07:06:47.902033+00:00",
+  "saved_at": "2026-04-20T05:43:32.879504+00:00",
   "site": {
     "https://www.lindy.ai": {
       "http_status": null,
@@ -73,12 +73,6 @@
       "published": "Tue, 14 Apr 2026 19:39:37 GMT",
       "description": "The \"Amazon Bio Discovery\" research platform, launched today, does not display ads in its results or search a database, but it does have AI agentic technology and connect to. Launched by Amazon Web Services (AWS) today, it's an AI-powered application for scientists and researchers in. It provides th"
     },
-    "https://mlq.ai/news/meow-technologies-launches-first-agentic-banking-platform-for-ai/": {
-      "title": "Meow Technologies Launches First Agentic Banking Platform for AI - MLQ.ai",
-      "source": "Tavily",
-      "published": "Sun, 12 Apr 2026 20:00:42 GMT",
-      "description": "# Meow Technologies Launches First Agentic Banking Platform for AI. * San Francisco-based Meow Technologies launched the first agentic banking platform, enabling AI agents to autonomously open business bank accounts, issue cards, send payments and handle invoicing[1][2][3]. The service allows AI age"
-    },
     "https://www.mediapost.com/publications/article/414299/amazon-biopharma-research-debuts-with-ai-agents.html?edition=142300": {
       "title": "Amazon Biopharma Research Debuts With AI Agents 04/15/2026 - MediaPost",
       "source": "Tavily",
@@ -90,6 +84,12 @@
       "source": "Tavily",
       "published": "Thu, 16 Apr 2026 08:33:54 GMT",
       "description": "**A researcher has disclosed the details of a prompt injection attack method named ‘Comment and Control’, which has been found to work against several popular AI code security and automation tools.**. In a blog post published on Wednesday, Guan said the attack has been confirmed to work against seve"
+    },
+    "https://www.forbes.com/sites/the-prompt/2026/04/14/anthropic-uses-this-startups-ai-to-answer-peoples-questions-about-claude-code/": {
+      "title": "Anthropic Uses This Startup’s AI To Answer People’s Questions About Claude Code - Forbes",
+      "source": "Tavily",
+      "published": "Tue, 14 Apr 2026 18:06:36 GMT",
+      "description": "# Anthropic Uses This Startup’s AI To Answer People’s Questions About Claude Code. # Anthropic Uses This Startup’s AI To Answer People’s Questions About Claude Code. Image 11: Mintlify cofounders Han Wang and Hahnbee Lee started their AI-powered documentation startup in 2022. Mintlify cofounders Han"
     }
   },
   "social": {}

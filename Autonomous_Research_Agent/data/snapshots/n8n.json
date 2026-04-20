@@ -1,6 +1,6 @@
 {
   "competitor": "n8n",
-  "saved_at": "2026-04-19T07:06:43.957732+00:00",
+  "saved_at": "2026-04-20T05:43:28.678075+00:00",
   "site": {
     "https://n8n.io": {
       "http_status": null,
@@ -42,6 +42,12 @@
     }
   },
   "news": {
+    "https://blog.mulerun.com/p/ai-immortality-postmortem/": {
+      "title": "Respect to the Man Chasing AI Immortality, While Freeloading Off Our Platform",
+      "source": "Mulerun.com",
+      "published": "2026-04-18T15:03:03Z",
+      "description": "A technical postmortem on how one person with zero coding experience built a self-evolving AI swarm across 11 platforms using 900 accounts, 56 GitHub Actions workflows, and $0 in compute costs."
+    },
     "https://www.techradar.com/pro/n8n-vs-openclaw-what-are-the-differences-and-where-should-you-use-either-of-them": {
       "title": "n8n vs OpenClaw: What are the differences and where should you use either of them?",
       "source": "TechRadar",
@@ -126,47 +132,17 @@
       "published": "2026-04-14T12:00:21Z",
       "description": "Learn seven Docker Compose templates for CMS, web apps, databases, Python backends, streaming, automation, and local AI development."
     },
-    "https://www.c-sharpcorner.com/article/types-of-rag-in-n8n-complete-guide-with-real-examples/": {
-      "title": "Types of RAG in n8n (Complete Guide with Real Examples)",
-      "source": "C-sharpcorner.com",
-      "published": "2026-04-13T09:39:36Z",
-      "description": "Master Retrieval-Augmented Generation (RAG) in n8n with this practical guide. Learn Naive, Advanced, Adaptive, Multi-Agent, Hybrid, and Self-Reflective RAG with real-world examples. Build powerful AI workflows, improve accuracy, and create scalable automation…"
-    },
-    "https://nypost.com/video/first-deported-migrants-arrive-in-costa-rica-as-part-of-us-deal/": {
-      "title": "First deported migrants arrive in Costa Rica as part of US deal (Video) - New York Post",
+    "https://totaltele.com/nokia-and-orange-team-up-for-ai-ran/": {
+      "title": "Nokia and Orange team up for AI RAN - Total Telecom",
       "source": "Tavily",
-      "published": "Tue, 14 Apr 2026 21:02:12 GMT",
-      "description": "If you do not wish for us or our third party partners such as advertising networks and social media platforms to sell or share your personal information to others, please **click the red \"Do Not Sell or Share My Personal Information/Opt-Out” button provided below.** If you access this site and/or ap"
+      "published": "Thu, 16 Apr 2026 14:15:51 GMT",
+      "description": "+ Sign up for our newsletters. # Nokia and Orange team up for AI RAN. Posted by Harry Baldock | Apr 16, 2026 | TECHNOLOGY, AI, COMPANY NEWS, Products & Services, Networks, Europe, Press Release, News. ## Press Release. Nokia and Orange today announced a new collaboration focused on developing and ev"
     },
-    "https://www.icis.com/explore/resources/news/2026/04/16/11198549/eu-inflation-rises-in-march-to-2-8": {
-      "title": "EU inflation rises in March to 2.8% - ICIS",
+    "https://www.infosecurity-magazine.com/news/triad-nexus-expands-fraud/": {
+      "title": "Triad Nexus Expands Global Fraud Operations Despite US Sanctions - Infosecurity Magazine",
       "source": "Tavily",
-      "published": "Thu, 16 Apr 2026 11:55:27 GMT",
-      "description": "## Global News + ICIS Chemical Business (ICB). See the full picture, with unlimited access to ICIS chemicals news across all markets and regions, plus ICB, the industry-leading magazine for the chemicals industry. #### ICIS Global LNG Outlook 2026 shorthand. #### 2026 LNG Global Supply & Demand Outl"
-    },
-    "https://www.nature.com/articles/s42004-026-02026-2": {
-      "title": "Slug-flow microchannel enables efficient and controllable preparation of sensitive protein nanoparticles - Nature",
-      "source": "Tavily",
-      "published": "Tue, 14 Apr 2026 04:05:17 GMT",
-      "description": "Slug-flow microchannel enables efficient and controllable preparation of sensitive protein nanoparticles. # Slug-flow microchannel enables efficient and controllable preparation of sensitive protein nanoparticles. This study applied a gas-liquid slug-flow microchannel to synthesize protein nanostruc"
-    },
-    "https://www.cnet.com/tech/services-and-software/i-love-my-wife-but-im-not-sharing-airpods-with-her-again-thanks-to-this-iphone-trick/": {
-      "title": "I Love My Wife, but I'm Not Sharing AirPods With Her Again Thanks to This iPhone Trick - CNET",
-      "source": "Tavily",
-      "published": "Mon, 13 Apr 2026 10:00:00 GMT",
-      "description": "But thanks to Apple's Audio Sharing\") feature, we can enjoy a show together while using our own sets of AirPods, AirPods Pro or other headphones. It allows two pairs of compatible AirPods or Beats headphones to pair with a single iPhone or iPad. So you and another person can immerse yourselves in mu"
-    },
-    "https://variety.com/2026/tv/awards/lord-of-the-flies-netflix-emmys-submissions-1236720654/": {
-      "title": "Netflix’s ‘Lord of the Flies’ Enters 12 Emmy Categories, Positioning Young Cast for Potential Nominations (EXCLUSIVE) - Variety",
-      "source": "Tavily",
-      "published": "Tue, 14 Apr 2026 19:00:00 GMT",
-      "description": "Netflix and the BBC’s new limited series adaptation, written by Emmy winner Jack Thorne, is mounting a multi-category campaign that will highlight its young ensemble cast alongside its talented artisan achievements. Directed by Marc Munden in a co-production between Sony Pictures Television’s Eleven"
-    },
-    "https://www.icelandreview.com/news/low-altitude-icelandair-flight-over-westman-islands-draws-international-attention/": {
-      "title": "Low-Altitude Icelandair Flight Over Westman Islands Draws International Attention - Iceland Review",
-      "source": "Tavily",
-      "published": "Mon, 13 Apr 2026 10:30:13 GMT",
-      "description": "An Icelandair flight over the Vestmannaeyjar has drawn international attention after the aircraft was flown below permitted altitude limits, according to reports. * **Archives:** Access over 400 longform articles covering Iceland with exclusive videos. The technical storage or access is strictly nec"
+      "published": "Tue, 14 Apr 2026 12:00:00 GMT",
+      "description": "Infosecurity Magazine Home » News » Triad Nexus Expands Global Fraud Operations Despite US Sanctions. # Triad Nexus Expands Global Fraud Operations Despite US Sanctions. A cybercrime network responsible for more than $200m in reported losses has expanded its operations and refined its tactics follow"
     },
     "https://www.csoonline.com/article/4159248/critical-nginx-ui-tool-vulnerability-opens-web-servers-to-full-compromise.html": {
       "title": "Critical nginx UI tool vulnerability opens web servers to full compromise - csoonline.com",
@@ -174,17 +150,41 @@
       "published": "Wed, 15 Apr 2026 00:00:00 GMT",
       "description": "# Critical nginx UI tool vulnerability opens web servers to full compromise. Security vendor Pluto Security has published details of a critical vulnerability in the open-source nginx UI web server configuration tool that has been under active exploitation by cybercriminals since March. The vulnerabi"
     },
-    "https://dailyutahchronicle.com/2026/04/15/farewell-ella-richards/": {
-      "title": "Farewell: Ella Richards - The Daily Utah Chronicle",
+    "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/": {
+      "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime - SecurityWeek",
       "source": "Tavily",
-      "published": "Wed, 15 Apr 2026 18:34:16 GMT",
-      "description": "# The Daily Utah Chronicle. # Farewell: Ella Richards. (Photo by Addy Cowley | The Daily Utah Chronicle). (Design by Ella Richards | The Daily Utah Chronicle). Farewell: Getting to design my future. Farewell: Ink isn't enough. Farewell: Stay true to yourself. Farewell: The women who shaped my story "
+      "published": "Tue, 14 Apr 2026 10:53:32 GMT",
+      "description": "**Triad Nexus, an illicit network acting as the backbone of scams, money laundering, and illicit gambling operations, is using various techniques and front companies to avoid sanctions, Silent Push reports.**. Linked to Asian organized crime, the group has historically relied on the Funnull content "
     },
-    "https://www.telecoms.com/security/cinia-taps-nokia-for-ddos-protection-of-critical-infrastructure": {
-      "title": "Cinia taps Nokia for DDoS protection of critical infrastructure - Telecoms",
+    "https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk": {
+      "title": "Critical MCP Integration Flaw Puts NGINX at Risk - Dark Reading",
       "source": "Tavily",
-      "published": "Thu, 16 Apr 2026 15:50:43 GMT",
-      "description": "# Cinia taps Nokia for DDoS protection of critical infrastructure. Critical connectivity and cybersecurity provider Cinia has teamed up with Nokia to roll out Distributed Denial of Service (DDoS) protection solutions in Finland. Through this model, Cinia, which also operates international submarine "
+      "published": "Wed, 15 Apr 2026 22:02:47 GMT",
+      "description": "The flaw, tracked as CVE-[phone], (CVSS: 9.8) stems from nginx-ui's insecure implementation of the Model Context Protocol (MCP) and gives attackers a way to make unauthorized changes to NGINX server configurations with little or no authentication in some cases. Recent versions of nginx-ui, like many"
+    },
+    "https://home.treasury.gov/news/press-releases/sb0440": {
+      "title": "Treasury Sanctions Cartel-Linked Casinos and Key Associates on U.S.-Mexico Border - U.S. Department of the Treasury (.gov)",
+      "source": "Tavily",
+      "published": "Tue, 14 Apr 2026 14:30:00 GMT",
+      "description": "**WASHINGTON**—Today, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) sanctioned six targets involved in a money laundering and cash smuggling enterprise operated by Cartel del Noreste (CDN), one of Mexico’s most violent drug trafficking organizations. The three individ"
+    },
+    "https://www.icis.com/explore/resources/news/2026/04/16/11198549/eu-inflation-rises-in-march-to-2-8": {
+      "title": "EU inflation rises in March to 2.8% - ICIS",
+      "source": "Tavily",
+      "published": "Thu, 16 Apr 2026 11:55:27 GMT",
+      "description": "## Global News + ICIS Chemical Business (ICB). See the full picture, with unlimited access to ICIS chemicals news across all markets and regions, plus ICB, the industry-leading magazine for the chemicals industry. #### ICIS Global LNG Outlook 2026 shorthand. #### 2026 LNG Global Supply & Demand Outl"
+    },
+    "https://www.ucb.com/newsroom/press-releases/article/ucb-to-acquire-neurona-therapeutics-advancing-its-innovative-leadership-in-epilepsy-through-regenerative-science": {
+      "title": "UCB to acquire Neurona Therapeutics, advancing its innovative leadership in epilepsy through regenerative science - UCB",
+      "source": "Tavily",
+      "published": "Fri, 17 Apr 2026 17:00:00 GMT",
+      "description": "Important factors that could result in such differences include but are not limited to: global spread and impacts of wars, pandemics and terrorism, the general geopolitical environment, climate change, changes in general economic, business and competitive conditions, the inability to obtain necessar"
+    },
+    "https://markets.ft.com/data/announce/detail?dockey=600-202604150301BIZWIRE_USPRX____20260415_BW188706-1": {
+      "title": "Navan Selected by Opella to Streamline Global Travel and Expense – Company Announcement - Financial Times",
+      "source": "Tavily",
+      "published": "Wed, 15 Apr 2026 07:01:00 GMT",
+      "description": "### Navan Selected by Opella to Streamline Global Travel and Expense. PALO ALTO, Calif.--(BUSINESS WIRE)--Apr. 15, 2026-- Navan (NASDAQ: NAVN), the global AI-powered business travel and expense management platform, today announced it has been selected by Opella to manage its global travel and expens"
     }
   },
   "social": {
@@ -194,23 +194,17 @@
       "published": "",
       "content": "Workflow automation for technical teams to build AI solutions that integrate with any app or API at no-code speed and code flexibility. Open and self-hostable."
     },
-    "https://x.com/n8n_io/status/1950828880127746464": {
-      "platform": "twitter",
-      "title": "n8n.io",
-      "published": "",
-      "content": "Our Ambassador Inyoung Lee put together a very handy n8n Cheat Sheet covering triggers, expressions, nodes, AI agents, HTTP requests and more."
-    },
     "https://x.com/n8n_io/status/2016436170092089844": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
       "content": "With Chat Hub, you can expose powerful n8n AI agents to Sales, Support, Marketing and more without them needing to understand nodes or JSON. ✓"
     },
-    "https://x.com/n8n_io/highlights?lang=el": {
+    "https://x.com/n8n_io/status/1950828880127746464": {
       "platform": "twitter",
-      "title": "n8n.io (@n8n_io) / Highlights / X",
+      "title": "n8n.io",
       "published": "",
-      "content": "The n8n Forum is a community space to ask questions, collaborate, share workflows, and connects with other builders. If you enjoy helping others, you can also"
+      "content": "Our Ambassador Inyoung Lee put together a very handy n8n Cheat Sheet covering triggers, expressions, nodes, AI agents, HTTP requests and more."
     },
     "https://x.com/n8n_io/status/1937163866254803309": {
       "platform": "twitter",
@@ -218,23 +212,29 @@
       "published": "",
       "content": "This workflow by Nasser takes the title, subtitles and some other meta information from your YouTube videos and uses AI to generate a full"
     },
+    "https://x.com/n8n_io/highlights?lang=el": {
+      "platform": "twitter",
+      "title": "n8n.io (@n8n_io) / Highlights / X",
+      "published": "",
+      "content": "The n8n Forum is a community space to ask questions, collaborate, share workflows, and connects with other builders. If you enjoy helping others, you can also"
+    },
     "https://x.com/n8n_io/status/1952376515032715669": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
       "content": "What's your take on this n8n physical button? @RoniBandini built a simple hardware button that triggers workflows instantly, no phone or"
     },
+    "https://x.com/n8n_io/status/1934627403789221950": {
+      "platform": "twitter",
+      "title": "Try the new AI Image Generator — powered by n8n This isn't just ... - X",
+      "published": "",
+      "content": "This isn't just another image tool. It runs on a fully customizable n8n workflow that you can adapt to your specific use case. With n8n, you can"
+    },
     "https://x.com/n8n_io/status/1955230317855252732": {
       "platform": "twitter",
       "title": "A new n8n cheat sheet is out. After the great response to the one we ...",
       "published": "",
       "content": "A new n8n cheat sheet is out. After the great response to the one we shared a couple of weeks ago, here's another one from our community,"
-    },
-    "https://x.com/n8n_io/status/2041569006444810633": {
-      "platform": "twitter",
-      "title": "Etienne Lescot built n8n as Code, a tool that lets you create n8n ...",
-      "published": "",
-      "content": "Etienne Lescot built n8n as Code, a tool that lets you create n8n workflows directly in Cursor, VS Code, Claude Code, or OpenClaw."
     }
   }
 }
