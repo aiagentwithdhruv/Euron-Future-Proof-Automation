@@ -1,6 +1,6 @@
 {
   "competitor": "n8n",
-  "saved_at": "2026-04-20T05:43:28.678075+00:00",
+  "saved_at": "2026-04-27T05:57:14.102469+00:00",
   "site": {
     "https://n8n.io": {
       "http_status": null,
@@ -22,169 +22,169 @@
     },
     "https://blog.n8n.io": {
       "http_status": 200,
-      "content_hash": "32e5768c343e503452304e79c7f85a129180a06635991518f3e10ba86da35d6d",
+      "content_hash": "c29458ee1e2864a56f85fbdc2689cc68ee93800d5a4fcf7a1c2a513fcecda426",
       "title": "Guide, Tutorials, and Updates on Workflow Automation - n8n Blog",
       "meta_description": "Discover insights, tutorials, and updates on workflow automation. Learn how to enhance your automation processes with expert advice and detailed guides.",
       "headings": [
-        "Workflow Automation vs. Orchestration: Architectural Differences That Matter at Scale",
+        "How to evaluate the performance of AI agents?",
         "Explore by use case",
+        "Workflow Automation vs. Orchestration: Architectural Differences That Matter at Scale",
         "Orchestration vs. Choreography: Which One to Choose – or Use Both?",
         "We need re-learn what AI agent development tools are in 2026",
         "RAG System Architecture: Components, How To Implement, Challenges, and Best Practices",
         "Production AI Playbook: Deterministic Steps & AI Steps",
         "Production AI Playbook: Introduction",
         "Firecrawl + n8n: real-time web data for your AI workflows",
-        "Build Multi-Domain RAG Systems with Specialized Knowledge Bases",
-        "Production AI Playbook: Human Oversight"
+        "Build Multi-Domain RAG Systems with Specialized Knowledge Bases"
       ],
       "pricing_hints": [],
       "status": "ok"
     }
   },
   "news": {
-    "https://blog.mulerun.com/p/ai-immortality-postmortem/": {
-      "title": "Respect to the Man Chasing AI Immortality, While Freeloading Off Our Platform",
-      "source": "Mulerun.com",
-      "published": "2026-04-18T15:03:03Z",
-      "description": "A technical postmortem on how one person with zero coding experience built a self-evolving AI swarm across 11 platforms using 900 accounts, 56 GitHub Actions workflows, and $0 in compute costs."
+    "https://www.smashingapps.com/what-is-an-api/": {
+      "title": "What Is an API? Guide for Everyone (With Real Examples)",
+      "source": "Smashingapps.com",
+      "published": "2026-04-26T04:05:33Z",
+      "description": "What is an API? Plain-English explainer with real everyday examples of how APIs work, why every modern app uses them, and what REST means."
     },
-    "https://www.techradar.com/pro/n8n-vs-openclaw-what-are-the-differences-and-where-should-you-use-either-of-them": {
-      "title": "n8n vs OpenClaw: What are the differences and where should you use either of them?",
-      "source": "TechRadar",
-      "published": "2026-04-17T11:02:52Z",
-      "description": "Where is operational tooling going?"
-    },
-    "https://github.com/Agent-FM/agentfm-core": {
-      "title": "Show HN: Rebuilt SETI Home but for AI",
+    "https://github.com/remyyx/workledger": {
+      "title": "Show HN: StudioLedger – Escrow-protected contracts for creators, on XRPL",
       "source": "Github.com",
-      "published": "2026-04-16T22:40:33Z",
-      "description": "It’s a single Go binary that turns unused home GPUs into a decentralized, peer-to-peer AI compute grid. Think SETI@home, but for running local LLMs and AI workloads.\n\nComments URL: https://news.ycombinator.com/item?id=[phone]\nPoints: 3\n# Comments: 3"
+      "published": "2026-04-25T12:33:59Z",
+      "description": "Article URL: https://github.com/remyyx/workledger\nComments URL: https://news.ycombinator.com/item?id=[phone]\nPoints: 2\n# Comments: 0"
     },
-    "https://blog.talosintelligence.com/the-q1-vulnerability-pulse/": {
-      "title": "The Q1 vulnerability pulse",
-      "source": "Talosintelligence.com",
-      "published": "2026-04-16T18:00:31Z",
-      "description": "Thor provides an overview of the Q1 2026 vulnerability statistics, highlighting key trends in legacy CVEs and the evolving impact of AI on the threat landscape."
-    },
-    "https://securityaffairs.com/190887/hacking/ai-platform-n8n-abused-for-stealthy-phishing-and-malware-delivery.html": {
-      "title": "AI platform n8n abused for stealthy phishing and malware delivery",
-      "source": "Securityaffairs.com",
-      "published": "2026-04-16T13:57:04Z",
-      "description": "Attackers abuse AI automation platform n8n to run phishing campaigns, deliver malware, and evade security by using trusted infrastructure. Threat actors are exploiting the popular AI workflow automation platform n8n to launch advanced phishing campaigns, deli…"
-    },
-    "https://thenextweb.com/news/make-automation-station-f-mentorship-office-paris/": {
-      "title": "Exclusive: Make opens a mentorship office at STATION F",
-      "source": "The Next Web",
-      "published": "2026-04-16T10:00:21Z",
-      "description": "The Celonis-owned visual automation platform, which already has more than 200 STATION F startups on its programme, is putting a permanent on-campus presence in Paris as it targets France as a strategic growth market. One-on-onementorship, workshops, and hacka…"
-    },
-    "https://9to5mac.com/2026/04/16/opera-extends-the-browser-connector-functionality-to-opera-one-and-opera-gx/": {
-      "title": "Opera extends the Browser Connector functionality to Opera One and Opera GX",
-      "source": "9to5Mac",
-      "published": "2026-04-16T08:00:00Z",
-      "description": "Following last month’s launch of MCP compatibility in Opera Neon, Opera is now bringing its browser connector feature to Opera One and Opera GX. Here’s what that means.\n\n\n\n more…"
-    },
-    "https://thenextweb.com/news/accel-5-billion-fund-ai-anthropic-cursor-venture-capital/": {
-      "title": "Accel raises $5 billion for AI as venture capital bets reach infrastructure scale",
-      "source": "The Next Web",
-      "published": "2026-04-15T18:00:37Z",
-      "description": "In short: Accel has raised $5 billion in new capital, comprising a $4 billion Leaders Fund V and a $650 million sidecar, targeting 20-25 late-stage AI investments at an average cheque size of $200 million. The raise follows standout returns from its Anthropic…"
-    },
-    "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html": {
-      "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
-      "source": "Internet",
-      "published": "2026-04-15T17:09:00Z",
-      "description": "Threat actors have been observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payloads or fingerprint devices by sending automated emails.\n\"By levera…"
-    },
-    "https://blog.talosintelligence.com/the-n8n-n8mare/": {
-      "title": "The n8n n8mare: How threat actors are misusing AI workflow automation",
-      "source": "Talosintelligence.com",
-      "published": "2026-04-15T10:00:52Z",
-      "description": "Cisco Talos research has uncovered agentic AI workflow automation platform abuse in emails. Recently, we identified an increase in the number of emails that abuse n8n, one of these platforms, from as early as October 2025 through March 2026."
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/0.1.0/": {
-      "title": "wexample-wex-addon-services-platform 0.1.0",
+    "https://pypi.org/project/montaj/": {
+      "title": "montaj added to PyPI",
       "source": "Pypi.org",
-      "published": "2026-04-14T20:04:08Z",
+      "published": "2026-04-24T16:16:57Z",
+      "description": "Video editing toolkit for AI agents — CLI-first, agent-native, open source"
+    },
+    "https://www.productivetemply.com/blog/best-notion-health-tracker-templates": {
+      "title": "15 Best Notion Health Tracker Templates (Free+Paid) in 2026",
+      "source": "Productivetemply.com",
+      "published": "2026-04-24T14:46:21Z",
+      "description": "Discover the best Notion health tracker templates to monitor sleep, fitness, nutrition, and mental wellness. Free and paid options reviewed."
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/7.3.0/": {
+      "title": "wexample-wex-addon-services-platform 7.3.0",
+      "source": "Pypi.org",
+      "published": "2026-04-24T08:45:45Z",
       "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/": {
-      "title": "wexample-wex-addon-services-platform added to PyPI",
+    "https://pypi.org/project/job-scraper02/": {
+      "title": "job-scraper02 added to PyPI",
       "source": "Pypi.org",
-      "published": "2026-04-14T18:41:53Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+      "published": "2026-04-23T21:20:19Z",
+      "description": "Multi-provider AI job scraper with Streamlit UI and REST API"
     },
-    "https://www.jeffbullas.com/ai-marketing-playbook/": {
-      "title": "This $401 Million Company Built by Two People Reveals the New Rules of AI Powered Marketing",
-      "source": "Jeffbullas.com",
-      "published": "2026-04-14T16:45:21Z",
-      "description": "AI makes marketing faster, but not smarter. Here’s why demand-first strategy and GEO now define who wins visibility.\nThe post This $401 Million Company Built by Two People Reveals the New Rules of AI Powered Marketing appeared first on jeffbullas.com."
+    "https://github.com/eoffermann/BigBlueBam": {
+      "title": "Show HN: BigBlueBam, MIT-licensed Work OS where agents are first-class coworkers",
+      "source": "Github.com",
+      "published": "2026-04-22T13:35:54Z",
+      "description": "Hi HN, Eddie here. My project BigBlueBam is a self-hosted, MIT-licensed Work OS with a unified backend with native MCP, \"AI as Users\" rather than bolted-on chat widgets. The deploy script will stand up the full stack (local Docker container or push it to Rail…"
     },
-    "https://betalist.com/startups/localith": {
-      "title": "Localith – The operating system for managing hundreds of Google Business Profiles",
+    "https://openchannels.fm/scaling-woocommerce-operations-with-automation/": {
+      "title": "Open Channels FM: Scaling WooCommerce Operations with Automation",
+      "source": "Openchannels.fm",
+      "published": "2026-04-22T11:27:37Z",
+      "description": "In this episode, co-hosts discuss WooCommerce automation with expert James Collins, emphasizing how tools like Zapier streamline tasks, reduce errors, and enhance efficiency through practical automation examples and AI advancements."
+    },
+    "https://www.globenewswire.com/news-release/2026/04/22/3278662/0/en/SUSE-and-Industry-Leaders-Deliver-Secure-Agentic-AI-for-Infrastructure-Management.html": {
+      "title": "SUSE and Industry Leaders Deliver Secure Agentic AI for Infrastructure Management",
+      "source": "GlobeNewswire",
+      "published": "2026-04-22T06:00:00Z",
+      "description": "SUSE integrates Model Context Protocol (MCP) to enable secure agentic AI for autonomous Linux and Kubernetes management across data centers and clouds...."
+    },
+    "https://betalist.com/startups/implo-ai": {
+      "title": "implo.ai – Buy ready-to-deploy AI prompts, workflows, agents, and templates",
       "source": "Betalist.com",
-      "published": "2026-04-14T14:05:00Z",
-      "description": "The operating system for managing hundreds of Google Business Profiles"
+      "published": "2026-04-20T23:25:00Z",
+      "description": "Buy ready-to-deploy AI prompts, workflows, agents, and templates"
     },
-    "https://www.kdnuggets.com/top-7-docker-compose-templates-every-developer-should-use": {
-      "title": "Top 7 Docker Compose Templates Every Developer Should Use",
-      "source": "Kdnuggets.com",
-      "published": "2026-04-14T12:00:21Z",
-      "description": "Learn seven Docker Compose templates for CMS, web apps, databases, Python backends, streaming, automation, and local AI development."
+    "https://pypi.org/project/wexample-wex-addon-services-platform/7.0.4/": {
+      "title": "wexample-wex-addon-services-platform 7.0.4",
+      "source": "Pypi.org",
+      "published": "2026-04-20T21:44:02Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://totaltele.com/nokia-and-orange-team-up-for-ai-ran/": {
-      "title": "Nokia and Orange team up for AI RAN - Total Telecom",
+    "https://pypi.org/project/wexample-wex-addon-services-platform/7.0.3/": {
+      "title": "wexample-wex-addon-services-platform 7.0.3",
+      "source": "Pypi.org",
+      "published": "2026-04-20T20:59:12Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/7.0.2/": {
+      "title": "wexample-wex-addon-services-platform 7.0.2",
+      "source": "Pypi.org",
+      "published": "2026-04-20T20:26:41Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/7.0.1/": {
+      "title": "wexample-wex-addon-services-platform 7.0.1",
+      "source": "Pypi.org",
+      "published": "2026-04-20T19:23:44Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/7.0.0/": {
+      "title": "wexample-wex-addon-services-platform 7.0.0",
+      "source": "Pypi.org",
+      "published": "2026-04-20T12:39:49Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    },
+    "https://www.genengnews.com/topics/bioprocessing/ai-wizard-adapts-processes-in-a-self-driving-lab/": {
+      "title": "AI Wizard Adapts Processes in a Self-Driving Lab - Genetic Engineering and Biotechnology News",
       "source": "Tavily",
-      "published": "Thu, 16 Apr 2026 14:15:51 GMT",
-      "description": "+ Sign up for our newsletters. # Nokia and Orange team up for AI RAN. Posted by Harry Baldock | Apr 16, 2026 | TECHNOLOGY, AI, COMPANY NEWS, Products & Services, Networks, Europe, Press Release, News. ## Press Release. Nokia and Orange today announced a new collaboration focused on developing and ev"
+      "published": "Wed, 22 Apr 2026 12:00:43 GMT",
+      "description": "Home Topics Artificial Intelligence AI Wizard Adapts Processes in a Self-Driving Lab. # AI Wizard Adapts Processes in a Self-Driving Lab. Karlsruhe Institute of Technology self-driving lab [Karlsruhe Institute of Technology]. German researchers who run a self-driving laboratory have created an agent"
     },
-    "https://www.infosecurity-magazine.com/news/triad-nexus-expands-fraud/": {
-      "title": "Triad Nexus Expands Global Fraud Operations Despite US Sanctions - Infosecurity Magazine",
+    "https://insurancenewsnet.com/oarticle/warsh-will-now-be-confirmed-as-fed-chair-but-what-does-it-mean": {
+      "title": "Warsh Will Now Be Confirmed as Fed Chair. But What Does it Mean? - InsuranceNewsNet",
       "source": "Tavily",
-      "published": "Tue, 14 Apr 2026 12:00:00 GMT",
-      "description": "Infosecurity Magazine Home » News » Triad Nexus Expands Global Fraud Operations Despite US Sanctions. # Triad Nexus Expands Global Fraud Operations Despite US Sanctions. A cybercrime network responsible for more than $200m in reported losses has expanded its operations and refined its tactics follow"
+      "published": "Mon, 27 Apr 2026 05:04:07 GMT",
+      "description": "HomeNow reading INN Insider News. INN Insider News RSSGet our newsletter. 1 minute ago INN Insider News. The Great Game Comes for the Fed. Kevin Warsh’s arrival at the Federal Reserve would mean more than a new chairman. It would mean that the great new game, the struggle over energy, industry, data"
     },
-    "https://www.csoonline.com/article/4159248/critical-nginx-ui-tool-vulnerability-opens-web-servers-to-full-compromise.html": {
-      "title": "Critical nginx UI tool vulnerability opens web servers to full compromise - csoonline.com",
+    "https://www.biospace.com/press-releases/sun-pharma-signs-definitive-agreement-to-acquire-organon": {
+      "title": "Sun Pharma signs Definitive Agreement to Acquire Organon - BioSpace",
       "source": "Tavily",
-      "published": "Wed, 15 Apr 2026 00:00:00 GMT",
-      "description": "# Critical nginx UI tool vulnerability opens web servers to full compromise. Security vendor Pluto Security has published details of a critical vulnerability in the open-source nginx UI web server configuration tool that has been under active exploitation by cybercriminals since March. The vulnerabi"
+      "published": "Mon, 27 Apr 2026 03:21:33 GMT",
+      "description": "We believe Sun Pharma is well positioned to support Organon’s businesses, employees and patients globally, and to further advance our commitment to delivering impactful medicines and solutions.”. INVESTORS AND STOCKHOLDERS OF ORGANON ARE URGED TO READ ALL RELEVANT DOCUMENTS FILED WITH THE SEC, INCLU"
     },
-    "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/": {
-      "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime - SecurityWeek",
+    "https://natlawreview.com/press-releases/cubicle-fugitive-co-founder-morgan-macleod-elected-2026-27-international": {
+      "title": "Cubicle Fugitive co-founder Morgan MacLeod elected to 2026–27 international board of Legal Marketing Association - The National Law Review",
       "source": "Tavily",
-      "published": "Tue, 14 Apr 2026 10:53:32 GMT",
-      "description": "**Triad Nexus, an illicit network acting as the backbone of scams, money laundering, and illicit gambling operations, is using various techniques and front companies to avoid sanctions, Silent Push reports.**. Linked to Asian organized crime, the group has historically relied on the Funnull content "
+      "published": "Mon, 27 Apr 2026 03:12:32 GMT",
+      "description": "### Cubicle Fugitive co-founder Morgan MacLeod elected to 2026–27 international board of Legal Marketing Association. ### Cubicle Fugitive co-founder Morgan MacLeod elected to 2026–27 international board of Legal Marketing Association. *Morgan MacLeod, co-founder of Cubicle Fugitive, elected to the "
     },
-    "https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk": {
-      "title": "Critical MCP Integration Flaw Puts NGINX at Risk - Dark Reading",
+    "https://www.nba.com/watch/video/dunk-by-adou-thiero?plsrc=nba&collection=2026-playoffs-west-first-round-lal-vs-hou-video": {
+      "title": "Dunk by Adou Thiero - NBA",
       "source": "Tavily",
-      "published": "Wed, 15 Apr 2026 22:02:47 GMT",
-      "description": "The flaw, tracked as CVE-[phone], (CVSS: 9.8) stems from nginx-ui's insecure implementation of the Model Context Protocol (MCP) and gives attackers a way to make unauthorized changes to NGINX server configurations with little or no authentication in some cases. Recent versions of nginx-ui, like many"
+      "published": "Mon, 27 Apr 2026 04:43:55 GMT",
+      "description": "*   Image 33: NBA G-League Icon NBA G League. *   Image 35: NBA 2K Icon NBA 2K League. *   Image 36: NBA BAL Icon Basketball Africa League. *   Image 38: Houston Rockets vs. Los Angeles Lakers - 4th Quarter Highlights01:27#### Houston Rockets vs. Los Angeles Lakers - 4th Quarter Highlights Watch the"
     },
-    "https://home.treasury.gov/news/press-releases/sb0440": {
-      "title": "Treasury Sanctions Cartel-Linked Casinos and Key Associates on U.S.-Mexico Border - U.S. Department of the Treasury (.gov)",
+    "https://investor.regeneron.com/news-releases/news-release-details/otarmenitm-lunsotogene-parvec-cwha-approved-fda-first-and-only/": {
+      "title": "Otarmeni™ (lunsotogene parvec-cwha) Approved by FDA as First and Only Gene Therapy for Genetic Hearing Loss; Regeneron to Provide Otarmeni for Free in the U.S. - Regeneron",
       "source": "Tavily",
-      "published": "Tue, 14 Apr 2026 14:30:00 GMT",
-      "description": "**WASHINGTON**—Today, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) sanctioned six targets involved in a money laundering and cash smuggling enterprise operated by Cartel del Noreste (CDN), one of Mexico’s most violent drug trafficking organizations. The three individ"
+      "published": "Thu, 23 Apr 2026 16:40:00 GMT",
+      "description": "These statements concern, and these risks and uncertainties include, among others, the nature, timing, and possible success and therapeutic applications of products marketed or otherwise commercialized by Regeneron and/or its collaborators or licensees (collectively, “Regeneron’s Products”) and prod"
     },
-    "https://www.icis.com/explore/resources/news/2026/04/16/11198549/eu-inflation-rises-in-march-to-2-8": {
-      "title": "EU inflation rises in March to 2.8% - ICIS",
+    "https://nypost.com/2026/04/22/world-news/searchers-find-body-of-1-of-6-missing-crew-members-from-ship-that-overturned-during-typhoon-near-northern-mariana-islands/": {
+      "title": "Searchers find body of 1 of 6 missing crew members from ship that overturned during typhoon - New York Post",
       "source": "Tavily",
-      "published": "Thu, 16 Apr 2026 11:55:27 GMT",
-      "description": "## Global News + ICIS Chemical Business (ICB). See the full picture, with unlimited access to ICIS chemicals news across all markets and regions, plus ICB, the industry-leading magazine for the chemicals industry. #### ICIS Global LNG Outlook 2026 shorthand. #### 2026 LNG Global Supply & Demand Outl"
+      "published": "Wed, 22 Apr 2026 17:10:15 GMT",
+      "description": "*   Image 35: US Navy destroyer 'blows a hole' through Iranian cargo ship that tried to break Hormuz blockade: Trump This story has 2.4K comments. If you do not wish for us or our third party partners such as advertising networks and social media platforms to sell or share your personal information "
     },
-    "https://www.ucb.com/newsroom/press-releases/article/ucb-to-acquire-neurona-therapeutics-advancing-its-innovative-leadership-in-epilepsy-through-regenerative-science": {
-      "title": "UCB to acquire Neurona Therapeutics, advancing its innovative leadership in epilepsy through regenerative science - UCB",
+    "https://www.stocktitan.net/sec-filings/IIPR/def-14a-innovative-industrial-properties-inc-definitive-proxy-stateme-b750bc085058.html": {
+      "title": "Innovative Industrial (NYSE: IIPR) details 2025 results and new 2026 incentive plan - Stock Titan",
       "source": "Tavily",
-      "published": "Fri, 17 Apr 2026 17:00:00 GMT",
-      "description": "Important factors that could result in such differences include but are not limited to: global spread and impacts of wars, pandemics and terrorism, the general geopolitical environment, climate change, changes in general economic, business and competitive conditions, the inability to obtain necessar"
+      "published": "Wed, 22 Apr 2026 20:34:58 GMT",
+      "description": "If (i) the Company shall at any time be involved in a merger or other transaction in which the Shares are changed or exchanged; (ii) the Company shall subdivide or combine the Shares or the Company shall declare a dividend payable in Shares, other securities (other than stock purchase rights issued "
     },
-    "https://markets.ft.com/data/announce/detail?dockey=600-202604150301BIZWIRE_USPRX____20260415_BW188706-1": {
-      "title": "Navan Selected by Opella to Streamline Global Travel and Expense – Company Announcement - Financial Times",
+    "https://www.skynews.com.au/world-news/global-affairs/trump-teases-king-charles-visit-as-whcd-shooting-shakes-washington/video/b80506c2ca81cff06af566a60c4de0bd": {
+      "title": "Trump teases King Charles visit as WHCD shooting shakes Washington - Sky News Australia",
       "source": "Tavily",
-      "published": "Wed, 15 Apr 2026 07:01:00 GMT",
-      "description": "### Navan Selected by Opella to Streamline Global Travel and Expense. PALO ALTO, Calif.--(BUSINESS WIRE)--Apr. 15, 2026-- Navan (NASDAQ: NAVN), the global AI-powered business travel and expense management platform, today announced it has been selected by Opella to manage its global travel and expens"
+      "published": "Mon, 27 Apr 2026 05:33:43 GMT",
+      "description": "# No Cookies. For more information see our Cookie Policy. To enable cookies, follow the instructions for your browser below. There is a specific issue with the Facebook in-app browser intermittently making requests to websites without cookies that had previously been set. 1. Open the settings menu b"
     }
   },
   "social": {
@@ -212,6 +212,12 @@
       "published": "",
       "content": "This workflow by Nasser takes the title, subtitles and some other meta information from your YouTube videos and uses AI to generate a full"
     },
+    "https://x.com/n8n_io/status/1928360890635534567": {
+      "platform": "twitter",
+      "title": "n8n.io",
+      "published": "",
+      "content": "Discover over 2,000+ freely downloadable templates in our workflow library! Whether you need an AI agent to generate your weekly TPS reports"
+    },
     "https://x.com/n8n_io/highlights?lang=el": {
       "platform": "twitter",
       "title": "n8n.io (@n8n_io) / Highlights / X",
@@ -223,12 +229,6 @@
       "title": "n8n.io",
       "published": "",
       "content": "What's your take on this n8n physical button? @RoniBandini built a simple hardware button that triggers workflows instantly, no phone or"
-    },
-    "https://x.com/n8n_io/status/1934627403789221950": {
-      "platform": "twitter",
-      "title": "Try the new AI Image Generator — powered by n8n This isn't just ... - X",
-      "published": "",
-      "content": "This isn't just another image tool. It runs on a fully customizable n8n workflow that you can adapt to your specific use case. With n8n, you can"
     },
     "https://x.com/n8n_io/status/1955230317855252732": {
       "platform": "twitter",
