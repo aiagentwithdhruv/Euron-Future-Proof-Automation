@@ -1,6 +1,6 @@
 {
   "competitor": "Lindy",
-  "saved_at": "2026-04-27T05:57:17.576807+00:00",
+  "saved_at": "2026-05-04T06:16:03.512990+00:00",
   "site": {
     "https://www.lindy.ai": {
       "http_status": null,
@@ -31,65 +31,65 @@
     }
   },
   "news": {
-    "https://www.scworld.com/brief/cyberattacks-increasingly-caused-by-unchecked-ai-agents": {
-      "title": "Cyberattacks increasingly caused by unchecked AI agents - SC Media",
+    "https://www.nature.com/articles/s41592-026-03088-9": {
+      "title": "Call your AI agent - Nature",
       "source": "Tavily",
-      "published": "Wed, 22 Apr 2026 22:59:35 GMT",
-      "description": "Infosecurity Magazine reports that the lack of strategy on the use and governance of AI agents is increasing organizations' risk of experiencing cybersecurity incidents.According to research conducted by Cloud Security Alliance and Token Security, 65% of enterprises have experienced at least one AI "
+      "published": "Fri, 01 May 2026 11:08:06 GMT",
+      "description": "# Call your AI agent. *Nature Methods* (2026)Cite this article. AI agent systems are now being built on top of large language models, and they can conduct autonomous analyses. Sign in or create an account. *Cell* **187**, 6125–6151 (2024). Article  CAS  PubMed   Google Scholar. ACM* **9**, 36–45 (19"
     },
-    "https://www.automationworld.com/analytics/news/55370840/highbyte-updates-its-intelligence-hub-with-an-ai-agent": {
-      "title": "HighByte Updates Its Intelligence Hub with an AI Agent - Automation World",
+    "https://www.mediapost.com/publications/article/414418/the-google-analytics-blind-spot.html?edition=142415": {
+      "title": "The Google Analytics 'Blind Spot' 04/20/2026 - MediaPost",
       "source": "Tavily",
-      "published": "Fri, 24 Apr 2026 19:49:10 GMT",
-      "description": "# HighByte Updates Its Intelligence Hub with an AI Agent. The newly introduced Pipeline AI agent allows manufacturers to manage data through the user’s choice of LLM interface. HighByte announced the general availability of HighByte Intelligence Hub version 4.4, which introduces a Pipeline AI Agent "
+      "published": "Tue, 28 Apr 2026 04:25:30 GMT",
+      "description": "Agents make decisions and interact with websites in ways that traditional tools like Google Analytics 4 cannot \"see\" or report on. AI agent activity does not show up in standard web analytics like Google Analytics because it. BrightEdge published a guide for search marketers on AI agents, detailing "
     },
-    "https://thenewstack.io/disappearing-ai-middle-class/": {
-      "title": "The disappearing AI middle class - The New Stack",
+    "https://www.cnet.com/tech/services-and-software/does-your-ai-agent-need-a-vpn-the-company-behind-norton-and-avast-thinks-so/": {
+      "title": "Does Your AI Agent Need a VPN? The Company Behind Norton and Avast Thinks So - CNET",
       "source": "Tavily",
-      "published": "Sun, 26 Apr 2026 17:16:16 GMT",
-      "description": "AI   AI Engineering   API Management   Backend development   Data   Frontend Development   Large Language Models   Security   Software Development   WebAssembly. Chainguard has a fix for the open source packages your AI agents keep grabbing. AI   AI Engineering   API Management   Backend development"
+      "published": "Fri, 01 May 2026 22:42:00 GMT",
+      "description": "# Does Your AI Agent Need a VPN? The Company Behind Norton and Avast Thinks So. You might use a VPN yourself, but have you considered giving one to your AI agent? But it may never have occurred to you to give your AI agent VPN access, too. Gen Digital's VPN for AI agents\"), from the company behind b"
     },
-    "https://www.infosecurity-magazine.com/news/unchecked-ai-agents-cause/": {
-      "title": "Unchecked AI Agents Cause Cybersecurity Incidents at Two Thirds of Firms - Infosecurity Magazine",
+    "https://gizmodo.com/openai-revolutionary-ai-gadget-is-a-phone-a-stinkin-phone-2000751129": {
+      "title": "OpenAI’s Revolutionary AI Gadget Is… a Phone? A Stinkin’ Phone? - Gizmodo",
       "source": "Tavily",
-      "published": "Tue, 21 Apr 2026 13:00:00 GMT",
-      "description": "Two thirds of organizations have suffered from a cybersecurity incident related to the deployment of AI agents during the last year, research by the Cloud Security Alliance (CSA) has warned. According to research, conducted alongside Token Security, unchecked AI agents operating on corporate network"
+      "published": "Mon, 27 Apr 2026 16:37:23 GMT",
+      "description": "# OpenAI’s Revolutionary AI Gadget Is… a Phone? But it reportedly won’t be just any old glass slab—it’ll be an “AI agent phone.” *An AI AGENT PHONE*. What the hell is an AI agent phone? “Only by fully controlling both the operating system and hardware can OpenAI deliver a comprehensive AI agent serv"
     },
-    "https://spectrum.ieee.org/ai-chip-design": {
-      "title": "AI Agent Designs a RISC-V CPU Core From Scratch - IEEE Spectrum",
+    "https://www.businessinsider.com/manager-oversees-ai-agents-that-help-do-work-2026-4": {
+      "title": "A nontechnical leader says he now manages 37 AI agents and his work has fundamentally changed - Business Insider",
       "source": "Tavily",
-      "published": "Wed, 22 Apr 2026 11:00:01 GMT",
-      "description": "AI Agent Designs a RISC-V CPU Core From Scratch. ## Join the world’s largest professional organization devoted to engineering and applied sciences and get access to this e-book plus all of *IEEE Spectrum’s* articles, archives, PDF downloads, and other benefits. # AI Agent Designs a RISC-V CPU Core F"
+      "published": "Wed, 29 Apr 2026 09:17:01 GMT",
+      "description": "# I built 37 AI agents to help at work. * He manages 37 AI agents that handle tasks like scheduling, analytics, and meeting follow-ups. I was acquired by a larger company, and now I focus on growth operations at ClickUp. When I arrived at this company over a year ago, I wasn't working with any agent"
     },
-    "https://www.csoonline.com/article/4162560/google-drafts-ai-agents-secure-systems-against-ai-hackers.html": {
-      "title": "Google drafts AI agents secure systems against AI hackers - csoonline.com",
+    "https://9to5google.com/2026/05/03/why-would-i-want-an-ai-agent-to-replace-my-phone/": {
+      "title": "Why would I want an AI agent to replace my phone? - 9to5Google",
       "source": "Tavily",
-      "published": "Thu, 23 Apr 2026 00:00:00 GMT",
-      "description": "# Google drafts AI agents secure systems against AI hackers. ## At Cloud Next ‘26, Google introduced AI-driven security agents, Wiz-powered multicloud protection, and new controls to secure the growing AI attack surface. Under this, the search giant announced three new agents in Google Security Oper"
+      "published": "Sun, 03 May 2026 16:00:00 GMT",
+      "description": "# Why would I want an AI agent to replace my phone? Now, word on the street is that OpenAI wants to build its own phone with an experience built around AI agents. *This issue of 9to5Google Weekender is a part of 9to5Google’s rebooted newsletter that highlights the biggest Google stories with added c"
     },
-    "https://hitconsultant.net/2026/04/23/infinitus-studio-no-code-healthcare-ai-agent-builder/": {
-      "title": "Infinitus Systems Launches Studio: No-Code AI Agent Builder for Healthcare Compliance - HIT Consultant",
+    "https://www.finextra.com/newsarticle/47685/lloyds-launches-internal-ai-agent-platform-envoy": {
+      "title": "Lloyds launches internal AI agent platform Envoy - Finextra Research",
       "source": "Tavily",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "description": "# Infinitus Systems Launches “Studio”: The First No-Code AI Agent Builder Purpose-Built for Healthcare Complexity. * Infinitus Studio allows healthcare teams to design and deploy AI agents using a natural-language interface, requiring zero coding knowledge. * A core feature called Agent Response Con"
+      "published": "Fri, 01 May 2026 10:01:00 GMT",
+      "description": "# Lloyds launches internal AI agent platform Envoy. Image 2: Download Finextra Pro. *   Image 3: Download Finextra Pro. 4.   Lloyds launches internal AI agent platform Envoy. # Lloyds launches internal AI agent platform Envoy. Lloyds Banking Group has rolled out a scalable platform to build AI agent"
     },
-    "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/": {
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans - TechCrunch",
+    "https://www.forbes.com/sites/janakirammsv/2026/05/03/google-bets-agents-replace-apps-here-is-what-that-means-for-your-it-stack/": {
+      "title": "Google Bets Agents Replace Apps. Here Is What That Means For Your IT Stack - Forbes",
       "source": "Tavily",
-      "published": "Tue, 21 Apr 2026 19:11:29 GMT",
-      "description": "# AI research lab NeoCognition lands $40M seed to build agents that learn like humans. NeoCognition, a startup Su describes as a research lab developing self-learning AI agents, has just emerged from stealth with $40 million in seed funding. “Today’s agents are generalists,” Su (pictured left) told "
+      "published": "Mon, 04 May 2026 02:18:44 GMT",
+      "description": "*   The Enterprise AI Shortcut: Why Co-Innovation Is Setting A New Speed For Adopting and Operationalizing AI| Paid Program. *   2026 America's Top Wealth Advisors List. *   2026 Best-In-State Top Wealth Advisors List. *   New Era, New Icons: The Creators Redefining High-Quality Storytelling on TikT"
     },
-    "https://cyberscoop.com/google-antigravity-pillar-security-agent-sandbox-escape-remote-code-execution/": {
-      "title": "Vuln in Google’s Antigravity AI agent manager could escape sandbox, give attackers remote code execution - CyberScoop",
+    "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database": {
+      "title": "Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’ - The Guardian",
       "source": "Tavily",
-      "published": "Mon, 20 Apr 2026 21:17:31 GMT",
-      "description": "# Vuln in Google’s Antigravity AI agent manager could escape sandbox, give attackers remote code execution. Google’s highest security setting for its agents runs command operations through a sandbox and throttles network access, but is still vulnerable to prompt injection. This week, researchers at "
+      "published": "Wed, 29 Apr 2026 22:12:49 GMT",
+      "description": "PocketOS was left scrambling after a rogue AI agent deleted swaths of code underpinning its business. It only took nine seconds for an AI coding agent gone rogue to delete a company’s entire production database and its backups, according to its founder. Crane warned that this was a story not just ab"
     },
-    "https://www.infosecurity-magazine.com/news/google-ai-agent-identities-gemini/": {
-      "title": "Google Introduces Unique AI Agent Identities in New Gemini Enterprise Platform - Infosecurity Magazine",
+    "https://www.mediapost.com/publications/article/414299/amazon-biopharma-research-debuts-with-ai-agents.html?edition=": {
+      "title": "Amazon Biopharma Research Debuts With AI Agents 04/15/2026 - MediaPost",
       "source": "Tavily",
-      "published": "Thu, 23 Apr 2026 12:00:00 GMT",
-      "description": "Infosecurity Magazine Home » News » Google Introduces Unique AI Agent Identities in New Gemini Enterprise Platform. # Google Introduces Unique AI Agent Identities in New Gemini Enterprise Platform. Google is betting big on agentic AI and wants professionals to track their AI agents on its new hub Ge"
+      "published": "Tue, 28 Apr 2026 22:42:56 GMT",
+      "description": "The \"Amazon Bio Discovery\" research platform, launched today, does not display ads in its results or search a database, but it does have AI agentic technology and connect to. Launched by Amazon Web Services (AWS) today, it's an AI-powered application for scientists and researchers in. It provides th"
     }
   },
   "social": {}

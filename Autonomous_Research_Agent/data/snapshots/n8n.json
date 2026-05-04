@@ -1,6 +1,6 @@
 {
   "competitor": "n8n",
-  "saved_at": "2026-04-27T05:57:14.102469+00:00",
+  "saved_at": "2026-05-04T06:15:59.386863+00:00",
   "site": {
     "https://n8n.io": {
       "http_status": null,
@@ -22,169 +22,175 @@
     },
     "https://blog.n8n.io": {
       "http_status": 200,
-      "content_hash": "c29458ee1e2864a56f85fbdc2689cc68ee93800d5a4fcf7a1c2a513fcecda426",
+      "content_hash": "3b977d2969f39c6367716184c70e0b005780cefd47fb209a84435735abedd989",
       "title": "Guide, Tutorials, and Updates on Workflow Automation - n8n Blog",
       "meta_description": "Discover insights, tutorials, and updates on workflow automation. Learn how to enhance your automation processes with expert advice and detailed guides.",
       "headings": [
-        "How to evaluate the performance of AI agents?",
+        "Deploy n8n agents that show up as members of the team inside Microsoft apps",
         "Explore by use case",
+        "LLM Tool Calling: How It Works and How To Implement It",
+        "ReAct Agent: Architecture, Implementation, and Tradeoffs",
+        "Build and Update Workflows with n8n's MCP Server",
+        "Human-in-the-Loop vs. Human-on-the-Loop: When To Use Each System",
+        "How to evaluate the performance of AI agents?",
         "Workflow Automation vs. Orchestration: Architectural Differences That Matter at Scale",
         "Orchestration vs. Choreography: Which One to Choose – or Use Both?",
-        "We need re-learn what AI agent development tools are in 2026",
-        "RAG System Architecture: Components, How To Implement, Challenges, and Best Practices",
-        "Production AI Playbook: Deterministic Steps & AI Steps",
-        "Production AI Playbook: Introduction",
-        "Firecrawl + n8n: real-time web data for your AI workflows",
-        "Build Multi-Domain RAG Systems with Specialized Knowledge Bases"
+        "We need re-learn what AI agent development tools are in 2026"
       ],
       "pricing_hints": [],
       "status": "ok"
     }
   },
   "news": {
-    "https://www.smashingapps.com/what-is-an-api/": {
-      "title": "What Is an API? Guide for Everyone (With Real Examples)",
-      "source": "Smashingapps.com",
-      "published": "2026-04-26T04:05:33Z",
-      "description": "What is an API? Plain-English explainer with real everyday examples of how APIs work, why every modern app uses them, and what REST means."
+    "https://www.xda-developers.com/best-microsoft-workflow-tools/": {
+      "title": "Microsoft's best workflow tools are free, but you won't find all of them installed on Windows",
+      "source": "XDA Developers",
+      "published": "2026-05-02T21:32:11Z",
+      "description": "Microsoft's best workflow tools are free, but you won't find all of them installed on Windowsxda-developers.com"
     },
-    "https://github.com/remyyx/workledger": {
-      "title": "Show HN: StudioLedger – Escrow-protected contracts for creators, on XRPL",
-      "source": "Github.com",
-      "published": "2026-04-25T12:33:59Z",
-      "description": "Article URL: https://github.com/remyyx/workledger\nComments URL: https://news.ycombinator.com/item?id=[phone]\nPoints: 2\n# Comments: 0"
-    },
-    "https://pypi.org/project/montaj/": {
-      "title": "montaj added to PyPI",
+    "https://pypi.org/project/decisionguard/": {
+      "title": "decisionguard added to PyPI",
       "source": "Pypi.org",
-      "published": "2026-04-24T16:16:57Z",
-      "description": "Video editing toolkit for AI agents — CLI-first, agent-native, open source"
+      "published": "2026-05-02T11:26:00Z",
+      "description": "DecisionGuard runtime governance SDK for Python agent frameworks"
     },
-    "https://www.productivetemply.com/blog/best-notion-health-tracker-templates": {
-      "title": "15 Best Notion Health Tracker Templates (Free+Paid) in 2026",
-      "source": "Productivetemply.com",
-      "published": "2026-04-24T14:46:21Z",
-      "description": "Discover the best Notion health tracker templates to monitor sleep, fitness, nutrition, and mental wellness. Free and paid options reviewed."
+    "https://www.storagereview.com/news/qnap-introduces-qai-h1290fx-edge-ai-storage-server-for-private-llm-and-generative-ai-workloads": {
+      "title": "QNAP Introduces QAI-h1290FX Edge AI Storage Server for Private LLM and Generative AI Workloads",
+      "source": "Storagereview.com",
+      "published": "2026-05-01T20:48:06Z",
+      "description": "QNAP Systems has introduced the QAI-h1290FX, an edge AI storage server designed for organizations that want to run large language models, retrieval-augmented generation search, and other generative AI workloads on their own infrastructure. The system is desig…"
     },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/7.3.0/": {
-      "title": "wexample-wex-addon-services-platform 7.3.0",
+    "https://pypi.org/project/wexample-wex-addon-services-platform/7.7.1/": {
+      "title": "wexample-wex-addon-services-platform 7.7.1",
       "source": "Pypi.org",
-      "published": "2026-04-24T08:45:45Z",
+      "published": "2026-05-01T19:21:03Z",
       "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://pypi.org/project/job-scraper02/": {
-      "title": "job-scraper02 added to PyPI",
+    "https://news.ycombinator.com/item?id=47976481": {
+      "title": "Show HN: Ramble, iOS voice notes that send webhooks",
+      "source": "Hacker News",
+      "published": "2026-05-01T16:14:49Z",
+      "description": "Hi HN, I'm JPI wanted to automate my voice notes - pocket the phone (or watch), walk and talk, then send the transcript to my agent for processing.\nSo I built Ramble for myself.It's a simple app. An on-ramp into your systems.\nFree. Open source. No accounts.Wh…"
+    },
+    "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/": {
+      "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
+      "source": "Microsoft.com",
+      "published": "2026-05-01T15:00:00Z",
+      "description": "​Today we’re announcing the general availability of Agent 365, plus previews of new capabilities to discover and manage shadow AI agents, including local agents like OpenClaw and Claude Code.\nThe post Microsoft Agent 365, now generally available, expands capa…"
+    },
+    "https://dev.classmethod.jp/articles/a9630c72c0d5007328905206f406606a43875326/": {
+      "title": "n8nの公式 Instance-level MCPをセルフホスト環境で試す",
+      "source": "Classmethod.jp",
+      "published": "2026-05-01T08:10:03Z",
+      "description": "n8nの公式 Instance-level MCPをセルフホスト環境で試す"
+    },
+    "https://pypi.org/project/doubao-tts/": {
+      "title": "doubao-tts added to PyPI",
       "source": "Pypi.org",
-      "published": "2026-04-23T21:20:19Z",
-      "description": "Multi-provider AI job scraper with Streamlit UI and REST API"
+      "published": "2026-04-30T19:30:16Z",
+      "description": "Python client and CLI for Volcengine/ByteDance Doubao seed-tts-2.0 bidirectional streaming TTS."
     },
-    "https://github.com/eoffermann/BigBlueBam": {
-      "title": "Show HN: BigBlueBam, MIT-licensed Work OS where agents are first-class coworkers",
-      "source": "Github.com",
-      "published": "2026-04-22T13:35:54Z",
-      "description": "Hi HN, Eddie here. My project BigBlueBam is a self-hosted, MIT-licensed Work OS with a unified backend with native MCP, \"AI as Users\" rather than bolted-on chat widgets. The deploy script will stand up the full stack (local Docker container or push it to Rail…"
-    },
-    "https://openchannels.fm/scaling-woocommerce-operations-with-automation/": {
-      "title": "Open Channels FM: Scaling WooCommerce Operations with Automation",
-      "source": "Openchannels.fm",
-      "published": "2026-04-22T11:27:37Z",
-      "description": "In this episode, co-hosts discuss WooCommerce automation with expert James Collins, emphasizing how tools like Zapier streamline tasks, reduce errors, and enhance efficiency through practical automation examples and AI advancements."
-    },
-    "https://www.globenewswire.com/news-release/2026/04/22/3278662/0/en/SUSE-and-Industry-Leaders-Deliver-Secure-Agentic-AI-for-Infrastructure-Management.html": {
-      "title": "SUSE and Industry Leaders Deliver Secure Agentic AI for Infrastructure Management",
-      "source": "GlobeNewswire",
-      "published": "2026-04-22T06:00:00Z",
-      "description": "SUSE integrates Model Context Protocol (MCP) to enable secure agentic AI for autonomous Linux and Kubernetes management across data centers and clouds...."
-    },
-    "https://betalist.com/startups/implo-ai": {
-      "title": "implo.ai – Buy ready-to-deploy AI prompts, workflows, agents, and templates",
-      "source": "Betalist.com",
-      "published": "2026-04-20T23:25:00Z",
-      "description": "Buy ready-to-deploy AI prompts, workflows, agents, and templates"
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/7.0.4/": {
-      "title": "wexample-wex-addon-services-platform 7.0.4",
+    "https://pypi.org/project/rein-ai/": {
+      "title": "rein-ai added to PyPI",
       "source": "Pypi.org",
-      "published": "2026-04-20T21:44:02Z",
+      "published": "2026-04-30T16:12:55Z",
+      "description": "Governance layer for autonomous agents: regime detection, circuit breakers, strategy scoring, audit trail"
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/7.6.1/": {
+      "title": "wexample-wex-addon-services-platform 7.6.1",
+      "source": "Pypi.org",
+      "published": "2026-04-30T10:09:53Z",
       "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/7.0.3/": {
-      "title": "wexample-wex-addon-services-platform 7.0.3",
+    "https://pypi.org/project/wexample-wex-addon-services-platform/7.6.0/": {
+      "title": "wexample-wex-addon-services-platform 7.6.0",
       "source": "Pypi.org",
-      "published": "2026-04-20T20:59:12Z",
+      "published": "2026-04-30T07:39:39Z",
       "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/7.0.2/": {
-      "title": "wexample-wex-addon-services-platform 7.0.2",
+    "https://blog.zulip.com/2026/04/27/zulip-12-0-released/": {
+      "title": "Zulip 12.0 Released",
+      "source": "Zulip.com",
+      "published": "2026-04-30T02:00:51Z",
+      "description": "We’re excited to announce the release of Zulip Server 12.0, containing hundreds\nof new features and bug fixes: end-to-end encryption for mobile push\nnotifications, a major upgrade for Docker, configurable image previews, and much\nmore! Almost 5,500 new commit…"
+    },
+    "https://www.malware-traffic-analysis.net/2026/04/22/index.html": {
+      "title": "2026-04-22: Malicious ad leads to ClickFix-style page for macOS malware",
+      "source": "Malware-traffic-analysis.net",
+      "published": "2026-04-29T20:48:00Z",
+      "description": ""
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/7.5.0/": {
+      "title": "wexample-wex-addon-services-platform 7.5.0",
       "source": "Pypi.org",
-      "published": "2026-04-20T20:26:41Z",
+      "published": "2026-04-29T08:21:47Z",
       "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/7.0.1/": {
-      "title": "wexample-wex-addon-services-platform 7.0.1",
-      "source": "Pypi.org",
-      "published": "2026-04-20T19:23:44Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    "https://manual.cochranblock.org": {
+      "title": "Show HN: How to become an Anti-founder, THE MANUAL",
+      "source": "Cochranblock.org",
+      "published": "2026-04-28T17:08:29Z",
+      "description": "The flywheel to getting developers to making Rust binaries so we can collectively get us to deep space exploration packages before I die, Will you join the call? You sick of that blue pill?\n\nComments URL: https://news.ycombinator.com/item?id=[phone]\nPoints: …"
     },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/7.0.0/": {
-      "title": "wexample-wex-addon-services-platform 7.0.0",
-      "source": "Pypi.org",
-      "published": "2026-04-20T12:39:49Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://www.genengnews.com/topics/bioprocessing/ai-wizard-adapts-processes-in-a-self-driving-lab/": {
-      "title": "AI Wizard Adapts Processes in a Self-Driving Lab - Genetic Engineering and Biotechnology News",
+    "https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/": {
+      "title": "‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover - SecurityWeek",
       "source": "Tavily",
-      "published": "Wed, 22 Apr 2026 12:00:43 GMT",
-      "description": "Home Topics Artificial Intelligence AI Wizard Adapts Processes in a Self-Driving Lab. # AI Wizard Adapts Processes in a Self-Driving Lab. Karlsruhe Institute of Technology self-driving lab [Karlsruhe Institute of Technology]. German researchers who run a self-driving laboratory have created an agent"
+      "published": "Thu, 30 Apr 2026 10:06:00 GMT",
+      "description": "### SECURITYWEEK NETWORK:."
     },
-    "https://insurancenewsnet.com/oarticle/warsh-will-now-be-confirmed-as-fed-chair-but-what-does-it-mean": {
-      "title": "Warsh Will Now Be Confirmed as Fed Chair. But What Does it Mean? - InsuranceNewsNet",
+    "https://www.biospace.com/press-releases/niagen-bioscience-adds-olympia-pharmaceuticals-to-503b-compounding-partner-network-for-niagen-plus": {
+      "title": "Niagen Bioscience Adds Olympia Pharmaceuticals to 503B Compounding Partner Network for Niagen Plus - BioSpace",
       "source": "Tavily",
-      "published": "Mon, 27 Apr 2026 05:04:07 GMT",
-      "description": "HomeNow reading INN Insider News. INN Insider News RSSGet our newsletter. 1 minute ago INN Insider News. The Great Game Comes for the Fed. Kevin Warsh’s arrival at the Federal Reserve would mean more than a new chairman. It would mean that the great new game, the struggle over energy, industry, data"
+      "published": "Wed, 29 Apr 2026 01:51:28 GMT",
+      "description": "(NASDAQ: NAGE), the global authority on NAD+ (nicotinamide adenine dinucleotide) with a focus on the science of healthy aging, today announced a new partnership with Olympia Pharmaceuticals, a state-of-the-art U.S. FDA-registered 503B outsourcing facility, to compound and distribute pharmaceutical-g"
     },
-    "https://www.biospace.com/press-releases/sun-pharma-signs-definitive-agreement-to-acquire-organon": {
-      "title": "Sun Pharma signs Definitive Agreement to Acquire Organon - BioSpace",
+    "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/": {
+      "title": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom - SecurityWeek",
       "source": "Tavily",
-      "published": "Mon, 27 Apr 2026 03:21:33 GMT",
-      "description": "We believe Sun Pharma is well positioned to support Organon’s businesses, employees and patients globally, and to further advance our commitment to delivering impactful medicines and solutions.”. INVESTORS AND STOCKHOLDERS OF ORGANON ARE URGED TO READ ALL RELEVANT DOCUMENTS FILED WITH THE SEC, INCLU"
+      "published": "Fri, 01 May 2026 07:33:40 GMT",
+      "description": "**Over 1,800 developers were affected by the Mini Shai-Hulud supply chain attack that hit the PyPi, NPM, and PHP ecosystems over the past two days.**. As part of the supply chain attack, the Lightning Python package versions 2.6.2 and 2.6.3 and the intercom-client NPM package versions 7.0.4 and 7.0."
     },
-    "https://natlawreview.com/press-releases/cubicle-fugitive-co-founder-morgan-macleod-elected-2026-27-international": {
-      "title": "Cubicle Fugitive co-founder Morgan MacLeod elected to 2026–27 international board of Legal Marketing Association - The National Law Review",
+    "https://www.globenewswire.com/news-release/2026/04/30/3284696/0/en/or-royalties-provides-portfolio-update-positive-developments-at-island-gold-dalgaranga-glenburgh-eagle-and-others-announces-strategic-sale-of-osisko-metals-position.html": {
+      "title": "OR Royalties Provides Portfolio Update: Positive - GlobeNewswire",
       "source": "Tavily",
-      "published": "Mon, 27 Apr 2026 03:12:32 GMT",
-      "description": "### Cubicle Fugitive co-founder Morgan MacLeod elected to 2026–27 international board of Legal Marketing Association. ### Cubicle Fugitive co-founder Morgan MacLeod elected to 2026–27 international board of Legal Marketing Association. *Morgan MacLeod, co-founder of Cubicle Fugitive, elected to the "
+      "published": "Thu, 30 Apr 2026 11:00:00 GMT",
+      "description": "Such risk factors include, without limitation, (i) with respect to properties in which OR Royalties holds a royalty, stream or other interest (collectively an “Interest”); risks related to: (a) the operators of the properties, (b) timely development, permitting, construction, commencement of product"
     },
-    "https://www.nba.com/watch/video/dunk-by-adou-thiero?plsrc=nba&collection=2026-playoffs-west-first-round-lal-vs-hou-video": {
-      "title": "Dunk by Adou Thiero - NBA",
+    "https://www.stocktitan.net/sec-filings/AXTA/425-axalta-coating-systems-ltd-business-combination-communication-af248d023d8a.html": {
+      "title": "Axalta (AXTA) Q1: $1.25B sales, $259M EBITDA; $600M synergies from AkzoNobel deal - Stock Titan",
       "source": "Tavily",
-      "published": "Mon, 27 Apr 2026 04:43:55 GMT",
-      "description": "*   Image 33: NBA G-League Icon NBA G League. *   Image 35: NBA 2K Icon NBA 2K League. *   Image 36: NBA BAL Icon Basketball Africa League. *   Image 38: Houston Rockets vs. Los Angeles Lakers - 4th Quarter Highlights01:27#### Houston Rockets vs. Los Angeles Lakers - 4th Quarter Highlights Watch the"
+      "published": "Thu, 30 Apr 2026 21:29:21 GMT",
+      "description": "Important factors that could cause actual results to differ materially from such plans, estimates or expectations include: a condition to the closing of the proposed transaction may not be satisfied; the occurrence of any event that can give rise to termination of the proposed transaction; a regulat"
     },
-    "https://investor.regeneron.com/news-releases/news-release-details/otarmenitm-lunsotogene-parvec-cwha-approved-fda-first-and-only/": {
-      "title": "Otarmeni™ (lunsotogene parvec-cwha) Approved by FDA as First and Only Gene Therapy for Genetic Hearing Loss; Regeneron to Provide Otarmeni for Free in the U.S. - Regeneron",
+    "https://www.infosecurity-magazine.com/news/ai-npm-dependency-targets-crypto/": {
+      "title": "Malicious npm Dependency Linked to AI Assisted Commit Targets Crypto W - Infosecurity Magazine",
       "source": "Tavily",
-      "published": "Thu, 23 Apr 2026 16:40:00 GMT",
-      "description": "These statements concern, and these risks and uncertainties include, among others, the nature, timing, and possible success and therapeutic applications of products marketed or otherwise commercialized by Regeneron and/or its collaborators or licensees (collectively, “Regeneron’s Products”) and prod"
+      "published": "Wed, 29 Apr 2026 14:00:00 GMT",
+      "description": "Infosecurity Magazine Home » News » Malicious npm Dependency Linked to AI Assisted Commit Targets Crypto Wallets. # Malicious npm Dependency Linked to AI Assisted Commit Targets Crypto Wallets. A malicious npm dependency linked to an AI-assisted code commit has been found stealing sensitive data and"
     },
-    "https://nypost.com/2026/04/22/world-news/searchers-find-body-of-1-of-6-missing-crew-members-from-ship-that-overturned-during-typhoon-near-northern-mariana-islands/": {
-      "title": "Searchers find body of 1 of 6 missing crew members from ship that overturned during typhoon - New York Post",
+    "https://markets.ft.com/data/announce/detail?dockey=600-202605010630PR_NEWS_USPRX____DE48145-1": {
+      "title": "ONEMAIN HOLDINGS, INC. REPORTS FIRST QUARTER 2026 RESULTS – Company Announcement - Financial Times",
       "source": "Tavily",
-      "published": "Wed, 22 Apr 2026 17:10:15 GMT",
-      "description": "*   Image 35: US Navy destroyer 'blows a hole' through Iranian cargo ship that tried to break Hormuz blockade: Trump This story has 2.4K comments. If you do not wish for us or our third party partners such as advertising networks and social media platforms to sell or share your personal information "
+      "published": "Fri, 01 May 2026 10:30:00 GMT",
+      "description": "Important factors that could cause actual results, performance, or achievements to differ materially from those expressed in or implied by forward-looking statements include, without limitation, the following: adverse changes and volatility in general economic conditions, including the interest rate"
     },
-    "https://www.stocktitan.net/sec-filings/IIPR/def-14a-innovative-industrial-properties-inc-definitive-proxy-stateme-b750bc085058.html": {
-      "title": "Innovative Industrial (NYSE: IIPR) details 2025 results and new 2026 incentive plan - Stock Titan",
+    "https://www.biospace.com/press-releases/omnicell-announces-first-quarter-2026-financial-results": {
+      "title": "Omnicell Announces First Quarter 2026 Financial Results - BioSpace",
       "source": "Tavily",
-      "published": "Wed, 22 Apr 2026 20:34:58 GMT",
-      "description": "If (i) the Company shall at any time be involved in a merger or other transaction in which the Shares are changed or exchanged; (ii) the Company shall subdivide or combine the Shares or the Company shall declare a dividend payable in Shares, other securities (other than stock purchase rights issued "
+      "published": "Tue, 28 Apr 2026 11:29:22 GMT",
+      "description": "These risks and uncertainties include, among other things, (i) unfavorable general economic and market conditions, including the impact and duration of inflationary pressures, (ii) Omnicell’s ability to take advantage of growth opportunities and develop and commercialize new solutions and enhance ex"
     },
-    "https://www.skynews.com.au/world-news/global-affairs/trump-teases-king-charles-visit-as-whcd-shooting-shakes-washington/video/b80506c2ca81cff06af566a60c4de0bd": {
-      "title": "Trump teases King Charles visit as WHCD shooting shakes Washington - Sky News Australia",
+    "https://pagesix.com/2026/05/03/photos/inside-teyana-taylors-star-studded-pre-met-gala-celebration-in-nyc/": {
+      "title": "Inside Teyana Taylor’s Star-Studded Pre-Met Gala Celebration in NYC - Page Six",
       "source": "Tavily",
-      "published": "Mon, 27 Apr 2026 05:33:43 GMT",
-      "description": "# No Cookies. For more information see our Cookie Policy. To enable cookies, follow the instructions for your browser below. There is a specific issue with the Facebook in-app browser intermittently making requests to websites without cookies that had previously been set. 1. Open the settings menu b"
+      "published": "Sun, 03 May 2026 23:05:19 GMT",
+      "description": "## Jeff Bezos and Lauren Sánchez throw star-studded pre-Met Gala party with Nicole Kidman, Kendall Jenner and more. Image 18: Jeff Bezos and Lauren Sánchez throw star-studded pre-Met Gala party with Nicole Kidman, Kendall Jenner and more. You can set your browser to block or alert you about these co"
+    },
+    "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/350-tsx/or/202299-or-royalties-provides-portfolio-update-positive-developments-at-island-gold-dalgaranga-glenburgh-eagle-and-others-announces-strategic-sale-of-osisko-metals-position.html": {
+      "title": "OR Royalties Provides Portfolio Update: Positive Developments at Island Gold, Dalgaranga, Glenburgh, Eagle and Others; Announces Strategic Sale of Osisko Metals Position - Junior Mining Network",
+      "source": "Tavily",
+      "published": "Thu, 30 Apr 2026 11:04:03 GMT",
+      "description": "Such risk factors include, without limitation, (i) with respect to properties in which OR Royalties holds a royalty, stream or other interest (collectively an “Interest”); risks related to: (a) the operators of the properties, (b) timely development, permitting, construction, commencement of product"
     }
   },
   "social": {
@@ -194,17 +200,17 @@
       "published": "",
       "content": "Workflow automation for technical teams to build AI solutions that integrate with any app or API at no-code speed and code flexibility. Open and self-hostable."
     },
-    "https://x.com/n8n_io/status/2016436170092089844": {
-      "platform": "twitter",
-      "title": "n8n.io",
-      "published": "",
-      "content": "With Chat Hub, you can expose powerful n8n AI agents to Sales, Support, Marketing and more without them needing to understand nodes or JSON. ✓"
-    },
     "https://x.com/n8n_io/status/1950828880127746464": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
       "content": "Our Ambassador Inyoung Lee put together a very handy n8n Cheat Sheet covering triggers, expressions, nodes, AI agents, HTTP requests and more."
+    },
+    "https://x.com/n8n_io/status/2016436170092089844": {
+      "platform": "twitter",
+      "title": "n8n.io",
+      "published": "",
+      "content": "With Chat Hub, you can expose powerful n8n AI agents to Sales, Support, Marketing and more without them needing to understand nodes or JSON. ✓"
     },
     "https://x.com/n8n_io/status/1937163866254803309": {
       "platform": "twitter",
@@ -212,29 +218,29 @@
       "published": "",
       "content": "This workflow by Nasser takes the title, subtitles and some other meta information from your YouTube videos and uses AI to generate a full"
     },
-    "https://x.com/n8n_io/status/1928360890635534567": {
-      "platform": "twitter",
-      "title": "n8n.io",
-      "published": "",
-      "content": "Discover over 2,000+ freely downloadable templates in our workflow library! Whether you need an AI agent to generate your weekly TPS reports"
-    },
-    "https://x.com/n8n_io/highlights?lang=el": {
-      "platform": "twitter",
-      "title": "n8n.io (@n8n_io) / Highlights / X",
-      "published": "",
-      "content": "The n8n Forum is a community space to ask questions, collaborate, share workflows, and connects with other builders. If you enjoy helping others, you can also"
-    },
     "https://x.com/n8n_io/status/1952376515032715669": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
       "content": "What's your take on this n8n physical button? @RoniBandini built a simple hardware button that triggers workflows instantly, no phone or"
     },
+    "https://x.com/n8n_io/status/2029900720984437235": {
+      "platform": "twitter",
+      "title": "The n8n Forum is a community space to ask questions, collaborate ...",
+      "published": "",
+      "content": "The n8n Forum is a community space to ask questions, collaborate, share workflows, and connects with other builders. If you enjoy helping others,"
+    },
     "https://x.com/n8n_io/status/1955230317855252732": {
       "platform": "twitter",
       "title": "A new n8n cheat sheet is out. After the great response to the one we ...",
       "published": "",
       "content": "A new n8n cheat sheet is out. After the great response to the one we shared a couple of weeks ago, here's another one from our community,"
+    },
+    "https://x.com/n8n_io/status/2041569006444810633": {
+      "platform": "twitter",
+      "title": "Etienne Lescot built n8n as Code, a tool that lets you create n8n ...",
+      "published": "",
+      "content": "Etienne Lescot built n8n as Code, a tool that lets you create n8n workflows directly in Cursor, VS Code, Claude Code, or OpenClaw."
     }
   }
 }
