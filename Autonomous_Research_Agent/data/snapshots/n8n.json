@@ -1,6 +1,6 @@
 {
   "competitor": "n8n",
-  "saved_at": "2026-05-04T06:15:59.386863+00:00",
+  "saved_at": "2026-05-11T06:40:56.834614+00:00",
   "site": {
     "https://n8n.io": {
       "http_status": null,
@@ -22,175 +22,145 @@
     },
     "https://blog.n8n.io": {
       "http_status": 200,
-      "content_hash": "3b977d2969f39c6367716184c70e0b005780cefd47fb209a84435735abedd989",
+      "content_hash": "b9dbdd0bc771c56a70676eda3d6ef7dc37040405d8953f63b3831de65d024b70",
       "title": "Guide, Tutorials, and Updates on Workflow Automation - n8n Blog",
       "meta_description": "Discover insights, tutorials, and updates on workflow automation. Learn how to enhance your automation processes with expert advice and detailed guides.",
       "headings": [
-        "Deploy n8n agents that show up as members of the team inside Microsoft apps",
+        "AI Agent Architecture Patterns: From Prototype To Production",
         "Explore by use case",
+        "Building Better Agents: LLM Memory Types and Trade-Offs",
+        "Advanced RAG: Data Cleaning and Retrieval Techniques",
+        "Production AI Playbook: Evaluation and Monitoring",
+        "Deploy n8n agents that show up as members of the team inside Microsoft apps",
         "LLM Tool Calling: How It Works and How To Implement It",
         "ReAct Agent: Architecture, Implementation, and Tradeoffs",
         "Build and Update Workflows with n8n's MCP Server",
-        "Human-in-the-Loop vs. Human-on-the-Loop: When To Use Each System",
-        "How to evaluate the performance of AI agents?",
-        "Workflow Automation vs. Orchestration: Architectural Differences That Matter at Scale",
-        "Orchestration vs. Choreography: Which One to Choose – or Use Both?",
-        "We need re-learn what AI agent development tools are in 2026"
+        "Human-in-the-Loop vs. Human-on-the-Loop: When To Use Each System"
       ],
       "pricing_hints": [],
       "status": "ok"
     }
   },
   "news": {
-    "https://www.xda-developers.com/best-microsoft-workflow-tools/": {
-      "title": "Microsoft's best workflow tools are free, but you won't find all of them installed on Windows",
-      "source": "XDA Developers",
-      "published": "2026-05-02T21:32:11Z",
-      "description": "Microsoft's best workflow tools are free, but you won't find all of them installed on Windowsxda-developers.com"
+    "https://prtimes.jp/main/html/rd/p/000000005.000149324.html": {
+      "title": "【第1期生10名募集】PM・コンサル経験者向け「AI駆動バックオフィス実戦プログラム」を提供開始",
+      "source": "Prtimes.jp",
+      "published": "2026-05-07T23:50:00Z",
+      "description": "[株式会社管理のプロ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/[phone]/5/[phone]-5-3363dd9c0a4d303a1dc5f[phone]a939c-2136x1190.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am..."
     },
-    "https://pypi.org/project/decisionguard/": {
-      "title": "decisionguard added to PyPI",
-      "source": "Pypi.org",
-      "published": "2026-05-02T11:26:00Z",
-      "description": "DecisionGuard runtime governance SDK for Python agent frameworks"
+    "https://www.asianefficiency.com/systems/before-you-build-an-ai-agent-do-this-first-most-people-skip-it/": {
+      "title": "Before You Build an AI Agent, Do This First (Most People Skip It)",
+      "source": "Asianefficiency.com",
+      "published": "2026-05-07T21:00:36Z",
+      "description": "A paper sketch catches most of that before line one of the build. You don’t catch those until you’ve been trusting the agent for two weeks."
     },
-    "https://www.storagereview.com/news/qnap-introduces-qai-h1290fx-edge-ai-storage-server-for-private-llm-and-generative-ai-workloads": {
-      "title": "QNAP Introduces QAI-h1290FX Edge AI Storage Server for Private LLM and Generative AI Workloads",
-      "source": "Storagereview.com",
-      "published": "2026-05-01T20:48:06Z",
-      "description": "QNAP Systems has introduced the QAI-h1290FX, an edge AI storage server designed for organizations that want to run large language models, retrieval-augmented generation search, and other generative AI workloads on their own infrastructure. The system is desig…"
+    "https://github.com/ajensenwaud/recursant": {
+      "title": "Show HN: Recursant, \"Istio for agents\", is now open source",
+      "source": "Github.com",
+      "published": "2026-05-06T19:19:57Z",
+      "description": "Article URL: https://github.com/ajensenwaud/recursant\nComments URL: https://news.ycombinator.com/item?id=[phone]\nPoints: 3\n# Comments: 0"
     },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/7.7.1/": {
-      "title": "wexample-wex-addon-services-platform 7.7.1",
-      "source": "Pypi.org",
-      "published": "2026-05-01T19:21:03Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    "https://wptavern.com/podcast/215-matt-schwartz-on-exploring-ais-impact-in-wordpress-agencies-part-1": {
+      "title": "#215 – Matt Schwartz on Exploring AI’s Impact in WordPress Agencies (Part 1)",
+      "source": "Wptavern.com",
+      "published": "2026-05-06T14:00:00Z",
+      "description": "Nathan Wrigley and Matt Schwartz discuss the evolving impact of AI on WordPress agencies, focusing on how AI can streamline agency processes beyond just building websites. They explore the importance of revisiting workflows, creating AI vision documents, leve…"
     },
-    "https://news.ycombinator.com/item?id=47976481": {
-      "title": "Show HN: Ramble, iOS voice notes that send webhooks",
+    "https://www.recursant.ai/": {
+      "title": "Show HN: Recursant – service mesh for governing AI agents",
+      "source": "Recursant.ai",
+      "published": "2026-05-06T13:57:24Z",
+      "description": "Hello,I have just released Recursant to the public. I have been working on it for a while. It is a control plane for governing AI agents across stacks. It provides full observability, guardrails, and control on the network level by routing all traffic through…"
+    },
+    "https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley": {
+      "title": "The AI operator: Biggest role in Silicon Valley",
+      "source": "Rishgupta.com",
+      "published": "2026-05-06T09:00:07Z",
+      "description": "Before electricity was the steam engine. It was located in a separate floor/building but with a central shaft transferring energy required for work. All the work had to be concentrated around this line. Initially with electricity, people changed the source fr…"
+    },
+    "https://news.ycombinator.com/item?id=48022411": {
+      "title": "Show HN: Probus, AI vuln scanner (PRs merged in Vercel AI SDK, n8n, LangGraph)",
       "source": "Hacker News",
-      "published": "2026-05-01T16:14:49Z",
-      "description": "Hi HN, I'm JPI wanted to automate my voice notes - pocket the phone (or watch), walk and talk, then send the transcript to my agent for processing.\nSo I built Ramble for myself.It's a simple app. An on-ramp into your systems.\nFree. Open source. No accounts.Wh…"
+      "published": "2026-05-05T13:39:05Z",
+      "description": "Hi HN,\nI've been running this on my own dependency tree for the past few months. Probus is a vulnerability scanner that uses three agents. One picks the files worth deep-scanning. One writes raw findings. The third reads the code on its own and rejects any fi…"
     },
-    "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/": {
-      "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
-      "source": "Microsoft.com",
-      "published": "2026-05-01T15:00:00Z",
-      "description": "​Today we’re announcing the general availability of Agent 365, plus previews of new capabilities to discover and manage shadow AI agents, including local agents like OpenClaw and Claude Code.\nThe post Microsoft Agent 365, now generally available, expands capa…"
+    "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html": {
+      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
+      "source": "Internet",
+      "published": "2026-05-05T10:30:00Z",
+      "description": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of …"
     },
-    "https://dev.classmethod.jp/articles/a9630c72c0d5007328905206f406606a43875326/": {
-      "title": "n8nの公式 Instance-level MCPをセルフホスト環境で試す",
-      "source": "Classmethod.jp",
-      "published": "2026-05-01T08:10:03Z",
-      "description": "n8nの公式 Instance-level MCPをセルフホスト環境で試す"
+    "https://n8n.io/workflows/15350-generate-two-host-pdf-podcasts-with-gpt-5-smallest-ai-and-gmail/": {
+      "title": "Show HN: PDF to AI podcast in 9 Indian languages",
+      "source": "N8n.io",
+      "published": "2026-05-04T12:31:21Z",
+      "description": "Article URL: https://n8n.io/workflows/15350-generate-two-host-pdf-podcasts-with-gpt-5-smallest-ai-and-gmail/\nComments URL: https://news.ycombinator.com/item?id=[phone]\nPoints: 2\n# Comments: 0"
     },
-    "https://pypi.org/project/doubao-tts/": {
-      "title": "doubao-tts added to PyPI",
+    "https://pypi.org/project/marmory/": {
+      "title": "marmory added to PyPI",
       "source": "Pypi.org",
-      "published": "2026-04-30T19:30:16Z",
-      "description": "Python client and CLI for Volcengine/ByteDance Doubao seed-tts-2.0 bidirectional streaming TTS."
+      "published": "2026-05-04T03:24:44Z",
+      "description": "Secure local file access gateway for MCP-enabled AI assistants."
     },
-    "https://pypi.org/project/rein-ai/": {
-      "title": "rein-ai added to PyPI",
-      "source": "Pypi.org",
-      "published": "2026-04-30T16:12:55Z",
-      "description": "Governance layer for autonomous agents: regime detection, circuit breakers, strategy scoring, audit trail"
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/7.6.1/": {
-      "title": "wexample-wex-addon-services-platform 7.6.1",
-      "source": "Pypi.org",
-      "published": "2026-04-30T10:09:53Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/7.6.0/": {
-      "title": "wexample-wex-addon-services-platform 7.6.0",
-      "source": "Pypi.org",
-      "published": "2026-04-30T07:39:39Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://blog.zulip.com/2026/04/27/zulip-12-0-released/": {
-      "title": "Zulip 12.0 Released",
-      "source": "Zulip.com",
-      "published": "2026-04-30T02:00:51Z",
-      "description": "We’re excited to announce the release of Zulip Server 12.0, containing hundreds\nof new features and bug fixes: end-to-end encryption for mobile push\nnotifications, a major upgrade for Docker, configurable image previews, and much\nmore! Almost 5,500 new commit…"
-    },
-    "https://www.malware-traffic-analysis.net/2026/04/22/index.html": {
-      "title": "2026-04-22: Malicious ad leads to ClickFix-style page for macOS malware",
-      "source": "Malware-traffic-analysis.net",
-      "published": "2026-04-29T20:48:00Z",
-      "description": ""
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/7.5.0/": {
-      "title": "wexample-wex-addon-services-platform 7.5.0",
-      "source": "Pypi.org",
-      "published": "2026-04-29T08:21:47Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://manual.cochranblock.org": {
-      "title": "Show HN: How to become an Anti-founder, THE MANUAL",
-      "source": "Cochranblock.org",
-      "published": "2026-04-28T17:08:29Z",
-      "description": "The flywheel to getting developers to making Rust binaries so we can collectively get us to deep space exploration packages before I die, Will you join the call? You sick of that blue pill?\n\nComments URL: https://news.ycombinator.com/item?id=[phone]\nPoints: …"
-    },
-    "https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/": {
-      "title": "‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover - SecurityWeek",
+    "https://www.tipranks.com/news/novo-nordisk-stock-nvo-rises-as-wegovy-sales-drive-massive-q1-beat": {
+      "title": "Novo Nordisk Earnings: NVO Stock Rises as Wegovy Sales Drive Massive Q1 Beat - TipRanks",
       "source": "Tavily",
-      "published": "Thu, 30 Apr 2026 10:06:00 GMT",
-      "description": "### SECURITYWEEK NETWORK:."
+      "published": "Wed, 06 May 2026 14:27:16 GMT",
+      "description": "# Novo Nordisk Earnings: NVO Stock Rises as Wegovy Sales Drive Massive Q1 Beat - TipRanks.com. Trade on TipRanks with TradeStation Receive TipRanks ULTIMATE Access. Top Analyst Stocks PopularTop Smart Score Stocks PopularAI Analyst Top Stocks NewTop Insiders StocksMarket MoversTipRanks 50 IndexAI St"
     },
-    "https://www.biospace.com/press-releases/niagen-bioscience-adds-olympia-pharmaceuticals-to-503b-compounding-partner-network-for-niagen-plus": {
-      "title": "Niagen Bioscience Adds Olympia Pharmaceuticals to 503B Compounding Partner Network for Niagen Plus - BioSpace",
+    "https://nypost.com/video/watch-popes-reaction-when-rubio-gifts-him-a-crystal-football/": {
+      "title": "Watch Pope’s reaction when Rubio gifts him a crystal football (Video) - New York Post",
       "source": "Tavily",
-      "published": "Wed, 29 Apr 2026 01:51:28 GMT",
-      "description": "(NASDAQ: NAGE), the global authority on NAD+ (nicotinamide adenine dinucleotide) with a focus on the science of healthy aging, today announced a new partnership with Olympia Pharmaceuticals, a state-of-the-art U.S. FDA-registered 503B outsourcing facility, to compound and distribute pharmaceutical-g"
+      "published": "Thu, 07 May 2026 15:58:26 GMT",
+      "description": "Image 2: Watch Pope’s reaction when Rubio gifts him a crystal football. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do "
     },
-    "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/": {
-      "title": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom - SecurityWeek",
+    "https://nypost.com/video/did-a-k9-try-to-warn-its-handler-about-whcd-shooting-suspect-cole-allen/": {
+      "title": "Did a K9 try to warn its handler about WHCD shooting suspect Cole Allen? (Video) - New York Post",
       "source": "Tavily",
-      "published": "Fri, 01 May 2026 07:33:40 GMT",
-      "description": "**Over 1,800 developers were affected by the Mini Shai-Hulud supply chain attack that hit the PyPi, NPM, and PHP ecosystems over the past two days.**. As part of the supply chain attack, the Lightning Python package versions 2.6.2 and 2.6.3 and the intercom-client NPM package versions 7.0.4 and 7.0."
+      "published": "Wed, 06 May 2026 19:10:30 GMT",
+      "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
     },
-    "https://www.globenewswire.com/news-release/2026/04/30/3284696/0/en/or-royalties-provides-portfolio-update-positive-developments-at-island-gold-dalgaranga-glenburgh-eagle-and-others-announces-strategic-sale-of-osisko-metals-position.html": {
-      "title": "OR Royalties Provides Portfolio Update: Positive - GlobeNewswire",
+    "https://nypost.com/video/how-serious-is-og-anunobys-hamstring-strain-the-injury-report/": {
+      "title": "How serious is OG Anunoby’s hamstring strain? | The Injury Report (Video) - New York Post",
       "source": "Tavily",
-      "published": "Thu, 30 Apr 2026 11:00:00 GMT",
-      "description": "Such risk factors include, without limitation, (i) with respect to properties in which OR Royalties holds a royalty, stream or other interest (collectively an “Interest”); risks related to: (a) the operators of the properties, (b) timely development, permitting, construction, commencement of product"
+      "published": "Thu, 07 May 2026 19:30:00 GMT",
+      "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
     },
-    "https://www.stocktitan.net/sec-filings/AXTA/425-axalta-coating-systems-ltd-business-combination-communication-af248d023d8a.html": {
-      "title": "Axalta (AXTA) Q1: $1.25B sales, $259M EBITDA; $600M synergies from AkzoNobel deal - Stock Titan",
+    "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html": {
+      "title": "MetInfo CMS CVE-[phone] Exploited for Remote Code Execution Attacks - The Hacker News",
       "source": "Tavily",
-      "published": "Thu, 30 Apr 2026 21:29:21 GMT",
-      "description": "Important factors that could cause actual results to differ materially from such plans, estimates or expectations include: a condition to the closing of the proposed transaction may not be satisfied; the occurrence of any event that can give rise to termination of the proposed transaction; a regulat"
+      "published": "Tue, 05 May 2026 11:56:00 GMT",
+      "description": "# MetInfo CMS CVE-[phone] Exploited for Remote Code Execution Attacks. Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is **CVE-[phone]** "
     },
-    "https://www.infosecurity-magazine.com/news/ai-npm-dependency-targets-crypto/": {
-      "title": "Malicious npm Dependency Linked to AI Assisted Commit Targets Crypto W - Infosecurity Magazine",
+    "https://www.fiercehealthcare.com/node?blog=9&title=how_to_turnaround_a_hospital&%3Bmore=1&c=1&tb=1&pb=1&page=17": {
+      "title": "| Fierce Healthcare - Fierce Healthcare",
       "source": "Tavily",
-      "published": "Wed, 29 Apr 2026 14:00:00 GMT",
-      "description": "Infosecurity Magazine Home » News » Malicious npm Dependency Linked to AI Assisted Commit Targets Crypto Wallets. # Malicious npm Dependency Linked to AI Assisted Commit Targets Crypto Wallets. A malicious npm dependency linked to an AI-assisted code commit has been found stealing sensitive data and"
+      "published": "Thu, 07 May 2026 20:53:47 GMT",
+      "description": "# | Fierce Healthcare. Image 2Image 3Image 4Image 5Image 6Image 7Image 8Image 9Image 10Image 11Image 12Image 13Image 14Image 15. #### Real Chemistry. Image 17: Garrison Well's profile photo. #### Garrison Wells. #### Gainwell Technologies. #### Medtronic. #### Emmy Lucas. #### Amy Littlefield. #### "
     },
-    "https://markets.ft.com/data/announce/detail?dockey=600-202605010630PR_NEWS_USPRX____DE48145-1": {
-      "title": "ONEMAIN HOLDINGS, INC. REPORTS FIRST QUARTER 2026 RESULTS – Company Announcement - Financial Times",
+    "https://www.espn.com/college-softball/playbyplay/_/gameId/401872453": {
+      "title": "Marist vs. Texas Tech (May 15, 2026) Live Score - ESPN",
       "source": "Tavily",
-      "published": "Fri, 01 May 2026 10:30:00 GMT",
-      "description": "Important factors that could cause actual results, performance, or achievements to differ materially from those expressed in or implied by forward-looking statements include, without limitation, the following: adverse changes and volatility in general economic conditions, including the interest rate"
+      "published": "Mon, 11 May 2026 04:57:01 GMT",
+      "description": "Texas Tech (May 15, 2026) Live Score - ESPN. # Marist Red Foxes @ Texas Tech Red Raiders. Some US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. If you are logg"
     },
-    "https://www.biospace.com/press-releases/omnicell-announces-first-quarter-2026-financial-results": {
-      "title": "Omnicell Announces First Quarter 2026 Financial Results - BioSpace",
+    "https://www.espn.com/college-softball/boxscore/_/gameId/401870464": {
+      "title": "Stetson vs. Central Arkansas (May 9, 2026) Box Score - ESPN",
       "source": "Tavily",
-      "published": "Tue, 28 Apr 2026 11:29:22 GMT",
-      "description": "These risks and uncertainties include, among other things, (i) unfavorable general economic and market conditions, including the impact and duration of inflationary pressures, (ii) Omnicell’s ability to take advantage of growth opportunities and develop and commercialize new solutions and enhance ex"
+      "published": "Sat, 09 May 2026 11:46:35 GMT",
+      "description": "Central Arkansas (May 9, 2026) Live Score - ESPN. # Central Arkansas Bears vs Stetson Hatters. Some US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. If you are"
     },
-    "https://pagesix.com/2026/05/03/photos/inside-teyana-taylors-star-studded-pre-met-gala-celebration-in-nyc/": {
-      "title": "Inside Teyana Taylor’s Star-Studded Pre-Met Gala Celebration in NYC - Page Six",
+    "https://www.espn.com/college-softball/boxscore/_/gameId/401870450": {
+      "title": "TBD vs. Howard (May 9, 2026) Live Score - ESPN",
       "source": "Tavily",
-      "published": "Sun, 03 May 2026 23:05:19 GMT",
-      "description": "## Jeff Bezos and Lauren Sánchez throw star-studded pre-Met Gala party with Nicole Kidman, Kendall Jenner and more. Image 18: Jeff Bezos and Lauren Sánchez throw star-studded pre-Met Gala party with Nicole Kidman, Kendall Jenner and more. You can set your browser to block or alert you about these co"
+      "published": "Sat, 09 May 2026 12:11:15 GMT",
+      "description": "Howard (May 9, 2026) Live Score - ESPN. * Image 4SAM 0 * Image 5UNCG 1. * Image 6CARK 0 * Image 7STET 0. Some US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. "
     },
-    "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/350-tsx/or/202299-or-royalties-provides-portfolio-update-positive-developments-at-island-gold-dalgaranga-glenburgh-eagle-and-others-announces-strategic-sale-of-osisko-metals-position.html": {
-      "title": "OR Royalties Provides Portfolio Update: Positive Developments at Island Gold, Dalgaranga, Glenburgh, Eagle and Others; Announces Strategic Sale of Osisko Metals Position - Junior Mining Network",
+    "https://awfulannouncing.com/espn/skip-bayless-first-take-return-anti-nostalgia-stephen-a-smith.html": {
+      "title": "Skip Bayless’s ‘First Take’ return is anti-nostalgia - Awful Announcing",
       "source": "Tavily",
-      "published": "Thu, 30 Apr 2026 11:04:03 GMT",
-      "description": "Such risk factors include, without limitation, (i) with respect to properties in which OR Royalties holds a royalty, stream or other interest (collectively an “Interest”); risks related to: (a) the operators of the properties, (b) timely development, permitting, construction, commencement of product"
+      "published": "Thu, 07 May 2026 15:00:45 GMT",
+      "description": "# Skip Bayless’s ‘First Take’ return is anti-nostalgia. > There is no wistful or sentimental yearning for a return to the Embrace Debate era. *This originally appeared in Thursday morning’s edition of The A Block, Awful Announcing’s daily newsletter with the latest sports media news, commentary, and"
     }
   },
   "social": {
@@ -200,17 +170,17 @@
       "published": "",
       "content": "Workflow automation for technical teams to build AI solutions that integrate with any app or API at no-code speed and code flexibility. Open and self-hostable."
     },
-    "https://x.com/n8n_io/status/1950828880127746464": {
-      "platform": "twitter",
-      "title": "n8n.io",
-      "published": "",
-      "content": "Our Ambassador Inyoung Lee put together a very handy n8n Cheat Sheet covering triggers, expressions, nodes, AI agents, HTTP requests and more."
-    },
     "https://x.com/n8n_io/status/2016436170092089844": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
       "content": "With Chat Hub, you can expose powerful n8n AI agents to Sales, Support, Marketing and more without them needing to understand nodes or JSON. ✓"
+    },
+    "https://x.com/n8n_io/status/1950828880127746464": {
+      "platform": "twitter",
+      "title": "n8n.io",
+      "published": "",
+      "content": "Our Ambassador Inyoung Lee put together a very handy n8n Cheat Sheet covering triggers, expressions, nodes, AI agents, HTTP requests and more."
     },
     "https://x.com/n8n_io/status/1937163866254803309": {
       "platform": "twitter",
@@ -224,23 +194,23 @@
       "published": "",
       "content": "What's your take on this n8n physical button? @RoniBandini built a simple hardware button that triggers workflows instantly, no phone or"
     },
-    "https://x.com/n8n_io/status/2029900720984437235": {
-      "platform": "twitter",
-      "title": "The n8n Forum is a community space to ask questions, collaborate ...",
-      "published": "",
-      "content": "The n8n Forum is a community space to ask questions, collaborate, share workflows, and connects with other builders. If you enjoy helping others,"
-    },
     "https://x.com/n8n_io/status/1955230317855252732": {
       "platform": "twitter",
       "title": "A new n8n cheat sheet is out. After the great response to the one we ...",
       "published": "",
       "content": "A new n8n cheat sheet is out. After the great response to the one we shared a couple of weeks ago, here's another one from our community,"
     },
-    "https://x.com/n8n_io/status/2041569006444810633": {
+    "https://x.com/n8n_io/status/1935351988218167766": {
       "platform": "twitter",
-      "title": "Etienne Lescot built n8n as Code, a tool that lets you create n8n ...",
+      "title": "n8n.io",
       "published": "",
-      "content": "Etienne Lescot built n8n as Code, a tool that lets you create n8n workflows directly in Cursor, VS Code, Claude Code, or OpenClaw."
+      "content": "Steps to get more modular workflows: 1. Select a set of connected nodes 2. Right-click and select Convert to sub-workflow (or Alt + X) 3. Watch magic happen."
+    },
+    "https://x.com/n8n_io/status/1993722497640894485": {
+      "platform": "twitter",
+      "title": "Your entire n8n instance is now MCP-ready. Access your workflows ...",
+      "published": "",
+      "content": "Give it a try with n8n version 1.121.2 and your go-to MCP-enabled platform. Watch the full video here: bit.ly/4adNVls."
     }
   }
 }

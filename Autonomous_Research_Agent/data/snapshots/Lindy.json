@@ -1,6 +1,6 @@
 {
   "competitor": "Lindy",
-  "saved_at": "2026-05-04T06:16:03.512990+00:00",
+  "saved_at": "2026-05-11T06:41:02.254161+00:00",
   "site": {
     "https://www.lindy.ai": {
       "http_status": null,
@@ -31,65 +31,59 @@
     }
   },
   "news": {
-    "https://www.nature.com/articles/s41592-026-03088-9": {
-      "title": "Call your AI agent - Nature",
+    "https://www.globenewswire.com/news-release/2026/05/07/3290213/0/en/GetDandy-Launches-Autonomous-AI-Workforce-for-Local-Businesses-Delivering-24-7-Customer-Engagement-With-No-Setup-Required.html": {
+      "title": "GetDandy Launches Autonomous AI Workforce for Local - GlobeNewswire",
       "source": "Tavily",
-      "published": "Fri, 01 May 2026 11:08:06 GMT",
-      "description": "# Call your AI agent. *Nature Methods* (2026)Cite this article. AI agent systems are now being built on top of large language models, and they can conduct autonomous analyses. Sign in or create an account. *Cell* **187**, 6125–6151 (2024). Article  CAS  PubMed   Google Scholar. ACM* **9**, 36–45 (19"
+      "published": "Thu, 07 May 2026 14:00:00 GMT",
+      "description": "# GetDandy Launches Autonomous AI Workforce for Local Businesses, Delivering 24/7 Customer Engagement With No Setup Required. IRVINE, Calif., May 07, 2026 (GLOBE NEWSWIRE) -- GetDandy today announced the launch of its autonomous AI workforce, a system designed to handle every customer interaction fo"
     },
-    "https://www.mediapost.com/publications/article/414418/the-google-analytics-blind-spot.html?edition=142415": {
-      "title": "The Google Analytics 'Blind Spot' 04/20/2026 - MediaPost",
+    "https://www.mediapost.com/publications/article/414842/google-tests-remy-how-long-before-agentic-perso.html": {
+      "title": "Google Tests 'Remy': How Soon Before Agents Own The Ad Chain? 05/06/2026 - MediaPost",
       "source": "Tavily",
-      "published": "Tue, 28 Apr 2026 04:25:30 GMT",
-      "description": "Agents make decisions and interact with websites in ways that traditional tools like Google Analytics 4 cannot \"see\" or report on. AI agent activity does not show up in standard web analytics like Google Analytics because it. BrightEdge published a guide for search marketers on AI agents, detailing "
+      "published": "Wed, 06 May 2026 16:59:36 GMT",
+      "description": "Subscribe today to gain access to every *Research Intelligencer* article we publish as well as the exclusive daily newsletter, full access to *The MediaPost Cases*, first-look research and daily insights from Joe Mandese, Editor in Chief. are ready for agentic agents to take complete control of adve"
     },
-    "https://www.cnet.com/tech/services-and-software/does-your-ai-agent-need-a-vpn-the-company-behind-norton-and-avast-thinks-so/": {
-      "title": "Does Your AI Agent Need a VPN? The Company Behind Norton and Avast Thinks So - CNET",
+    "https://natlawreview.com/press-releases/coder-sets-new-standard-ai-coding-self-hosted-ai-model-agnostic-coder-agents": {
+      "title": "Coder Sets a New Standard for AI Coding with Self-Hosted, AI Model Agnostic Coder Agents - The National Law Review",
       "source": "Tavily",
-      "published": "Fri, 01 May 2026 22:42:00 GMT",
-      "description": "# Does Your AI Agent Need a VPN? The Company Behind Norton and Avast Thinks So. You might use a VPN yourself, but have you considered giving one to your AI agent? But it may never have occurred to you to give your AI agent VPN access, too. Gen Digital's VPN for AI agents\"), from the company behind b"
+      "published": "Wed, 06 May 2026 22:34:15 GMT",
+      "description": "### Coder Sets a New Standard for AI Coding with Self-Hosted, AI Model Agnostic Coder Agents. *New native agent architecture enables enterprises to run AI-driven development workflows with full governance over infrastructure, data, and models*. Coder Sets a New Standard for AI Coding. AUSTIN, Texas,"
     },
-    "https://gizmodo.com/openai-revolutionary-ai-gadget-is-a-phone-a-stinkin-phone-2000751129": {
-      "title": "OpenAI’s Revolutionary AI Gadget Is… a Phone? A Stinkin’ Phone? - Gizmodo",
+    "https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/": {
+      "title": "OpenClaw vs Hermes Agent: Why Nous Research's Self-Improving Agent Now Leads OpenRouter's Global Rankings - MarkTechPost",
       "source": "Tavily",
-      "published": "Mon, 27 Apr 2026 16:37:23 GMT",
-      "description": "# OpenAI’s Revolutionary AI Gadget Is… a Phone? But it reportedly won’t be just any old glass slab—it’ll be an “AI agent phone.” *An AI AGENT PHONE*. What the hell is an AI agent phone? “Only by fully controlling both the operating system and hardware can OpenAI deliver a comprehensive AI agent serv"
+      "published": "Sun, 10 May 2026 16:20:53 GMT",
+      "description": "Home Editors Pick Agentic AI OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads OpenRouter’s... # OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads OpenRouter’s Global Rankings. The open-source AI agent space has a new leader. As of May 10, 2026, "
     },
-    "https://www.businessinsider.com/manager-oversees-ai-agents-that-help-do-work-2026-4": {
-      "title": "A nontechnical leader says he now manages 37 AI agents and his work has fundamentally changed - Business Insider",
+    "https://www.businessinsider.com/google-ai-agent-openclaw-remy-gemini-assistant-2026-5": {
+      "title": "Google Is Building an AI Agent That Could Be Its Answer to OpenClaw - Business Insider",
       "source": "Tavily",
-      "published": "Wed, 29 Apr 2026 09:17:01 GMT",
-      "description": "# I built 37 AI agents to help at work. * He manages 37 AI agents that handle tasks like scheduling, analytics, and meeting follow-ups. I was acquired by a larger company, and now I focus on growth operations at ClickUp. When I arrived at this company over a year ago, I wasn't working with any agent"
+      "published": "Tue, 05 May 2026 17:44:24 GMT",
+      "description": "# Google is building an AI agent that could be its answer to OpenClaw. * Google is working on an AI agent codenamed \"Remy,\" according to an internal document. * Remy is described as a \"24/7 personal agent\" that can take actions on the user's behalf. Google is building a new AI \"personal agent\" for G"
     },
-    "https://9to5google.com/2026/05/03/why-would-i-want-an-ai-agent-to-replace-my-phone/": {
-      "title": "Why would I want an AI agent to replace my phone? - 9to5Google",
+    "https://aibusiness.com/agentic-ai/soundhound-launches-self-learning-ai-agent-platform": {
+      "title": "SoundHound Launches Self-Learning AI Agent Platform - AI Business",
       "source": "Tavily",
-      "published": "Sun, 03 May 2026 16:00:00 GMT",
-      "description": "# Why would I want an AI agent to replace my phone? Now, word on the street is that OpenAI wants to build its own phone with an experience built around AI agents. *This issue of 9to5Google Weekender is a part of 9to5Google’s rebooted newsletter that highlights the biggest Google stories with added c"
+      "published": "Tue, 05 May 2026 18:28:38 GMT",
+      "description": "OASYS enables agents to autonomously improve, potentially cutting down on development time and costs for enterprise customers. California-based company SoundHound’s AI agent platform is a potential game-changer for businesses. The Orchestrated Agent System -- OASYS for short -- enables multilingual "
     },
-    "https://www.finextra.com/newsarticle/47685/lloyds-launches-internal-ai-agent-platform-envoy": {
-      "title": "Lloyds launches internal AI agent platform Envoy - Finextra Research",
+    "https://www.businessinsider.com/category/anthropic": {
+      "title": "Anthropic - Business Insider",
       "source": "Tavily",
-      "published": "Fri, 01 May 2026 10:01:00 GMT",
-      "description": "# Lloyds launches internal AI agent platform Envoy. Image 2: Download Finextra Pro. *   Image 3: Download Finextra Pro. 4.   Lloyds launches internal AI agent platform Envoy. # Lloyds launches internal AI agent platform Envoy. Lloyds Banking Group has rolled out a scalable platform to build AI agent"
+      "published": "Tue, 05 May 2026 21:11:57 GMT",
+      "description": "### Anthropic launches AI agents for Wall Street's grunt work. Anthropic introduced 10 AI agents for the finance industry on Tuesday, adding to the tools already available from buzzy startups and firms themselves. ### OpenAI loses its head of private equity to Google. OpenAI lost its head of private"
     },
-    "https://www.forbes.com/sites/janakirammsv/2026/05/03/google-bets-agents-replace-apps-here-is-what-that-means-for-your-it-stack/": {
-      "title": "Google Bets Agents Replace Apps. Here Is What That Means For Your IT Stack - Forbes",
+    "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/": {
+      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes - WIRED",
       "source": "Tavily",
-      "published": "Mon, 04 May 2026 02:18:44 GMT",
-      "description": "*   The Enterprise AI Shortcut: Why Co-Innovation Is Setting A New Speed For Adopting and Operationalizing AI| Paid Program. *   2026 America's Top Wealth Advisors List. *   2026 Best-In-State Top Wealth Advisors List. *   New Era, New Icons: The Creators Redefining High-Quality Storytelling on TikT"
+      "published": "Wed, 06 May 2026 16:51:12 GMT",
+      "description": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Anthropic just announced a new feature called “dreaming” at the company’s developer conference in San Francisco. It’s part of Anthropic's recently launched AI agent infrastructure designed to help us"
     },
-    "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database": {
-      "title": "Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’ - The Guardian",
+    "https://thefintechtimes.com/lloyds-banking-group-unveils-envoy-platform-to-scale-ai-agents-safely/": {
+      "title": "Lloyds Banking Group Unveils ‘Envoy’ Platform to Scale AI Agents Safely - The Fintech Times",
       "source": "Tavily",
-      "published": "Wed, 29 Apr 2026 22:12:49 GMT",
-      "description": "PocketOS was left scrambling after a rogue AI agent deleted swaths of code underpinning its business. It only took nine seconds for an AI coding agent gone rogue to delete a company’s entire production database and its backups, according to its founder. Crane warned that this was a story not just ab"
-    },
-    "https://www.mediapost.com/publications/article/414299/amazon-biopharma-research-debuts-with-ai-agents.html?edition=": {
-      "title": "Amazon Biopharma Research Debuts With AI Agents 04/15/2026 - MediaPost",
-      "source": "Tavily",
-      "published": "Tue, 28 Apr 2026 22:42:56 GMT",
-      "description": "The \"Amazon Bio Discovery\" research platform, launched today, does not display ads in its results or search a database, but it does have AI agentic technology and connect to. Launched by Amazon Web Services (AWS) today, it's an AI-powered application for scientists and researchers in. It provides th"
+      "published": "Thu, 07 May 2026 13:05:15 GMT",
+      "description": "* Lloyds Banking Group Unveils ‘Envoy’ Platform to Scale AI Agents Safely. #### ***Lloyds Banking Group** has launched Envoy, a new internal platform designed to provide a secure and governed environment for building and running AI agents across the massive organisation.*. Built in collaboration wit"
     }
   },
   "social": {}
