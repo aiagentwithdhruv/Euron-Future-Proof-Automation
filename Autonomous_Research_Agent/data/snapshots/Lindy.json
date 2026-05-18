@@ -1,6 +1,6 @@
 {
   "competitor": "Lindy",
-  "saved_at": "2026-05-11T06:41:02.254161+00:00",
+  "saved_at": "2026-05-18T06:58:07.130372+00:00",
   "site": {
     "https://www.lindy.ai": {
       "http_status": null,
@@ -31,59 +31,65 @@
     }
   },
   "news": {
-    "https://www.globenewswire.com/news-release/2026/05/07/3290213/0/en/GetDandy-Launches-Autonomous-AI-Workforce-for-Local-Businesses-Delivering-24-7-Customer-Engagement-With-No-Setup-Required.html": {
-      "title": "GetDandy Launches Autonomous AI Workforce for Local - GlobeNewswire",
+    "https://www.androidauthority.com/gemini-spark-onboarding-screen-leaked-3667118/": {
+      "title": "Google’s upcoming 'Gemini Spark' could soon book your flights and handle your inbox - Android Authority",
       "source": "Tavily",
-      "published": "Thu, 07 May 2026 14:00:00 GMT",
-      "description": "# GetDandy Launches Autonomous AI Workforce for Local Businesses, Delivering 24/7 Customer Engagement With No Setup Required. IRVINE, Calif., May 07, 2026 (GLOBE NEWSWIRE) -- GetDandy today announced the launch of its autonomous AI workforce, a system designed to handle every customer interaction fo"
+      "published": "Thu, 14 May 2026 16:26:09 GMT",
+      "description": "* Google may unveil another Gemini AI agent at I/O 2026 called Gemini Spark. * Gemini Spark apparently runs in the background and handles tasks proactively instead of waiting for manual prompts. * The AI agent could pull data from linked apps, chat history, schedules, websites, and location info to "
     },
-    "https://www.mediapost.com/publications/article/414842/google-tests-remy-how-long-before-agentic-perso.html": {
-      "title": "Google Tests 'Remy': How Soon Before Agents Own The Ad Chain? 05/06/2026 - MediaPost",
+    "https://www.nature.com/articles/s44401-026-00080-5": {
+      "title": "Evaluating LingualAI: a prospective validation of AI-based real-time translation against certified human interpreters - Nature",
       "source": "Tavily",
-      "published": "Wed, 06 May 2026 16:59:36 GMT",
-      "description": "Subscribe today to gain access to every *Research Intelligencer* article we publish as well as the exclusive daily newsletter, full access to *The MediaPost Cases*, first-look research and daily insights from Joe Mandese, Editor in Chief. are ready for agentic agents to take complete control of adve"
+      "published": "Tue, 12 May 2026 15:23:24 GMT",
+      "description": "Evaluating LingualAI: a prospective validation of AI-based real-time translation against certified human interpreters. We conducted a prospective, within-subject, simulation-based comparison to evaluate whether an in-house AI application (LingualAI) achieves non-inferior translation quality versus c"
     },
-    "https://natlawreview.com/press-releases/coder-sets-new-standard-ai-coding-self-hosted-ai-model-agnostic-coder-agents": {
-      "title": "Coder Sets a New Standard for AI Coding with Self-Hosted, AI Model Agnostic Coder Agents - The National Law Review",
+    "https://www.businessinsider.com/how-to-keep-laptop-ai-agent-running-while-lid-closed-2026-5": {
+      "title": "Good News, AI Coders: You Can Keep Your Laptop Running While Closed - Business Insider",
       "source": "Tavily",
-      "published": "Wed, 06 May 2026 22:34:15 GMT",
-      "description": "### Coder Sets a New Standard for AI Coding with Self-Hosted, AI Model Agnostic Coder Agents. *New native agent architecture enables enterprises to run AI-driven development workflows with full governance over infrastructure, data, and models*. Coder Sets a New Standard for AI Coding. AUSTIN, Texas,"
+      "published": "Wed, 13 May 2026 09:15:02 GMT",
+      "description": "# Good news, AI coders: You can keep your laptop running while closed. * Many said there are better ways to keep AI agents running, like changing settings or using a terminal command or outside apps. * In response, some open-laptop-walkers said these solutions had too much \"friction\" — or weren't ob"
     },
-    "https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/": {
-      "title": "OpenClaw vs Hermes Agent: Why Nous Research's Self-Improving Agent Now Leads OpenRouter's Global Rankings - MarkTechPost",
+    "https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/": {
+      "title": "Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production - MarkTechPost",
       "source": "Tavily",
-      "published": "Sun, 10 May 2026 16:20:53 GMT",
-      "description": "Home Editors Pick Agentic AI OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads OpenRouter’s... # OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads OpenRouter’s Global Rankings. The open-source AI agent space has a new leader. As of May 10, 2026, "
+      "published": "Sat, 16 May 2026 17:59:09 GMT",
+      "description": "Home Editors Pick Agentic AI Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent... # Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production. Runni"
     },
-    "https://www.businessinsider.com/google-ai-agent-openclaw-remy-gemini-assistant-2026-5": {
-      "title": "Google Is Building an AI Agent That Could Be Its Answer to OpenClaw - Business Insider",
+    "https://clutchpoints.com/nhl/buffalo-sabres/sabres-news-lindy-ruff-reveals-simple-message-jfg": {
+      "title": "Sabres news: Lindy Ruff reveals simple message to Buffalo: 'JFG' - ClutchPoints",
       "source": "Tavily",
-      "published": "Tue, 05 May 2026 17:44:24 GMT",
-      "description": "# Google is building an AI agent that could be its answer to OpenClaw. * Google is working on an AI agent codenamed \"Remy,\" according to an internal document. * Remy is described as a \"24/7 personal agent\" that can take actions on the user's behalf. Google is building a new AI \"personal agent\" for G"
+      "published": "Sun, 17 May 2026 14:03:00 GMT",
+      "description": "# Lindy Ruff reveals simple message to Sabres: ‘JFG’. Buffalo's head coach was pleased with his team's effort in Game 6. He kept repeating a simple message to his club. The Buffalo Sabres got the job done on Saturday night, forcing a Game 7 in their Stanley Cup Playoffs series with the Montreal Cana"
     },
-    "https://aibusiness.com/agentic-ai/soundhound-launches-self-learning-ai-agent-platform": {
-      "title": "SoundHound Launches Self-Learning AI Agent Platform - AI Business",
+    "https://hitconsultant.net/2026/05/14/chromie-health-raises-2m-ai-nurse-dispatch/": {
+      "title": "Chromie Health Raises $2M to Automate Hospital Operations via AI Agent \"Dispatch\" - HIT Consultant",
       "source": "Tavily",
-      "published": "Tue, 05 May 2026 18:28:38 GMT",
-      "description": "OASYS enables agents to autonomously improve, potentially cutting down on development time and costs for enterprise customers. California-based company SoundHound’s AI agent platform is a potential game-changer for businesses. The Orchestrated Agent System -- OASYS for short -- enables multilingual "
+      "published": "Thu, 14 May 2026 10:00:00 GMT",
+      "description": "# Chromie Health Raises $2M to Automate Hospital Operations via AI Agent “Dispatch”. * Chromie Health, a provider of AI-powered hospital management tools, has closed a $2M pre-seed round led by AIX Ventures. * The company has launched Chromie Dispatch, an SMS-native AI agent that fills internal nurs"
     },
-    "https://www.businessinsider.com/category/anthropic": {
-      "title": "Anthropic - Business Insider",
+    "https://natlawreview.com/press-releases/zenlytic-launches-zoe-self-learning-ai-data-analyst-onboards-itself": {
+      "title": "Zenlytic Launches Zoë Self-Learning: The AI Data Analyst That Onboards Itself - The National Law Review",
       "source": "Tavily",
-      "published": "Tue, 05 May 2026 21:11:57 GMT",
-      "description": "### Anthropic launches AI agents for Wall Street's grunt work. Anthropic introduced 10 AI agents for the finance industry on Tuesday, adding to the tools already available from buzzy startups and firms themselves. ### OpenAI loses its head of private equity to Google. OpenAI lost its head of private"
+      "published": "Wed, 13 May 2026 16:47:51 GMT",
+      "description": "### Zenlytic Launches Zoë Self-Learning: The AI Data Analyst That Onboards Itself. The AI Data Analyst that onboard itself. NEW YORK CITY, NY, UNITED STATES, May 13, 2026 /EINPresswire.com/ -- Zenlytic, the AI data analyst trusted by some of the world’s largest Enterprise companies, today announced "
     },
-    "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/": {
-      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes - WIRED",
+    "https://www.lawnext.com/2026/05/aderant-introduces-agent-center-at-momentum-global-targeting-law-firm-back-office-operations-with-ai.html": {
+      "title": "Aderant Introduces Agent Center at Momentum Global, Targeting Law Firm Back-Office Operations with AI - LawSites",
       "source": "Tavily",
-      "published": "Wed, 06 May 2026 16:51:12 GMT",
-      "description": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Anthropic just announced a new feature called “dreaming” at the company’s developer conference in San Francisco. It’s part of Anthropic's recently launched AI agent infrastructure designed to help us"
+      "published": "Tue, 12 May 2026 14:00:48 GMT",
+      "description": "# Aderant Introduces Agent Center at Momentum Global, Targeting Law Firm Back-Office Operations with AI. Aderant, the Atlanta-based legal business management software company, used its Momentum Global 2026 conference this week to unveil the Aderant Agent Center — a new framework for deploying AI age"
     },
-    "https://thefintechtimes.com/lloyds-banking-group-unveils-envoy-platform-to-scale-ai-agents-safely/": {
-      "title": "Lloyds Banking Group Unveils ‘Envoy’ Platform to Scale AI Agents Safely - The Fintech Times",
+    "https://finance.yahoo.com/news/basedai-emerges-stealth-launch-hirebase-160000364.html": {
+      "title": "BasedAI Emerges from Stealth to Launch Hirebase, the instant AI Workforce Platform for Businesses - Yahoo Finance",
       "source": "Tavily",
-      "published": "Thu, 07 May 2026 13:05:15 GMT",
-      "description": "* Lloyds Banking Group Unveils ‘Envoy’ Platform to Scale AI Agents Safely. #### ***Lloyds Banking Group** has launched Envoy, a new internal platform designed to provide a secure and governed environment for building and running AI agents across the massive organisation.*. Built in collaboration wit"
+      "published": "Wed, 13 May 2026 16:00:00 GMT",
+      "description": "- Best gifts for sister-in-law. - Best birthday gifts for her. - Best gifts for mother-in-law. - Best anniversary gifts for wife. # BasedAI Emerges from Stealth to Launch Hirebase, the instant AI Workforce Platform for Businesses. * The launch follows the strategic acquisition of Warden App's platfo"
+    },
+    "https://www.practicalecommerce.com/new-ecommerce-tools-may-12-2026": {
+      "title": "New Ecommerce Tools: May 12, 2026 - Practical Ecommerce",
+      "source": "Tavily",
+      "published": "Tue, 12 May 2026 14:49:21 GMT",
+      "description": "+ How to Start an Ecommerce Business. This installment includes updates on predictive AI, autonomous marketing, AI-powered website builders, omnichannel fulfillment, programmatic advertising, embedded payment solutions, and cross-border ecommerce. ### New Tools for Merchants. **Shoplazza launches AI"
     }
   },
   "social": {}

@@ -1,6 +1,6 @@
 {
   "competitor": "n8n",
-  "saved_at": "2026-05-11T06:40:56.834614+00:00",
+  "saved_at": "2026-05-18T06:58:03.007970+00:00",
   "site": {
     "https://n8n.io": {
       "http_status": null,
@@ -22,145 +22,171 @@
     },
     "https://blog.n8n.io": {
       "http_status": 200,
-      "content_hash": "b9dbdd0bc771c56a70676eda3d6ef7dc37040405d8953f63b3831de65d024b70",
+      "content_hash": "dc28c9f8053c19118bc44034961c443a965c35f66d0f3c0e4e4ac82a59870dd6",
       "title": "Guide, Tutorials, and Updates on Workflow Automation - n8n Blog",
       "meta_description": "Discover insights, tutorials, and updates on workflow automation. Learn how to enhance your automation processes with expert advice and detailed guides.",
       "headings": [
-        "AI Agent Architecture Patterns: From Prototype To Production",
+        "Announcing SAP’s strategic investment in n8n",
         "Explore by use case",
+        "n8n Partners with SAP to bring Visual AI Workflow Orchestration to Enterprise",
+        "How n8n is powering the next wave of AI automation at Mercedes-Benz",
+        "AI Agent Architecture Patterns: From Prototype To Production",
         "Building Better Agents: LLM Memory Types and Trade-Offs",
         "Advanced RAG: Data Cleaning and Retrieval Techniques",
         "Production AI Playbook: Evaluation and Monitoring",
         "Deploy n8n agents that show up as members of the team inside Microsoft apps",
-        "LLM Tool Calling: How It Works and How To Implement It",
-        "ReAct Agent: Architecture, Implementation, and Tradeoffs",
-        "Build and Update Workflows with n8n's MCP Server",
-        "Human-in-the-Loop vs. Human-on-the-Loop: When To Use Each System"
+        "LLM Tool Calling: How It Works and How To Implement It"
       ],
-      "pricing_hints": [],
+      "pricing_hints": [
+        "The investment values n8n at $5"
+      ],
       "status": "ok"
     }
   },
   "news": {
-    "https://prtimes.jp/main/html/rd/p/000000005.000149324.html": {
-      "title": "【第1期生10名募集】PM・コンサル経験者向け「AI駆動バックオフィス実戦プログラム」を提供開始",
-      "source": "Prtimes.jp",
-      "published": "2026-05-07T23:50:00Z",
-      "description": "[株式会社管理のプロ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/[phone]/5/[phone]-5-3363dd9c0a4d303a1dc5f[phone]a939c-2136x1190.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am..."
-    },
-    "https://www.asianefficiency.com/systems/before-you-build-an-ai-agent-do-this-first-most-people-skip-it/": {
-      "title": "Before You Build an AI Agent, Do This First (Most People Skip It)",
-      "source": "Asianefficiency.com",
-      "published": "2026-05-07T21:00:36Z",
-      "description": "A paper sketch catches most of that before line one of the build. You don’t catch those until you’ve been trusting the agent for two weeks."
-    },
-    "https://github.com/ajensenwaud/recursant": {
-      "title": "Show HN: Recursant, \"Istio for agents\", is now open source",
+    "https://github.com/serendipitynz/serenebach": {
+      "title": "Show HN: Serene Bach – a Go weblog engine that runs as CGI or HTTP",
       "source": "Github.com",
-      "published": "2026-05-06T19:19:57Z",
-      "description": "Article URL: https://github.com/ajensenwaud/recursant\nComments URL: https://news.ycombinator.com/item?id=[phone]\nPoints: 3\n# Comments: 0"
+      "published": "2026-05-17T03:47:36Z",
+      "description": "I originally made Serene Bach in the 2000s as a weblog engine written in Perl CGI. I rebuilt it from scratch in Go as a single binary that can run either as a CGI program or as a normal HTTP server.I know CGI is generally considered legacy technology now, but…"
     },
-    "https://wptavern.com/podcast/215-matt-schwartz-on-exploring-ais-impact-in-wordpress-agencies-part-1": {
-      "title": "#215 – Matt Schwartz on Exploring AI’s Impact in WordPress Agencies (Part 1)",
-      "source": "Wptavern.com",
-      "published": "2026-05-06T14:00:00Z",
-      "description": "Nathan Wrigley and Matt Schwartz discuss the evolving impact of AI on WordPress agencies, focusing on how AI can streamline agency processes beyond just building websites. They explore the importance of revisiting workflows, creating AI vision documents, leve…"
+    "https://thumbapi.dev": {
+      "title": "Show HN: ThumbAPI – thumbnail generation API for developers",
+      "source": "Thumbapi.dev",
+      "published": "2026-05-16T12:11:34Z",
+      "description": "Generate YouTube, Instagram, blog & OG thumbnails inside your automation workflow. n8n, Make.com & Zapier integrations. Under 25 seconds."
     },
-    "https://www.recursant.ai/": {
-      "title": "Show HN: Recursant – service mesh for governing AI agents",
-      "source": "Recursant.ai",
-      "published": "2026-05-06T13:57:24Z",
-      "description": "Hello,I have just released Recursant to the public. I have been working on it for a while. It is a control plane for governing AI agents across stacks. It provides full observability, guardrails, and control on the network level by routing all traffic through…"
-    },
-    "https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley": {
-      "title": "The AI operator: Biggest role in Silicon Valley",
-      "source": "Rishgupta.com",
-      "published": "2026-05-06T09:00:07Z",
-      "description": "Before electricity was the steam engine. It was located in a separate floor/building but with a central shaft transferring energy required for work. All the work had to be concentrated around this line. Initially with electricity, people changed the source fr…"
-    },
-    "https://news.ycombinator.com/item?id=48022411": {
-      "title": "Show HN: Probus, AI vuln scanner (PRs merged in Vercel AI SDK, n8n, LangGraph)",
+    "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community": {
+      "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
       "source": "Hacker News",
-      "published": "2026-05-05T13:39:05Z",
-      "description": "Hi HN,\nI've been running this on my own dependency tree for the past few months. Probus is a vulnerability scanner that uses three agents. One picks the files worth deep-scanning. One writes raw findings. The third reads the code on its own and rejects any fi…"
+      "published": "2026-05-16T12:01:06Z",
+      "description": "About Kyber\n\nWith Kyber, companies operating in regulated industries can quickly draft, review, and send complex regulatory notices.\nFor example, when Branch Insurance's claims team has to settle a claim, instead of spending hours piecing together\nevidence to…"
     },
-    "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html": {
-      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-      "source": "Internet",
-      "published": "2026-05-05T10:30:00Z",
-      "description": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of …"
+    "https://www.deutsche-startups.de/2026/05/16/wochenrueckblick-20-2026/": {
+      "title": "#StartupTicker - +++ n8n +++ Parloa +++ NVision +++ Native Instruments +++ 35up +++ JustPlay +++ NeuroNation +++",
+      "source": "Deutsche-startups.de",
+      "published": "2026-05-16T08:00:00Z",
+      "description": "+++ #StartupTicker-Wochenrückblick +++ n8n +++ Parloa +++ NVision +++ Elephant +++ inMusic +++ Native Instruments +++ AAreon Group +++ easimo +++ Sovendus +++ 35up +++ walter services Group +++ novofon.ai +++ NCSoft +++ JustPlay +++ Schwabe Group +++ NeuroNat…"
     },
-    "https://n8n.io/workflows/15350-generate-two-host-pdf-podcasts-with-gpt-5-smallest-ai-and-gmail/": {
-      "title": "Show HN: PDF to AI podcast in 9 Indian languages",
-      "source": "N8n.io",
-      "published": "2026-05-04T12:31:21Z",
-      "description": "Article URL: https://n8n.io/workflows/15350-generate-two-host-pdf-podcasts-with-gpt-5-smallest-ai-and-gmail/\nComments URL: https://news.ycombinator.com/item?id=[phone]\nPoints: 2\n# Comments: 0"
-    },
-    "https://pypi.org/project/marmory/": {
-      "title": "marmory added to PyPI",
+    "https://pypi.org/project/wexample-wex-addon-services-platform/9.1.1/": {
+      "title": "wexample-wex-addon-services-platform 9.1.1",
       "source": "Pypi.org",
-      "published": "2026-05-04T03:24:44Z",
-      "description": "Secure local file access gateway for MCP-enabled AI assistants."
+      "published": "2026-05-15T20:17:57Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://www.tipranks.com/news/novo-nordisk-stock-nvo-rises-as-wegovy-sales-drive-massive-q1-beat": {
-      "title": "Novo Nordisk Earnings: NVO Stock Rises as Wegovy Sales Drive Massive Q1 Beat - TipRanks",
-      "source": "Tavily",
-      "published": "Wed, 06 May 2026 14:27:16 GMT",
-      "description": "# Novo Nordisk Earnings: NVO Stock Rises as Wegovy Sales Drive Massive Q1 Beat - TipRanks.com. Trade on TipRanks with TradeStation Receive TipRanks ULTIMATE Access. Top Analyst Stocks PopularTop Smart Score Stocks PopularAI Analyst Top Stocks NewTop Insiders StocksMarket MoversTipRanks 50 IndexAI St"
+    "https://pypi.org/project/wexample-wex-addon-services-platform/9.1.0/": {
+      "title": "wexample-wex-addon-services-platform 9.1.0",
+      "source": "Pypi.org",
+      "published": "2026-05-15T20:02:33Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://nypost.com/video/watch-popes-reaction-when-rubio-gifts-him-a-crystal-football/": {
-      "title": "Watch Pope’s reaction when Rubio gifts him a crystal football (Video) - New York Post",
-      "source": "Tavily",
-      "published": "Thu, 07 May 2026 15:58:26 GMT",
-      "description": "Image 2: Watch Pope’s reaction when Rubio gifts him a crystal football. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do "
+    "https://pypi.org/project/lumilake/": {
+      "title": "lumilake added to PyPI",
+      "source": "Pypi.org",
+      "published": "2026-05-15T08:09:37Z",
+      "description": "Data analytics engine for agentic workflows"
     },
-    "https://nypost.com/video/did-a-k9-try-to-warn-its-handler-about-whcd-shooting-suspect-cole-allen/": {
-      "title": "Did a K9 try to warn its handler about WHCD shooting suspect Cole Allen? (Video) - New York Post",
-      "source": "Tavily",
-      "published": "Wed, 06 May 2026 19:10:30 GMT",
-      "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
+    "https://pypi.org/project/npmove/": {
+      "title": "npmove added to PyPI",
+      "source": "Pypi.org",
+      "published": "2026-05-14T15:12:04Z",
+      "description": "Small CLI to move, back up, and diff n8n workflows between instances."
     },
-    "https://nypost.com/video/how-serious-is-og-anunobys-hamstring-strain-the-injury-report/": {
-      "title": "How serious is OG Anunoby’s hamstring strain? | The Injury Report (Video) - New York Post",
-      "source": "Tavily",
-      "published": "Thu, 07 May 2026 19:30:00 GMT",
-      "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
+    "https://www.just-auto.com/news/mercedes-benz-adopts-n8n-platform/": {
+      "title": "Mercedes-Benz adopts n8n platform for company-wide AI automation",
+      "source": "Just-auto.com",
+      "published": "2026-05-13T15:46:26Z",
+      "description": "The German automaker is adopting n8n as an enterprise-wide platform, giving employees the ability to build and deploy AI-driven workflows."
     },
-    "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html": {
-      "title": "MetInfo CMS CVE-[phone] Exploited for Remote Code Execution Attacks - The Hacker News",
-      "source": "Tavily",
-      "published": "Tue, 05 May 2026 11:56:00 GMT",
-      "description": "# MetInfo CMS CVE-[phone] Exploited for Remote Code Execution Attacks. Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is **CVE-[phone]** "
+    "https://pypi.org/project/wexample-wex-addon-services-platform/9.0.0/": {
+      "title": "wexample-wex-addon-services-platform 9.0.0",
+      "source": "Pypi.org",
+      "published": "2026-05-13T14:46:22Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://www.fiercehealthcare.com/node?blog=9&title=how_to_turnaround_a_hospital&%3Bmore=1&c=1&tb=1&pb=1&page=17": {
-      "title": "| Fierce Healthcare - Fierce Healthcare",
-      "source": "Tavily",
-      "published": "Thu, 07 May 2026 20:53:47 GMT",
-      "description": "# | Fierce Healthcare. Image 2Image 3Image 4Image 5Image 6Image 7Image 8Image 9Image 10Image 11Image 12Image 13Image 14Image 15. #### Real Chemistry. Image 17: Garrison Well's profile photo. #### Garrison Wells. #### Gainwell Technologies. #### Medtronic. #### Emmy Lucas. #### Amy Littlefield. #### "
+    "https://github.com/torrix-ai/install": {
+      "title": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)",
+      "source": "Github.com",
+      "published": "2026-05-13T12:14:26Z",
+      "description": "I work as a SAP Integration consultant and built this as a side project. Friction point: Most self hosted LLM observability tools require Postgres, Redis and non trivial infrastructure. Teams just want to see what their agents are actually doing in Production…"
     },
-    "https://www.espn.com/college-softball/playbyplay/_/gameId/401872453": {
-      "title": "Marist vs. Texas Tech (May 15, 2026) Live Score - ESPN",
-      "source": "Tavily",
-      "published": "Mon, 11 May 2026 04:57:01 GMT",
-      "description": "Texas Tech (May 15, 2026) Live Score - ESPN. # Marist Red Foxes @ Texas Tech Red Raiders. Some US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. If you are logg"
+    "https://www.kdnuggets.com/10-github-repositories-to-master-self-hosting": {
+      "title": "10 GitHub Repositories to Master Self-Hosting",
+      "source": "Kdnuggets.com",
+      "published": "2026-05-13T12:00:11Z",
+      "description": "Learn how modern infrastructure works through self-hosting: containers, reverse proxies, monitoring, backups, networking, and systems operations."
     },
-    "https://www.espn.com/college-softball/boxscore/_/gameId/401870464": {
-      "title": "Stetson vs. Central Arkansas (May 9, 2026) Box Score - ESPN",
-      "source": "Tavily",
-      "published": "Sat, 09 May 2026 11:46:35 GMT",
-      "description": "Central Arkansas (May 9, 2026) Live Score - ESPN. # Central Arkansas Bears vs Stetson Hatters. Some US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. If you are"
+    "https://news.sap.com/2026/05/new-joule-studio-enterprise-scale-agentic-development/": {
+      "title": "Announcing New Joule Studio for Enterprise Scale Agentic Development",
+      "source": "Sap.com",
+      "published": "2026-05-13T12:00:00Z",
+      "description": "Joule Studio is a new offering that empowers enterprises to build and manage a full life cycle of AI agents, applications, and workflows."
     },
-    "https://www.espn.com/college-softball/boxscore/_/gameId/401870450": {
-      "title": "TBD vs. Howard (May 9, 2026) Live Score - ESPN",
-      "source": "Tavily",
-      "published": "Sat, 09 May 2026 12:11:15 GMT",
-      "description": "Howard (May 9, 2026) Live Score - ESPN. * Image 4SAM 0 * Image 5UNCG 1. * Image 6CARK 0 * Image 7STET 0. Some US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. "
+    "https://www.verdict.co.uk/sap-invests-n8n/": {
+      "title": "SAP invests in AI workflow orchestration company n8n at $5.2bn valuation",
+      "source": "Verdict",
+      "published": "2026-05-13T08:30:19Z",
+      "description": "SAP will integrate n8n’s automation platform into Joule Studio, aiming to grow automation and agentic AI across its enterprise software."
     },
-    "https://awfulannouncing.com/espn/skip-bayless-first-take-return-anti-nostalgia-stephen-a-smith.html": {
-      "title": "Skip Bayless’s ‘First Take’ return is anti-nostalgia - Awful Announcing",
+    "https://www.automotiveworld.com/news/mazda-trims-ev-spend-20-as-global-hybrid-demand-surges/": {
+      "title": "Mazda trims EV spend 20% as global hybrid demand surges - Automotive World",
       "source": "Tavily",
-      "published": "Thu, 07 May 2026 15:00:45 GMT",
-      "description": "# Skip Bayless’s ‘First Take’ return is anti-nostalgia. > There is no wistful or sentimental yearning for a return to the Embrace Debate era. *This originally appeared in Thursday morning’s edition of The A Block, Awful Announcing’s daily newsletter with the latest sports media news, commentary, and"
+      "published": "Wed, 13 May 2026 07:04:24 GMT",
+      "description": "Mazda trims EV spend 20% as global hybrid demand surges GM’s Ultium Ohio plant in limbo as US battery retreat deepens Waymo recalls its 3,800-unit robotaxi fleet over flood risk China April auto sales fall for seventh month, exports soar Panasonic's 4680 mass production pushed back yet again US lawm"
+    },
+    "https://cybersecuritynews.com/18-year-old-nginx-rce-vulnerability/": {
+      "title": "Critical 18-Year-Old NGINX Vulnerability Enables Remote Code Execution Attacks - CyberSecurityNews",
+      "source": "Tavily",
+      "published": "Thu, 14 May 2026 06:27:20 GMT",
+      "description": "Cyber Security NewsLatest Cyber Security News. # Critical 18-Year-Old NGINX Vulnerability Enables Remote Code Execution Attacks. A critical heap buffer overflow vulnerability has been discovered in the source code of NGINX, present since 2008. This vulnerability has been publicly disclosed, along wi"
+    },
+    "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/": {
+      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE - BleepingComputer",
+      "source": "Tavily",
+      "published": "Thu, 14 May 2026 15:43:00 GMT",
+      "description": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. The vulnerability is tracked as CVE-[phone] and received a critical severity rating of 9.2, based on t"
+    },
+    "https://www.nucnet.org/news/german-nuclear-fusion-company-sets-up-industrial-development-board-5-4-2026": {
+      "title": "German Nuclear Fusion Company Sets Up Industrial Development Board - NucNet",
+      "source": "Tavily",
+      "published": "Thu, 14 May 2026 08:36:55 GMT",
+      "description": "We use cookies for analytics and to improve our site. You agree to our use of cookies by closing this message box or continuing to use our site. ### Independent Nuclear News. German nuclear fusion company Proxima Fusion has announced the creation of an industrial development board (IDB) that brings "
+    },
+    "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html": {
+      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE - The Hacker News",
+      "source": "Tavily",
+      "published": "Thu, 14 May 2026 06:00:00 GMT",
+      "description": "The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx\\_http\\_rewrite\\_module (CVE-[phone], CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a denial-of-service (DoS) with crafted requests. \"NGINX Plus and NGINX Open Sourc"
+    },
+    "https://www.infosecurity-magazine.com/news/trickmo-c-ton-network-android/": {
+      "title": "TrickMo Variant Routes Android Trojan Traffic Through TON - Infosecurity Magazine",
+      "source": "Tavily",
+      "published": "Mon, 11 May 2026 15:15:00 GMT",
+      "description": "Infosecurity Magazine Home » News » TrickMo Variant Routes Android Trojan Traffic Through TON. # TrickMo Variant Routes Android Trojan Traffic Through TON. A new variant of the TrickMo Android banking trojan has moved its primary command-and-control (C2) transport onto The Open Network (TON) Blockch"
+    },
+    "https://bleacherreport.com/game/chicago-cubs-vs-chicago-white-sox-2026-5-16-17-10": {
+      "title": "Chicago White Sox vs. Chicago Cubs - May 16, 2026 | Live Scores, Updates, Odds, Injury News and Recaps - Bleacher Report",
+      "source": "Tavily",
+      "published": "Sat, 16 May 2026 03:00:42 GMT",
+      "description": "GamblingHelpLineMA.org or call [phone] for 24/7 support (MA). Call 1-877-8HOPE-NY or Text HOPENY ([phone]) (NY).**. 21+ and present in AZ, CO, CT, IA, IL, IN, KS, KY, LA (permitted parishes only), MA, MD, MI, NJ, NY, OH, PA, TN, VA, WV, or WY. FanDuel is offering online sports wagering in Kansas und"
+    },
+    "https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/": {
+      "title": "TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack - SecurityWeek",
+      "source": "Tavily",
+      "published": "Tue, 12 May 2026 10:10:33 GMT",
+      "description": "# TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack. Over 400 malicious versions of 170 packages were published as part of the new Mini Shai-Hulud campaign. **Over 170 packages across multiple high-profile NPM and PyPI projects were compromised in a new, coordinated Mini Shai-Hulud softw"
+    },
+    "https://www.csoonline.com/article/4170284/mistral-ai-sdk-tanstack-router-hit-in-npm-software-supply-chain-attack.html": {
+      "title": "Mistral AI SDK, TanStack Router hit in npm software supply chain attack - csoonline.com",
+      "source": "Tavily",
+      "published": "Tue, 12 May 2026 00:00:00 GMT",
+      "description": "## Hundreds of software packages are affected, once again threatening enterprise credentials on coders’ machines. The TeamPCP threat group has pulled off another big supply chain attack which within a few hours this week was able to successfully compromise 170 Node Package Manager (npm) and PyPI pac"
+    },
+    "https://www.itnews.com.au/news/f5-patches-18-year-old-ai-found-rift-vulnerability-in-nginx-web-server-625881?utm_source=feed&utm_medium=rss&utm_campaign=editors_picks": {
+      "title": "F5 patches 18-year-old AI-found 'Rift' vulnerability in NGINX web server - iTnews",
+      "source": "Tavily",
+      "published": "Thu, 14 May 2026 20:29:00 GMT",
+      "description": "## Flight Centre looking for cloud exits ## F5 patches 18-year-old AI-found 'Rift' vulnerability in NGINX web server ## NBN Co AI could give RSPs more network intelligence ## The hidden cost of fragmentation: 3 signs your retail tech stack is failing you ## Enterprise testing across full lifecycle. "
     }
   },
   "social": {
@@ -170,47 +196,47 @@
       "published": "",
       "content": "Workflow automation for technical teams to build AI solutions that integrate with any app or API at no-code speed and code flexibility. Open and self-hostable."
     },
+    "https://x.com/n8n_io/status/1924480363759374511": {
+      "platform": "twitter",
+      "title": "New to n8n or already building advanced workflows? Either way ...",
+      "published": "",
+      "content": "New to n8n or already building advanced workflows? Either way, you'll want to check out these 25 useful tips from Nate Herk."
+    },
+    "https://x.com/n8n_io/status/2041569006444810633": {
+      "platform": "twitter",
+      "title": "Etienne Lescot built n8n as Code, a tool that lets you create n8n ...",
+      "published": "",
+      "content": "Etienne Lescot built n8n as Code, a tool that lets you create n8n workflows directly in Cursor, VS Code, Claude Code, or OpenClaw."
+    },
+    "https://x.com/n8n_io/status/2028757963771412630": {
+      "platform": "twitter",
+      "title": "This n8n template shows five ways to evaluate AI outputs. Use ...",
+      "published": "",
+      "content": "This n8n template shows five ways to evaluate AI outputs. Use Google Sheets or data tables to compare models like Gemini, Claude, GPT, and Perplexity."
+    },
     "https://x.com/n8n_io/status/2016436170092089844": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
       "content": "With Chat Hub, you can expose powerful n8n AI agents to Sales, Support, Marketing and more without them needing to understand nodes or JSON. ✓"
     },
-    "https://x.com/n8n_io/status/1950828880127746464": {
+    "https://x.com/n8n_io/status/1978089128345440475": {
+      "platform": "twitter",
+      "title": "Proud that n8n was one of the sponsors powering this incredible ...",
+      "published": "",
+      "content": "Hackathon in Berlin or the line for Berghain? 400 developers, €25K in prizes, and 36 hours of pure building energy made this unforgettable."
+    },
+    "https://x.com/n8n_io/status/1928360890635534567": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
-      "content": "Our Ambassador Inyoung Lee put together a very handy n8n Cheat Sheet covering triggers, expressions, nodes, AI agents, HTTP requests and more."
-    },
-    "https://x.com/n8n_io/status/1937163866254803309": {
-      "platform": "twitter",
-      "title": "n8n.io",
-      "published": "",
-      "content": "This workflow by Nasser takes the title, subtitles and some other meta information from your YouTube videos and uses AI to generate a full"
-    },
-    "https://x.com/n8n_io/status/1952376515032715669": {
-      "platform": "twitter",
-      "title": "n8n.io",
-      "published": "",
-      "content": "What's your take on this n8n physical button? @RoniBandini built a simple hardware button that triggers workflows instantly, no phone or"
-    },
-    "https://x.com/n8n_io/status/1955230317855252732": {
-      "platform": "twitter",
-      "title": "A new n8n cheat sheet is out. After the great response to the one we ...",
-      "published": "",
-      "content": "A new n8n cheat sheet is out. After the great response to the one we shared a couple of weeks ago, here's another one from our community,"
+      "content": "Discover over 2,000+ freely downloadable templates in our workflow library! Whether you need an AI agent to generate your weekly TPS reports"
     },
     "https://x.com/n8n_io/status/1935351988218167766": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
       "content": "Steps to get more modular workflows: 1. Select a set of connected nodes 2. Right-click and select Convert to sub-workflow (or Alt + X) 3. Watch magic happen."
-    },
-    "https://x.com/n8n_io/status/1993722497640894485": {
-      "platform": "twitter",
-      "title": "Your entire n8n instance is now MCP-ready. Access your workflows ...",
-      "published": "",
-      "content": "Give it a try with n8n version 1.121.2 and your go-to MCP-enabled platform. Watch the full video here: bit.ly/4adNVls."
     }
   }
 }
