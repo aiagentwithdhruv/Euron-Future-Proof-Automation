@@ -1,6 +1,6 @@
 {
   "competitor": "Lindy",
-  "saved_at": "2026-05-18T06:58:07.130372+00:00",
+  "saved_at": "2026-05-25T07:16:40.250446+00:00",
   "site": {
     "https://www.lindy.ai": {
       "http_status": null,
@@ -31,65 +31,65 @@
     }
   },
   "news": {
-    "https://www.androidauthority.com/gemini-spark-onboarding-screen-leaked-3667118/": {
-      "title": "Google’s upcoming 'Gemini Spark' could soon book your flights and handle your inbox - Android Authority",
+    "https://www.infosecurity-magazine.com/opinions/agents-are-here-security-must-be/": {
+      "title": "AI Agents Are Here. Security Must Be an Accelerator for AI Transformation - Infosecurity Magazine",
       "source": "Tavily",
-      "published": "Thu, 14 May 2026 16:26:09 GMT",
-      "description": "* Google may unveil another Gemini AI agent at I/O 2026 called Gemini Spark. * Gemini Spark apparently runs in the background and handles tasks proactively instead of waiting for manual prompts. * The AI agent could pull data from linked apps, chat history, schedules, websites, and location info to "
+      "published": "Wed, 20 May 2026 10:00:00 GMT",
+      "description": "Infosecurity Magazine Home » Opinions » AI Agents Are Here. Security Must Be an Accelerator for AI Transformation. # AI Agents Are Here. Most organizations are still relying on security controls designed for human users and static applications. That mismatch is surfacing concrete risks: uncontrolled"
     },
-    "https://www.nature.com/articles/s44401-026-00080-5": {
-      "title": "Evaluating LingualAI: a prospective validation of AI-based real-time translation against certified human interpreters - Nature",
+    "https://gizmodo.com/tag/gemini-spark": {
+      "title": "gemini spark - Gizmodo",
       "source": "Tavily",
-      "published": "Tue, 12 May 2026 15:23:24 GMT",
-      "description": "Evaluating LingualAI: a prospective validation of AI-based real-time translation against certified human interpreters. We conducted a prospective, within-subject, simulation-based comparison to evaluate whether an in-house AI application (LingualAI) achieves non-inferior translation quality versus c"
+      "published": "Tue, 19 May 2026 18:49:43 GMT",
+      "description": "# gemini spark. ### Google Comes for OpenClaw With Gemini Spark, a Personal AI Agent. An AI agent for anyone (willing to pay $100 a month for it). Artificial Intelligence     AJ Dellinger     May 19. ## Want more stories like these? Sign up for our newsletter and stay in the loop with fresh content,"
     },
-    "https://www.businessinsider.com/how-to-keep-laptop-ai-agent-running-while-lid-closed-2026-5": {
-      "title": "Good News, AI Coders: You Can Keep Your Laptop Running While Closed - Business Insider",
+    "https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197": {
+      "title": "Google Unveils New Gemini AI Agent for Personal Tasks - WSJ",
       "source": "Tavily",
-      "published": "Wed, 13 May 2026 09:15:02 GMT",
-      "description": "# Good news, AI coders: You can keep your laptop running while closed. * Many said there are better ways to keep AI agents running, like changing settings or using a terminal command or outside apps. * In response, some open-laptop-walkers said these solutions had too much \"friction\" — or weren't ob"
+      "published": "Tue, 19 May 2026 17:45:00 GMT",
+      "description": "# Google Unveils New Gemini AI Agent for Personal Tasks - WSJ. S&P [phone].11 -0.38%. https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b[phone]. # Google Unveils New Gemini AI Agent for Personal Tasks. Image 1: Sundar Pichai, CEO of Google, speaks at a developer conf"
     },
-    "https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/": {
-      "title": "Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production - MarkTechPost",
+    "https://ignitesap.com/sap-ai-agent-hub-and-agent-governance/": {
+      "title": "SAP AI Agent Hub and Agent Governance - IgniteSAP",
       "source": "Tavily",
-      "published": "Sat, 16 May 2026 17:59:09 GMT",
-      "description": "Home Editors Pick Agentic AI Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent... # Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production. Runni"
+      "published": "Tue, 19 May 2026 11:31:33 GMT",
+      "description": "#### SAP AI Agent Hub and Agent Governance. SAP introduced the SAP Business AI Platform as a consolidation of BTP, SAP Business Data Cloud, and SAP Business AI into a single governed environment, structured around three layers: context, build, and governance. Christian Klein’s argument for SAP’s new"
     },
-    "https://clutchpoints.com/nhl/buffalo-sabres/sabres-news-lindy-ruff-reveals-simple-message-jfg": {
-      "title": "Sabres news: Lindy Ruff reveals simple message to Buffalo: 'JFG' - ClutchPoints",
+    "https://gizmodo.com/google-comes-for-openclaw-with-gemini-spark-a-personal-ai-agent-2000760778": {
+      "title": "Google Comes for OpenClaw With Gemini Spark, a Personal AI Agent - Gizmodo",
       "source": "Tavily",
-      "published": "Sun, 17 May 2026 14:03:00 GMT",
-      "description": "# Lindy Ruff reveals simple message to Sabres: ‘JFG’. Buffalo's head coach was pleased with his team's effort in Game 6. He kept repeating a simple message to his club. The Buffalo Sabres got the job done on Saturday night, forcing a Game 7 in their Stanley Cup Playoffs series with the Montreal Cana"
+      "published": "Tue, 19 May 2026 18:44:48 GMT",
+      "description": "# Google Comes for OpenClaw With Gemini Spark, a Personal AI Agent. The open-source OpenClaw launched the start of the personalized AI agent craze, and now the major players are getting in on the action with their own walled-garden offerings. Enter Gemini Spark, Google’s “personal AI agent” offering"
     },
-    "https://hitconsultant.net/2026/05/14/chromie-health-raises-2m-ai-nurse-dispatch/": {
-      "title": "Chromie Health Raises $2M to Automate Hospital Operations via AI Agent \"Dispatch\" - HIT Consultant",
+    "https://zamin.uz/en/technology/202251-figma-adds-ai-agent-to-its-design-platform.html": {
+      "title": "Фигма ўзининг дизайн платформасига сунъий интеллект агентини қўшди - Zamin.uz",
       "source": "Tavily",
-      "published": "Thu, 14 May 2026 10:00:00 GMT",
-      "description": "# Chromie Health Raises $2M to Automate Hospital Operations via AI Agent “Dispatch”. * Chromie Health, a provider of AI-powered hospital management tools, has closed a $2M pre-seed round led by AIX Ventures. * The company has launched Chromie Dispatch, an SMS-native AI agent that fills internal nurs"
+      "published": "Wed, 20 May 2026 13:27:19 GMT",
+      "description": "# Figma adds AI agent to its design platform. In recent months, Figma has partnered with OpenAI and Anthropic, enabling users to leverage coding environments like Claude Code and Codex alongside its design software. Now, the company has introduced a new AI agent that operates within its collaborativ"
     },
-    "https://natlawreview.com/press-releases/zenlytic-launches-zoe-self-learning-ai-data-analyst-onboards-itself": {
-      "title": "Zenlytic Launches Zoë Self-Learning: The AI Data Analyst That Onboards Itself - The National Law Review",
+    "https://www.marketscreener.com/news/zendesk-introduces-the-autonomous-service-workforce-ce7f5ad8d181f72d": {
+      "title": "Zendesk Introduces the Autonomous Service Workforce - marketscreener.com",
       "source": "Tavily",
-      "published": "Wed, 13 May 2026 16:47:51 GMT",
-      "description": "### Zenlytic Launches Zoë Self-Learning: The AI Data Analyst That Onboards Itself. The AI Data Analyst that onboard itself. NEW YORK CITY, NY, UNITED STATES, May 13, 2026 /EINPresswire.com/ -- Zenlytic, the AI data analyst trusted by some of the world’s largest Enterprise companies, today announced "
+      "published": "Wed, 20 May 2026 08:21:06 GMT",
+      "description": "## Zendesk, Inc. London -- At Relate, Zendesk announced the Autonomous Service Workforce. This move replaces standard deflection-based bots with specialised AI agents that operate across all channels and use cases, and are priced solely on the outcomes Zendesk verifiably resolves. At the centre of t"
     },
-    "https://www.lawnext.com/2026/05/aderant-introduces-agent-center-at-momentum-global-targeting-law-firm-back-office-operations-with-ai.html": {
-      "title": "Aderant Introduces Agent Center at Momentum Global, Targeting Law Firm Back-Office Operations with AI - LawSites",
+    "https://skift.com/2026/05/22/b2a-ai-agents-are-travels-new-audience-and-they-dont-care-about-brands/": {
+      "title": "B2A? AI Agents Are Travel’s New Audience — And They Don’t Care About Brands - Skift",
       "source": "Tavily",
-      "published": "Tue, 12 May 2026 14:00:48 GMT",
-      "description": "# Aderant Introduces Agent Center at Momentum Global, Targeting Law Firm Back-Office Operations with AI. Aderant, the Atlanta-based legal business management software company, used its Momentum Global 2026 conference this week to unveil the Aderant Agent Center — a new framework for deploying AI age"
+      "published": "Fri, 22 May 2026 18:06:46 GMT",
+      "description": "## Get unlimited access with Skift Pro. Subscribe now for complete access to Skift.com's trusted coverage of the travel industry. AI Agents Are Travel’s New Audience — And They Don’t Care About Brands. Expedia Group is building a dedicated marketing function aimed not at travelers or business client"
     },
-    "https://finance.yahoo.com/news/basedai-emerges-stealth-launch-hirebase-160000364.html": {
-      "title": "BasedAI Emerges from Stealth to Launch Hirebase, the instant AI Workforce Platform for Businesses - Yahoo Finance",
+    "https://www.itnews.com.au/news/cbas-devops-agent-is-helping-on-call-engineers-on-2am-wake-up-duty-626037": {
+      "title": "CBA's DevOps agent is helping on-call engineers on 2am wake-up duty - iTnews",
       "source": "Tavily",
-      "published": "Wed, 13 May 2026 16:00:00 GMT",
-      "description": "- Best gifts for sister-in-law. - Best birthday gifts for her. - Best gifts for mother-in-law. - Best anniversary gifts for wife. # BasedAI Emerges from Stealth to Launch Hirebase, the instant AI Workforce Platform for Businesses. * The launch follows the strategic acquisition of Warden App's platfo"
+      "published": "Sun, 24 May 2026 20:39:00 GMT",
+      "description": "# CBA's DevOps agent is helping on-call engineers on 2am wake-up duty. The Commonwealth Bank is having an AWS ‘frontier’ AI agent work simultaneously alongside its engineers who are on on-call support rotation with the express aim of making the early wake-up call less taxing. With CBA’s core banking"
     },
-    "https://www.practicalecommerce.com/new-ecommerce-tools-may-12-2026": {
-      "title": "New Ecommerce Tools: May 12, 2026 - Practical Ecommerce",
+    "https://markets.businessinsider.com/news/stocks/callcow-publishes-developer-guide-for-adding-ai-voice-agent-phone-calling-to-openclaw-1036175302": {
+      "title": "CallCow Publishes Developer Guide for Adding AI Voice Agent Phone Calling to OpenClaw - markets.businessinsider.com",
       "source": "Tavily",
-      "published": "Tue, 12 May 2026 14:49:21 GMT",
-      "description": "+ How to Start an Ecommerce Business. This installment includes updates on predictive AI, autonomous marketing, AI-powered website builders, omnichannel fulfillment, programmatic advertising, embedded payment solutions, and cross-border ecommerce. ### New Tools for Merchants. **Shoplazza launches AI"
+      "published": "Tue, 19 May 2026 13:43:56 GMT",
+      "description": "# CallCow Publishes Developer Guide for Adding AI Voice Agent Phone Calling to OpenClaw. Toronto, ON, May 19, 2026 (GLOBE NEWSWIRE) -- CallCow, an AI phone answering service and AI receptionist platform for small businesses, today published a developer guide and released a community-built OpenClaw s"
     }
   },
   "social": {}
