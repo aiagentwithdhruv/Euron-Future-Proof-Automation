@@ -1,6 +1,6 @@
 {
   "competitor": "n8n",
-  "saved_at": "2026-05-25T07:16:36.173158+00:00",
+  "saved_at": "2026-06-01T08:36:14.902088+00:00",
   "site": {
     "https://n8n.io": {
       "http_status": null,
@@ -22,163 +22,175 @@
     },
     "https://blog.n8n.io": {
       "http_status": 200,
-      "content_hash": "fc0e7199758630460239a52f00ebf426de8da8af1bb7db734d09fb13bf4af88b",
+      "content_hash": "d0d322686b944597ca4d57763bfde5fa680b98bbdfc418034ecef19b6c149396",
       "title": "Guide, Tutorials, and Updates on Workflow Automation - n8n Blog",
       "meta_description": "Discover insights, tutorials, and updates on workflow automation. Learn how to enhance your automation processes with expert advice and detailed guides.",
       "headings": [
-        "AI Maturity - Where Enterprises Stand Today",
+        "Sovereign AI in practice:  automate document summarization with IONOS AI Model Hub and Nextcloud",
         "Explore by use case",
+        "How can I make AI Agents more reliable and restrict the actions they can take?",
+        "AI Maturity - Where Enterprises Stand Today",
         "How To Implement Event-Driven Architecture: Models, Trade-Offs, and Operational Realities",
         "Announcing SAP’s strategic investment in n8n",
         "n8n Partners with SAP to bring Visual AI Workflow Orchestration to Enterprise",
         "How n8n is powering the next wave of AI automation at Mercedes-Benz",
         "AI Agent Architecture Patterns: From Prototype To Production",
-        "Building Better Agents: LLM Memory Types and Trade-Offs",
-        "Advanced RAG: Data Cleaning and Retrieval Techniques",
-        "Production AI Playbook: Evaluation and Monitoring"
+        "Building Better Agents: LLM Memory Types and Trade-Offs"
       ],
       "pricing_hints": [],
       "status": "ok"
     }
   },
   "news": {
-    "https://pypi.org/project/harnessforge/": {
-      "title": "harnessforge added to PyPI",
+    "https://pypi.org/project/wexample-wex-addon-services-platform/11.9.3/": {
+      "title": "wexample-wex-addon-services-platform 11.9.3",
       "source": "Pypi.org",
-      "published": "2026-05-23T14:29:32Z",
-      "description": "Universal harness layer for AI coding agents — one command sets up your repo for any agent (Claude Code, Cursor, Codex, Gemini CLI, Aider, OpenHarness)."
-    },
-    "https://pypi.org/project/kctl-n8n/0.4.3/": {
-      "title": "kctl-n8n 0.4.3",
-      "source": "Pypi.org",
-      "published": "2026-05-23T08:03:10Z",
-      "description": "Kodemeio n8n CLI — manage n8n workflow automation instances via the public REST API"
-    },
-    "https://betalist.com/startups/kipn": {
-      "title": "Kipn – Analyze n8n workflows and make scenarios before production failures",
-      "source": "Betalist.com",
-      "published": "2026-05-22T20:40:00Z",
-      "description": "Analyze n8n workflows and make scenarios before production failures"
-    },
-    "https://pypi.org/project/cognitive-firm/": {
-      "title": "cognitive-firm added to PyPI",
-      "source": "Pypi.org",
-      "published": "2026-05-22T19:22:14Z",
-      "description": "A governance kernel for organizations that coordinate persistent human and agent roles."
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/11.1.0/": {
-      "title": "wexample-wex-addon-services-platform 11.1.0",
-      "source": "Pypi.org",
-      "published": "2026-05-22T15:17:43Z",
+      "published": "2026-05-29T12:15:11Z",
       "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://pypi.org/project/kctl-n8n/0.4.1/": {
-      "title": "kctl-n8n 0.4.1",
+    "https://pypi.org/project/wexample-wex-addon-services-platform/11.9.2/": {
+      "title": "wexample-wex-addon-services-platform 11.9.2",
       "source": "Pypi.org",
-      "published": "2026-05-22T03:33:25Z",
-      "description": "Kodemeio n8n CLI — manage n8n workflow automation instances via the public REST API"
-    },
-    "https://pypi.org/project/kctl-n8n/0.4.0/": {
-      "title": "kctl-n8n 0.4.0",
-      "source": "Pypi.org",
-      "published": "2026-05-22T02:44:28Z",
-      "description": "Kodemeio n8n CLI — manage n8n workflow automation instances via the public REST API"
-    },
-    "https://pypi.org/project/kctl-n8n/0.3.0/": {
-      "title": "kctl-n8n 0.3.0",
-      "source": "Pypi.org",
-      "published": "2026-05-22T02:42:50Z",
-      "description": "Kodemeio n8n CLI — manage n8n workflow automation instances via the public REST API"
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/11.0.0/": {
-      "title": "wexample-wex-addon-services-platform 11.0.0",
-      "source": "Pypi.org",
-      "published": "2026-05-21T18:04:41Z",
+      "published": "2026-05-29T11:44:23Z",
       "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://pypi.org/project/kctl-n8n/": {
-      "title": "kctl-n8n added to PyPI",
+    "https://pypi.org/project/scavio/": {
+      "title": "scavio added to PyPI",
       "source": "Pypi.org",
-      "published": "2026-05-21T08:49:11Z",
-      "description": "Kodemeio n8n CLI — manage n8n workflow automation instances via the public REST API"
+      "published": "2026-05-29T11:30:11Z",
+      "description": "Python SDK for the Scavio Search API - real-time Google, Amazon, Walmart, YouTube, Reddit, and TikTok data"
     },
-    "https://pypi.org/project/kctl-n8n/0.2.0/": {
-      "title": "kctl-n8n 0.2.0",
+    "https://pypi.org/project/wexample-wex-addon-services-platform/11.9.1/": {
+      "title": "wexample-wex-addon-services-platform 11.9.1",
       "source": "Pypi.org",
-      "published": "2026-05-21T08:49:11Z",
-      "description": "Kodemeio n8n CLI — manage n8n workflow automation instances via the public REST API"
-    },
-    "https://www.techpowerup.com/349212/amd-announces-ryzen-ai-halo-the-compact-dgx-spark-and-mac-mini-rival": {
-      "title": "AMD Announces Ryzen AI Halo, the Compact DGX Spark and Mac Mini Rival",
-      "source": "Techpowerup.com",
-      "published": "2026-05-21T00:00:33Z",
-      "description": "AMD today released Ryzen AI Halo, a compact AI development computer designed by AMD to serve as a nearly full-stack machine for AI development, inferencing, and generative AI content creation. Ryzen AI Halo is designed to strike a unique balance of price, per…"
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/10.0.1/": {
-      "title": "wexample-wex-addon-services-platform 10.0.1",
-      "source": "Pypi.org",
-      "published": "2026-05-20T20:52:05Z",
+      "published": "2026-05-29T09:02:26Z",
       "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/10.0.0/": {
-      "title": "wexample-wex-addon-services-platform 10.0.0",
+    "https://pypi.org/project/wexample-wex-addon-services-platform/11.8.4/": {
+      "title": "wexample-wex-addon-services-platform 11.8.4",
       "source": "Pypi.org",
-      "published": "2026-05-20T20:39:30Z",
+      "published": "2026-05-29T08:12:28Z",
       "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://www.openpr.com/news/4524494/seedly-crm-launches-self-hosted-customer-relationship": {
-      "title": "Seedly CRM Launches Self-Hosted Customer Relationship Management Platform for Independent Agencies - openPR.com",
-      "source": "Tavily",
-      "published": "Sun, 24 May 2026 04:16:03 GMT",
-      "description": "# Seedly CRM Launches Self-Hosted Customer Relationship Management Platform for Independent Agencies. ## Press release from: ABNewswire. - May 23, 2026 - Seedly CRM, a self-hosted customer relationship management platform developed by Andrew Lee Jenkins LLC, today announced its official launch. The "
+    "https://pypi.org/project/wexample-wex-addon-services-platform/11.8.3/": {
+      "title": "wexample-wex-addon-services-platform 11.8.3",
+      "source": "Pypi.org",
+      "published": "2026-05-28T15:33:36Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://bleacherreport.com/game/los-angeles-dodgers-vs-san-diego-padres-2026-5-19-17-40": {
-      "title": "San Diego Padres vs. Los Angeles Dodgers - May 19, 2026 | Live Scores, Updates, Odds, Injury News and Recaps - Bleacher Report",
-      "source": "Tavily",
-      "published": "Tue, 19 May 2026 14:30:57 GMT",
-      "description": "GamblingHelpLineMA.org or call [phone] for 24/7 support (MA). Call 1-877-8HOPE-NY or Text HOPENY ([phone]) (NY).**. 21+ and present in AZ, CO, CT, IA, IL, IN, KS, KY, LA (permitted parishes only), MA, MD, MI, NJ, NY, OH, PA, TN, VA, WV, or WY. FanDuel is offering online sports wagering in Kansas und"
+    "https://buffer.com/resources/best-social-media-apis/": {
+      "title": "The Best Social Media APIs for Developers + Vibe Coders in 2026",
+      "source": "Buffer.com",
+      "published": "2026-05-28T13:49:22Z",
+      "description": "Compare 10 of the best social media APIs for developers in 2026 — Buffer, Ayrshare, Postiz, Upload-Post, Zernio, Phyllo, and more."
     },
-    "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html": {
-      "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More - The Hacker News",
-      "source": "Tavily",
-      "published": "Mon, 18 May 2026 13:50:00 GMT",
-      "description": "# ⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More. **On-Prem Microsoft Exchange Server Exploited in the Wild**—Microsoft disclosed a security vulnerability impacting on-premise versions of Exchange Server, which has come under active exploitation in the wild. The vulne"
+    "https://www.kdnuggets.com/7-real-world-ai-projects-to-build-in-2026-with-guides": {
+      "title": "7 Real World AI Projects to Build in 2026 (with Guides)",
+      "source": "Kdnuggets.com",
+      "published": "2026-05-28T12:00:12Z",
+      "description": "Explore seven practical AI projects that automate real workflows, including job search, web research, investment research, market trend analysis, invoice processing, chart digitization, and personalized exercise training."
     },
-    "https://www.pehub.com/nautic-backed-integrated-home-care-services-scoops-up-dina-care/": {
-      "title": "Nautic-backed Integrated Home Care Services scoops up Dina Care - pehub.com",
-      "source": "Tavily",
-      "published": "Wed, 20 May 2026 14:27:34 GMT",
-      "description": "### Nearly there! A verification email is on its way to you. Please check your spam or junk folder just in case. If you do not receive this within five minutes, please try to sign in again. If the problem persists, please email:  [email] . **Don't have an account?** Register now. Home News Briefs Na"
+    "https://pypi.org/project/wexample-wex-addon-services-platform/11.8.2/": {
+      "title": "wexample-wex-addon-services-platform 11.8.2",
+      "source": "Pypi.org",
+      "published": "2026-05-28T10:51:45Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://nypost.com/video/cam-schlittler-is-extra-motivated-heading-into-blue-jays-series-subway-series-the-show-ep-201/": {
-      "title": "Cam Schlittler Is Extra Motivated Heading Into Blue Jays Series + Subway Series | The Show Ep. 201 - New York Post",
+    "https://www.redmondpie.com/best-seo-api-in-2026-which-one-should-you-actually-use/": {
+      "title": "Best SEO API In 2026: Which One Should You Actually Use?",
+      "source": "redmondpie.com",
+      "published": "2026-05-27T22:20:09Z",
+      "description": "Looking for the best SEO API? I've tested SE Ranking, SEMrush, DataForSEO, Moz, and Majestic in real projects. Here's what actually works — with pricing, features, and honest trade-offs.\nThe post Best SEO API In 2026: Which One Should You Actually Use? first …"
+    },
+    "https://thenextweb.com/news/frances-startup-scene-is-falling-behind-the-us-and-europe-and-ai-is-both-the-cause-and-the-cure/": {
+      "title": "France’s startup scene is falling behind the US and Europe, and AI is both the cause and the cure",
+      "source": "The Next Web",
+      "published": "2026-05-27T20:44:26Z",
+      "description": "A new report on the French tech ecosystem by Alexandre Dewez, a partner at venture firm 20VC, paints a picture of a startup scene that is growing more dependent on a handful of AI companies while the rest of the market stalls. French startups raised €6.7 bill…"
+    },
+    "https://www.globenewswire.com/news-release/2026/05/27/3302012/0/en/adroll-launches-mcp-server-to-make-campaign-insights-and-actions-available-inside-ai-tools.html": {
+      "title": "AdRoll Launches MCP Server to Make Campaign Insights and",
+      "source": "GlobeNewswire",
+      "published": "2026-05-27T13:02:51Z",
+      "description": "AdRoll launches an MCP Server in open beta, connecting campaign insights and draft-first actions to the AI assistants marketers already use every day...."
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/11.8.0/": {
+      "title": "wexample-wex-addon-services-platform 11.8.0",
+      "source": "Pypi.org",
+      "published": "2026-05-27T11:21:03Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/11.7.0/": {
+      "title": "wexample-wex-addon-services-platform 11.7.0",
+      "source": "Pypi.org",
+      "published": "2026-05-27T08:28:30Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/11.5.0/": {
+      "title": "wexample-wex-addon-services-platform 11.5.0",
+      "source": "Pypi.org",
+      "published": "2026-05-27T06:20:02Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    },
+    "https://www.cnn.com/markets/stocks/INIO": {
+      "title": "symbol__ Stock Quote Price and Forecast - CNN",
       "source": "Tavily",
-      "published": "Mon, 18 May 2026 23:00:00 GMT",
+      "published": "Wed, 27 May 2026 20:47:39 GMT",
+      "description": "Your effort and contribution in providing this feedback is much appreciated. * INIO share price: temporarily unavailable. We are sorry, but this information is temporarily unavailable. * INIO stock price change: temporarily unavailable. * INIO market open/close: temporarily unavailable. INNIO Holdin"
+    },
+    "https://nypost.com/video/watch-moment-civil-rights-leader-asked-if-charlie-kirk-was-dangerous-extremist/": {
+      "title": "Watch moment civil rights leader asked if Charlie Kirk was ‘dangerous extremist’ (Video) - New York Post",
+      "source": "Tavily",
+      "published": "Tue, 26 May 2026 18:17:33 GMT",
+      "description": "Image 2: Watch moment civil rights leader asked if Charlie Kirk was ‘dangerous extremist’. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of t"
+    },
+    "https://nypost.com/video/should-mets-consider-trading-francisco-lindor-bobby-valentines-2000-ws-regret-the-show-ep-202/": {
+      "title": "Should Mets Consider Trading Francisco Lindor? + Bobby Valentine’s 2000 WS Regret | The Show Ep. 202 - New York Post",
+      "source": "Tavily",
+      "published": "Tue, 26 May 2026 22:30:00 GMT",
       "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
     },
-    "https://ca.proactiveinvestors.com/companies/news/1092556/small-cap-wrap-tnr-gold-montero-mining-graphene-manufacturing-group-thistle-resources-1092556.html": {
-      "title": "Small cap wrap: TNR Gold, Montero Mining, Graphene Manufacturing Group, Thistle Resources… - Proactive financial news",
+    "https://nypost.com/video/rfk-jr-leaves-meeting-to-wrangle-highly-venomous-rattlesnake-in-his-driveway/": {
+      "title": "RFK Jr. leaves meeting to wrangle highly venomous rattlesnake in his driveway (Video) - New York Post",
       "source": "Tavily",
-      "published": "Tue, 19 May 2026 15:30:00 GMT",
-      "description": "You understand and agree that no content in this record or published on ProactiveInvestors’ website (the “Site”) constitutes a recommendation that any particular security, portfolio of securities, transaction, or investment strategy is suitable or advisable for any specific person and that no such c"
+      "published": "Sat, 30 May 2026 13:49:00 GMT",
+      "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
     },
-    "https://www.lincolnjournal.com/online_features/press_releases/niihara-international-announces-launch-of-corp-website-and-sec-qualification-of-reg-a-offering/article_9ee43f31-33b9-55c0-9aa7-140f65edd533.html": {
-      "title": "Niihara International Announces Launch of Corp. Website and SEC Qualification of Reg. A Offering - lincolnjournal.com",
+    "https://nypost.com/video/if-the-mets-are-sellers-at-the-trade-deadline-should-francisco-lindor-be-available-the-show/": {
+      "title": "If the Mets are sellers at the trade deadline, should Francisco Lindor be available? | The Show - New York Post",
       "source": "Tavily",
-      "published": "Thu, 21 May 2026 13:40:11 GMT",
-      "description": "You have permission to edit this article. Click here to stay informed and subscribe to the **The Lincoln Journal**. Niihara International, Inc. has launched a new corporate website and received SEC qualification of its Regulation A+ Tier 2 offering to support development and commercialization of the"
+      "published": "Wed, 27 May 2026 22:00:00 GMT",
+      "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
     },
-    "https://www.infoworld.com/article/4173277/antv-data-visualization-tool-the-latest-to-be-hit-by-ongoing-npm-supply-chain-attacks.html": {
-      "title": "AntV data visualization tool the latest to be hit by ongoing npm supply chain attacks - InfoWorld",
+    "https://nypost.com/video/usmnt-fans-have-high-expectations-heading-into-the-world-cup/": {
+      "title": "USMNT fans have HIGH expectations heading into the World Cup (Video) - New York Post",
       "source": "Tavily",
-      "published": "Tue, 19 May 2026 00:00:00 GMT",
-      "description": "The world’s largest open-source registry, node package manager (npm), has been hit by another fast-moving malware attack, this time targeting the widely-used AntV enterprise data visualization tool. Unlike last week’s high-profile npm attack on TanStack, which exploited a complex GitHub Actions cach"
+      "published": "Wed, 27 May 2026 22:30:00 GMT",
+      "description": "#### NYP - Strictly Necessary Cookies and Similar Technologies. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish"
     },
-    "https://variety.com/2026/tv/news/russell-andrews-als-better-caul-saul-1236752527/": {
-      "title": "‘Better Call Saul’ Actor Russell Andrews Shares ALS Diagnosis in Moving CNN Interview - Variety",
+    "http://www.constructiondive.com/news/gilbane-breaks-ground-philadelphia-cancer-lab/821306/": {
+      "title": "Gilbane breaks ground on $450M Philadelphia cancer lab - Construction Dive",
       "source": "Tavily",
-      "published": "Mon, 18 May 2026 15:25:49 GMT",
-      "description": "We and our 246 partners store and access personal data, like browsing data or unique identifiers, on your device. #### Store and/or access information on a device 196 partners can use this purpose. Advertising presented to you on this service can be based on limited data, such as the website or app "
+      "published": "Wed, 27 May 2026 17:14:19 GMT",
+      "description": "Bill Gates-backed TerraPower Isotopes tapped the Providence, Rhode Island-based contractor to head up preconstruction and construction of the core and shell building. A new manufacturing facility in Philadelphia, dedicated to producing cancer-fighting molecules, broke ground earlier this month. Gilb"
+    },
+    "https://www.csoonline.com/article/4177019/trapdoor-malware-campaign-puts-developer-workstations-in-ciso-spotlight.html": {
+      "title": "TrapDoor malware campaign puts developer workstations in CISO spotlight - csoonline.com",
+      "source": "Tavily",
+      "published": "Tue, 26 May 2026 00:00:00 GMT",
+      "description": "## Malicious packages across npm, PyPI, and Crates.io show how poisoned developer workflows can become a route into enterprise systems. A malicious package campaign across npm, PyPI, and Crates.io has put developer workstations back under scrutiny, after researchers said it targeted developer workfl"
+    },
+    "https://theokpost.com/news/business/usa-rare-earth-ceo-quotes-taylor-swift-defends-lutnick-deal-and-calls-critics-haters-we-have-some-follow-up-questions-2/2026/05/28/": {
+      "title": "USA Rare Earth CEO Quotes Taylor Swift, Defends Lutnick Deal and Calls Critics Haters. We Have Some Follow-Up Questions. - The Oklahoma Post",
+      "source": "Tavily",
+      "published": "Thu, 28 May 2026 14:17:50 GMT",
+      "description": "To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. The technical storage or access is strictly necessary for the legitimate p"
+    },
+    "https://letsdatascience.com/news/seo-poisoning-distributes-fake-gemini-and-claude-installers-34ef26bf": {
+      "title": "SEO Poisoning Distributes Fake Gemini and Claude Installers - Let's Data Science",
+      "source": "Tavily",
+      "published": "Tue, 26 May 2026 08:11:50 GMT",
+      "description": "Security researchers at **EclecticIQ** identified an SEO poisoning campaign in **early March 2026** that used typosquatted domains to impersonate Gemini CLI and Claude Code installation pages, according to EclecticIQ's report and coverage by **Infosecurity Magazine** and **SOC Prime**. Victims who c"
     }
   },
   "social": {
@@ -188,47 +200,47 @@
       "published": "",
       "content": "Workflow automation for technical teams to build AI solutions that integrate with any app or API at no-code speed and code flexibility. Open and self-hostable."
     },
-    "https://x.com/n8n_io/status/2008825994728161614": {
+    "https://x.com/n8n_io/status/2041569006444810633": {
       "platform": "twitter",
-      "title": "n8n.io",
+      "title": "Etienne Lescot built n8n as Code, a tool that lets you create n8n ...",
       "published": "",
-      "content": "Jan 7, 2026 ... n8n.io (@n8n_io). Aggregate news from NewsAPI, Mediastack, and CurrentsAPI into one database with n8n. Articles are normalized automatically"
+      "content": "Etienne Lescot built n8n as Code, a tool that lets you create n8n workflows directly in Cursor, VS Code, Claude Code, or OpenClaw."
     },
-    "https://x.com/n8n_io/status/2024487534948962379": {
+    "https://x.com/n8n_io/status/1924480363759374511": {
       "platform": "twitter",
-      "title": "n8n.io",
+      "title": "New to n8n or already building advanced workflows? Either way ...",
       "published": "",
-      "content": "Feb 19, 2026 ... n8n.io (@n8n_io). 22 likes. Next Thursday, February 26th: join us at our monthly Community Livestream! We'll unveil our new monthly"
+      "content": "New to n8n or already building advanced workflows? Either way, you'll want to check out these 25 useful tips from Nate Herk."
     },
-    "https://x.com/n8n_io/status/2013899447214747850": {
+    "https://x.com/n8n_io/status/2028757963771412630": {
       "platform": "twitter",
-      "title": "Chicago! We're looking for our next n8n Ambassadors. If you love ...",
+      "title": "This n8n template shows five ways to evaluate AI outputs. Use ...",
       "published": "",
-      "content": "Jan 21, 2026 ... n8n.io (@n8n_io). Chicago! We're looking for our next n8n Ambassadors. If you love automation, community-building, and putting workflows"
-    },
-    "https://x.com/n8n_io/status/2026632387359047876": {
-      "platform": "twitter",
-      "title": "This week's featured n8n template simplifies stock analysis. It pulls ...",
-      "published": "",
-      "content": "Feb 25, 2026 ... n8n.io (@n8n_io). 75 likes 8 replies. This week's featured n8n template simplifies stock analysis. It pulls daily price data,"
+      "content": "This n8n template shows five ways to evaluate AI outputs. Use Google Sheets or data tables to compare models like Gemini, Claude, GPT,"
     },
     "https://x.com/n8n_io/status/2016436170092089844": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
-      "content": "Jan 28, 2026 ... n8n.io (@n8n_io). 172 likes 7 replies. Your devs built it. Now your whole team can use it. With Chat Hub, you can expose powerful n8n AI"
+      "content": "With Chat Hub, you can expose powerful n8n AI agents to Sales, Support, Marketing and more without them needing to understand nodes or JSON. ✓"
     },
-    "https://x.com/n8n_io/status/2054583957627232756": {
+    "https://x.com/n8n_io/status/1987883157174071582": {
       "platform": "twitter",
-      "title": "@mention an agent built with n8n in Microsoft Teams or email it in ...",
+      "title": "Connect AI-powered n8n workflows with your @Oracle Database in ...",
       "published": "",
-      "content": "May 13, 2026 ... Let Microsoft handle identity, access, and compliance. That's the Microsoft Agent 365 Trigger node, and we're walking through it end to end with"
+      "content": "Connect AI-powered n8n workflows with your @Oracle Database in just a few clicks. Use the new Oracle Database node for CRUD or custom SQL"
+    },
+    "https://x.com/n8n_io/status/2018358796628734106": {
+      "platform": "twitter",
+      "title": "n8n now has an Official AI Benchmark We tested 60+ models across ...",
+      "published": "",
+      "content": "n8n now has an Official AI Benchmark We tested 60+ models across 8 categories to find which ones actually perform best inside n8n."
     },
     "https://x.com/n8n_io/status/1935351988218167766": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
-      "content": "Jun 18, 2025 ... n8n.io (@n8n_io). 449 likes 16 replies. Complex workflow? Break it down into sub-workflows for better performance and easier re-use."
+      "content": "Steps to get more modular workflows: 1. Select a set of connected nodes 2. Right-click and select Convert to sub-workflow (or Alt + X) 3. Watch magic happen."
     }
   }
 }

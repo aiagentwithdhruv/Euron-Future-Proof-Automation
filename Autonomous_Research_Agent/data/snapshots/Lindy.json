@@ -1,6 +1,6 @@
 {
   "competitor": "Lindy",
-  "saved_at": "2026-05-25T07:16:40.250446+00:00",
+  "saved_at": "2026-06-01T08:36:19.023460+00:00",
   "site": {
     "https://www.lindy.ai": {
       "http_status": null,
@@ -31,65 +31,65 @@
     }
   },
   "news": {
-    "https://www.infosecurity-magazine.com/opinions/agents-are-here-security-must-be/": {
-      "title": "AI Agents Are Here. Security Must Be an Accelerator for AI Transformation - Infosecurity Magazine",
+    "https://pitchbook.com/news/articles/want-to-invest-in-my-startup-talk-to-my-agent": {
+      "title": "Want to invest in my startup? Talk to my agent. - PitchBook",
       "source": "Tavily",
-      "published": "Wed, 20 May 2026 10:00:00 GMT",
-      "description": "Infosecurity Magazine Home » Opinions » AI Agents Are Here. Security Must Be an Accelerator for AI Transformation. # AI Agents Are Here. Most organizations are still relying on security controls designed for human users and static applications. That mismatch is surfacing concrete risks: uncontrolled"
+      "published": "Fri, 29 May 2026 17:04:32 GMT",
+      "description": "## There’s a big gap in VCs’ and founders’ comfort with AI agents in the fundraising process—and it’s creating new tensions. Polsia, an AI agent orchestration startup, had its agent of the same name raise a $30 million funding round at a $250 million valuation this month. Ben Broca, Polsia’s founder"
     },
-    "https://gizmodo.com/tag/gemini-spark": {
-      "title": "gemini spark - Gizmodo",
+    "https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html": {
+      "title": "Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too - CNBC",
       "source": "Tavily",
-      "published": "Tue, 19 May 2026 18:49:43 GMT",
-      "description": "# gemini spark. ### Google Comes for OpenClaw With Gemini Spark, a Personal AI Agent. An AI agent for anyone (willing to pay $100 a month for it). Artificial Intelligence     AJ Dellinger     May 19. ## Want more stories like these? Sign up for our newsletter and stay in the loop with fresh content,"
+      "published": "Wed, 27 May 2026 12:32:01 GMT",
+      "description": "# Your AI agent can now trade for you on Robinhood. * Robinhood unveiled tools that let AI agents trade stocks and make purchases on users' behalf. * \"Our mission has always been to democratize finance for all, and now, that mission extends to AI agents,\" CEO Vlad Tenev said. Robinhood unveiled tool"
     },
-    "https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197": {
-      "title": "Google Unveils New Gemini AI Agent for Personal Tasks - WSJ",
+    "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/": {
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that - TechCrunch",
       "source": "Tavily",
-      "published": "Tue, 19 May 2026 17:45:00 GMT",
-      "description": "# Google Unveils New Gemini AI Agent for Personal Tasks - WSJ. S&P [phone].11 -0.38%. https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b[phone]. # Google Unveils New Gemini AI Agent for Personal Tasks. Image 1: Sundar Pichai, CEO of Google, speaks at a developer conf"
+      "published": "Fri, 29 May 2026 18:49:19 GMT",
+      "description": "Artificial intelligence is changing the world, and simultaneously inventing a whole new language to describe how it’s doing it. But it generally refers to AI that’s more capable than the average human at many, if not most, tasks. OpenAI CEO Sam Altman once described AGI as the “equivalent of a media"
     },
-    "https://ignitesap.com/sap-ai-agent-hub-and-agent-governance/": {
-      "title": "SAP AI Agent Hub and Agent Governance - IgniteSAP",
+    "https://www.gsmarena.com/vertu_unveils_alphafold_its_first_bookstyle_foldable_and_boasts_about_its_hermes_ai_agent-news-73049.php": {
+      "title": "Vertu unveils AlphaFold, its first book-style foldable and boasts about its Hermes AI agent - GSMArena.com news - GSMArena.com",
       "source": "Tavily",
-      "published": "Tue, 19 May 2026 11:31:33 GMT",
-      "description": "#### SAP AI Agent Hub and Agent Governance. SAP introduced the SAP Business AI Platform as a consolidation of BTP, SAP Business Data Cloud, and SAP Business AI into a single governed environment, structured around three layers: context, build, and governance. Christian Klein’s argument for SAP’s new"
+      "published": "Fri, 29 May 2026 18:49:02 GMT",
+      "description": "# Vertu unveils AlphaFold, its first book-style foldable and boasts about its Hermes AI agent. Vertu is on a foldable phone kick – following the Quantum Flip, the luxury brand has now launched the AlphaFold globally, its first book-style foldable. And while it has the requisite premium materials, th"
     },
-    "https://gizmodo.com/google-comes-for-openclaw-with-gemini-spark-a-personal-ai-agent-2000760778": {
-      "title": "Google Comes for OpenClaw With Gemini Spark, a Personal AI Agent - Gizmodo",
+    "https://www.hospitalitynet.org/news/4132660/bcd-launches-model-context-protocol-framework-to-accelerate-agentic-ai-within-its-open-tripsource-platform": {
+      "title": "BCD launches Model Context Protocol framework to accelerate agentic AI within its open Tripsource platform - Hospitality Net",
       "source": "Tavily",
-      "published": "Tue, 19 May 2026 18:44:48 GMT",
-      "description": "# Google Comes for OpenClaw With Gemini Spark, a Personal AI Agent. The open-source OpenClaw launched the start of the personalized AI agent craze, and now the major players are getting in on the action with their own walled-garden offerings. Enter Gemini Spark, Google’s “personal AI agent” offering"
+      "published": "Thu, 28 May 2026 12:45:32 GMT",
+      "description": "# BCD launches Model Context Protocol framework to accelerate agentic AI within its open Tripsource platform. ## This milestone reinforces BCD's commitment to delivering greater value to its customers through agentic AI and an open approach to travel management. BCD's Model Context Protocol framewor"
     },
-    "https://zamin.uz/en/technology/202251-figma-adds-ai-agent-to-its-design-platform.html": {
-      "title": "Фигма ўзининг дизайн платформасига сунъий интеллект агентини қўшди - Zamin.uz",
+    "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/": {
+      "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails - SecurityWeek",
       "source": "Tavily",
-      "published": "Wed, 20 May 2026 13:27:19 GMT",
-      "description": "# Figma adds AI agent to its design platform. In recent months, Figma has partnered with OpenAI and Anthropic, enabling users to leverage coding environments like Claude Code and Codex alongside its design software. Now, the company has introduced a new AI agent that operates within its collaborativ"
+      "published": "Thu, 28 May 2026 12:00:00 GMT",
+      "description": "France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time. Other causes of drift are explained in detail in France-based Edamame’s announcement of its solution to c"
     },
-    "https://www.marketscreener.com/news/zendesk-introduces-the-autonomous-service-workforce-ce7f5ad8d181f72d": {
-      "title": "Zendesk Introduces the Autonomous Service Workforce - marketscreener.com",
+    "https://opentools.ai/news/cognition-scott-wu-ai-coding-agents-augment-not-replace": {
+      "title": "Cognition CEO Scott Wu: AI Coding Agents Should Augment, Not Replace Developers - OpenTools",
       "source": "Tavily",
-      "published": "Wed, 20 May 2026 08:21:06 GMT",
-      "description": "## Zendesk, Inc. London -- At Relate, Zendesk announced the Autonomous Service Workforce. This move replaces standard deflection-based bots with specialised AI agents that operate across all channels and use cases, and are priced solely on the outcomes Zendesk verifiably resolves. At the centre of t"
+      "published": "Sat, 30 May 2026 04:30:51 GMT",
+      "description": "# Cognition CEO Scott Wu: AI Coding Agents Should Augment, Not Replace Developers. Cognition CEO Scott Wu says Devin is 'somewhere between a junior and mid‑level engineer' and insists the goal is augmentation, not replacement — even as 89% of his own engineers' code now comes from AI. ## The $26 Bil"
     },
-    "https://skift.com/2026/05/22/b2a-ai-agents-are-travels-new-audience-and-they-dont-care-about-brands/": {
-      "title": "B2A? AI Agents Are Travel’s New Audience — And They Don’t Care About Brands - Skift",
+    "https://cryptobriefing.com/coreweave-agentic-ai-sandboxes-launch/": {
+      "title": "CoreWeave launches agentic AI tools to enhance real-world learning - Crypto Briefing",
       "source": "Tavily",
-      "published": "Fri, 22 May 2026 18:06:46 GMT",
-      "description": "## Get unlimited access with Skift Pro. Subscribe now for complete access to Skift.com's trusted coverage of the travel industry. AI Agents Are Travel’s New Audience — And They Don’t Care About Brands. Expedia Group is building a dedicated marketing function aimed not at travelers or business client"
+      "published": "Thu, 28 May 2026 12:32:38 GMT",
+      "description": "The former Ethereum mining company rolls out secure sandbox environments designed to let AI agents learn from live production scenarios while cutting training costs. CoreWeave, the AI infrastructure company that once made its living mining Ethereum, just unveiled a product that lets AI models learn "
     },
-    "https://www.itnews.com.au/news/cbas-devops-agent-is-helping-on-call-engineers-on-2am-wake-up-duty-626037": {
-      "title": "CBA's DevOps agent is helping on-call engineers on 2am wake-up duty - iTnews",
+    "https://markets.ft.com/data/announce/detail?dockey=600-202605281603BIZWIRE_USPRX____20260528_BW515345-1": {
+      "title": "Asana Acquires StackAI, Adding Cross-System Execution for Human-Agent Teams – Company Announcement - Financial Times",
       "source": "Tavily",
-      "published": "Sun, 24 May 2026 20:39:00 GMT",
-      "description": "# CBA's DevOps agent is helping on-call engineers on 2am wake-up duty. The Commonwealth Bank is having an AWS ‘frontier’ AI agent work simultaneously alongside its engineers who are on on-call support rotation with the express aim of making the early wake-up call less taxing. With CBA’s core banking"
+      "published": "Thu, 28 May 2026 20:03:00 GMT",
+      "description": "### Asana Acquires StackAI, Adding Cross-System Execution for Human-Agent Teams. *Acquisition adds orchestration for complex workflows that span enterprise systems, data, and teams*. (NYSE: ASAN)(LTSE: ASAN), the operating system for human-agent teams, today announced it has completed the acquisitio"
     },
-    "https://markets.businessinsider.com/news/stocks/callcow-publishes-developer-guide-for-adding-ai-voice-agent-phone-calling-to-openclaw-1036175302": {
-      "title": "CallCow Publishes Developer Guide for Adding AI Voice Agent Phone Calling to OpenClaw - markets.businessinsider.com",
+    "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/": {
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans - TechCrunch",
       "source": "Tavily",
-      "published": "Tue, 19 May 2026 13:43:56 GMT",
-      "description": "# CallCow Publishes Developer Guide for Adding AI Voice Agent Phone Calling to OpenClaw. Toronto, ON, May 19, 2026 (GLOBE NEWSWIRE) -- CallCow, an AI phone answering service and AI receptionist platform for small businesses, today published a developer guide and released a community-built OpenClaw s"
+      "published": "Fri, 29 May 2026 16:13:47 GMT",
+      "description": "# Cognition’s Scott Wu says AI coding agents shouldn’t replace humans. Cognition is the maker of Devin, one of the first and, arguably, most successful AI coding agents. In fact, in the blog post announcing that raise, Cognition laid out a vision where “we are shifting to a world of self-driving sof"
     }
   },
   "social": {}
