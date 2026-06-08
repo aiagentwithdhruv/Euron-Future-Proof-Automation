@@ -1,6 +1,6 @@
 {
   "competitor": "n8n",
-  "saved_at": "2026-06-01T08:36:14.902088+00:00",
+  "saved_at": "2026-06-08T08:11:14.099994+00:00",
   "site": {
     "https://n8n.io": {
       "http_status": null,
@@ -22,175 +22,169 @@
     },
     "https://blog.n8n.io": {
       "http_status": 200,
-      "content_hash": "d0d322686b944597ca4d57763bfde5fa680b98bbdfc418034ecef19b6c149396",
+      "content_hash": "0fa304c968ac5b7160c669e3e8ac152ae355eb203c97ae7820adcbd054339a36",
       "title": "Guide, Tutorials, and Updates on Workflow Automation - n8n Blog",
       "meta_description": "Discover insights, tutorials, and updates on workflow automation. Learn how to enhance your automation processes with expert advice and detailed guides.",
       "headings": [
-        "Sovereign AI in practice:  automate document summarization with IONOS AI Model Hub and Nextcloud",
+        "What Are AI Hallucinations? And How To Improve Accuracy in Pipelines",
         "Explore by use case",
+        "Comparing 8 Cloud Integration Platforms for Enterprise IT",
+        "Data Mapping Best Practices for Cross-System Integration",
+        "AI agent performance metrics: what to track and why",
+        "How to debug failures or missteps in AI agent behavior?",
+        "Sovereign AI in practice:  automate document summarization with IONOS AI Model Hub and Nextcloud",
         "How can I make AI Agents more reliable and restrict the actions they can take?",
         "AI Maturity - Where Enterprises Stand Today",
-        "How To Implement Event-Driven Architecture: Models, Trade-Offs, and Operational Realities",
-        "Announcing SAP’s strategic investment in n8n",
-        "n8n Partners with SAP to bring Visual AI Workflow Orchestration to Enterprise",
-        "How n8n is powering the next wave of AI automation at Mercedes-Benz",
-        "AI Agent Architecture Patterns: From Prototype To Production",
-        "Building Better Agents: LLM Memory Types and Trade-Offs"
+        "How To Implement Event-Driven Architecture: Models, Trade-Offs, and Operational Realities"
       ],
       "pricing_hints": [],
       "status": "ok"
     }
   },
   "news": {
-    "https://pypi.org/project/wexample-wex-addon-services-platform/11.9.3/": {
-      "title": "wexample-wex-addon-services-platform 11.9.3",
+    "https://www.tecmint.com/microsoft-teams-alternatives-linux/": {
+      "title": "16 Microsoft Teams Alternatives for Linux Users in 2026",
+      "source": "Tecmint.com",
+      "published": "2026-06-06T04:00:44Z",
+      "description": "The post 16 Microsoft Teams Alternatives for Linux Users in 2026 first appeared on Tecmint: Linux Howtos, Tutorials & Guides .In this guide, we explore the best Microsoft Teams alternatives for Linux that you can use to collaborate with your\nThe post 16 Micro…"
+    },
+    "https://www.prnewswire.com/news-releases/willow-raises-7m-seed-to-ensure-enterprises-can-fully-oversee-and-govern-autonomous-agents-302791492.html": {
+      "title": "Willow Raises $7M Seed to Ensure Enterprises Can Fully Oversee and Govern Autonomous Agents",
+      "source": "PRNewswire",
+      "published": "2026-06-04T13:09:00Z",
+      "description": "Already used by thousands of employees at website building platform Wix, Willow equips enterprises with 360-degree visibility of an AI agent's activity, while securely controlling how agents access internal systems, data, and enterprise tools HERZLIYA, Israel…"
+    },
+    "https://serpapi.com/blog/building-an-ai-agent-in-python/": {
+      "title": "Adrarsh Divakaran: Building AI Agents in Python",
+      "source": "Serpapi.com",
+      "published": "2026-06-04T06:50:00Z",
+      "description": "2026 is shaping up to be a big year for AI agents. We are seeing more products where the AI not only answers a question but also does some work for the user...."
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/12.0.1/": {
+      "title": "wexample-wex-addon-services-platform 12.0.1",
       "source": "Pypi.org",
-      "published": "2026-05-29T12:15:11Z",
+      "published": "2026-06-04T06:12:58Z",
       "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/11.9.2/": {
-      "title": "wexample-wex-addon-services-platform 11.9.2",
-      "source": "Pypi.org",
-      "published": "2026-05-29T11:44:23Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://pypi.org/project/scavio/": {
-      "title": "scavio added to PyPI",
-      "source": "Pypi.org",
-      "published": "2026-05-29T11:30:11Z",
-      "description": "Python SDK for the Scavio Search API - real-time Google, Amazon, Walmart, YouTube, Reddit, and TikTok data"
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/11.9.1/": {
-      "title": "wexample-wex-addon-services-platform 11.9.1",
-      "source": "Pypi.org",
-      "published": "2026-05-29T09:02:26Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/11.8.4/": {
-      "title": "wexample-wex-addon-services-platform 11.8.4",
-      "source": "Pypi.org",
-      "published": "2026-05-29T08:12:28Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/11.8.3/": {
-      "title": "wexample-wex-addon-services-platform 11.8.3",
-      "source": "Pypi.org",
-      "published": "2026-05-28T15:33:36Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://buffer.com/resources/best-social-media-apis/": {
-      "title": "The Best Social Media APIs for Developers + Vibe Coders in 2026",
-      "source": "Buffer.com",
-      "published": "2026-05-28T13:49:22Z",
-      "description": "Compare 10 of the best social media APIs for developers in 2026 — Buffer, Ayrshare, Postiz, Upload-Post, Zernio, Phyllo, and more."
-    },
-    "https://www.kdnuggets.com/7-real-world-ai-projects-to-build-in-2026-with-guides": {
-      "title": "7 Real World AI Projects to Build in 2026 (with Guides)",
-      "source": "Kdnuggets.com",
-      "published": "2026-05-28T12:00:12Z",
-      "description": "Explore seven practical AI projects that automate real workflows, including job search, web research, investment research, market trend analysis, invoice processing, chart digitization, and personalized exercise training."
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/11.8.2/": {
-      "title": "wexample-wex-addon-services-platform 11.8.2",
-      "source": "Pypi.org",
-      "published": "2026-05-28T10:51:45Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://www.redmondpie.com/best-seo-api-in-2026-which-one-should-you-actually-use/": {
-      "title": "Best SEO API In 2026: Which One Should You Actually Use?",
-      "source": "redmondpie.com",
-      "published": "2026-05-27T22:20:09Z",
-      "description": "Looking for the best SEO API? I've tested SE Ranking, SEMrush, DataForSEO, Moz, and Majestic in real projects. Here's what actually works — with pricing, features, and honest trade-offs.\nThe post Best SEO API In 2026: Which One Should You Actually Use? first …"
-    },
-    "https://thenextweb.com/news/frances-startup-scene-is-falling-behind-the-us-and-europe-and-ai-is-both-the-cause-and-the-cure/": {
-      "title": "France’s startup scene is falling behind the US and Europe, and AI is both the cause and the cure",
-      "source": "The Next Web",
-      "published": "2026-05-27T20:44:26Z",
-      "description": "A new report on the French tech ecosystem by Alexandre Dewez, a partner at venture firm 20VC, paints a picture of a startup scene that is growing more dependent on a handful of AI companies while the rest of the market stalls. French startups raised €6.7 bill…"
-    },
-    "https://www.globenewswire.com/news-release/2026/05/27/3302012/0/en/adroll-launches-mcp-server-to-make-campaign-insights-and-actions-available-inside-ai-tools.html": {
-      "title": "AdRoll Launches MCP Server to Make Campaign Insights and",
+    "https://www.globenewswire.com/news-release/2026/06/03/3306296/0/en/Stop-duct-taping-human-email-into-machine-workflows-Meet-Hostinger-Agentic-Mail.html": {
+      "title": "Stop duct-taping human email into machine workflows: Meet Hostinger Agentic Mail",
       "source": "GlobeNewswire",
-      "published": "2026-05-27T13:02:51Z",
-      "description": "AdRoll launches an MCP Server in open beta, connecting campaign insights and draft-first actions to the AI assistants marketers already use every day...."
+      "published": "2026-06-03T16:08:00Z",
+      "description": "Hostinger launches Agentic Mail, a service built for developers and automation builders who need email to work like infrastructure for AI agents, not like a human inbox. Hostinger launches Agentic Mail, a service built for developers and automation builders w…"
     },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/11.8.0/": {
-      "title": "wexample-wex-addon-services-platform 11.8.0",
+    "https://www.businessinsider.com/flexport-upskilling-ai-employee-program-product-engineering-2026-6": {
+      "title": "A software engineer created a 90-day AI course to help workers across departments build the tech they want",
+      "source": "Business Insider",
+      "published": "2026-06-03T15:45:48Z",
+      "description": "Flexport's AI training was built in-house to give employees automation and vibe-coding skills crucial to modern supply chain management."
+    },
+    "https://www.infoq.com/presentations/choosing-ai-copilot/": {
+      "title": "Presentation: Choosing Your AI Copilot: Maximizing Developer Productivity",
+      "source": "InfoQ.com",
+      "published": "2026-06-03T11:05:00Z",
+      "description": "Sepehr Khosravi discusses the evolution of developer productivity tools. Evaluating the strengths of tools like Cursor and Claude Code, he explains actionable techniques for senior engineers - including context engineering, custom rules, and Model Context Pro…"
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/12.0.0/": {
+      "title": "wexample-wex-addon-services-platform 12.0.0",
       "source": "Pypi.org",
-      "published": "2026-05-27T11:21:03Z",
+      "published": "2026-06-03T10:37:49Z",
       "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/11.7.0/": {
-      "title": "wexample-wex-addon-services-platform 11.7.0",
+    "https://www.businessinsider.com/graduated-from-harvard-no-full-time-job-landed-at-google-2026-6": {
+      "title": "I graduated from Harvard with no full-time job, a ticking visa clock, and a Big Tech dream. Here's how I found my way to Google.",
+      "source": "Business Insider",
+      "published": "2026-06-03T09:11:01Z",
+      "description": "A Harvard MBA graduate secured a Google role by leveraging networking after facing job search challenges as an international student."
+    },
+    "https://www.techradar.com/pro/stop-duct-taping-human-email-into-machine-workflows-hostinger-unleashes-agentic-mail-to-fix-the-biggest-bottleneck-in-ai-automation": {
+      "title": "'Stop duct-taping human email into machine workflows' — Hostinger unleashes Agentic Mail to fix the biggest bottleneck in AI automation",
+      "source": "TechRadar",
+      "published": "2026-06-02T23:30:00Z",
+      "description": "Hostinger introduces Agentic Mail, reworking email infrastructure to support AI agents through real-time automation, webhook triggers, and controlled workflows."
+    },
+    "https://github.com/Reloops-App/reloops/": {
+      "title": "Show HN: Reloops – Open-Source Frame.io Alternative for AI Agents and Teams",
+      "source": "Github.com",
+      "published": "2026-06-02T22:49:29Z",
+      "description": "Article URL: https://github.com/Reloops-App/reloops/\nComments URL: https://news.ycombinator.com/item?id=[phone]\nPoints: 1\n# Comments: 0"
+    },
+    "https://pypi.org/project/conservation-guardian/": {
+      "title": "conservation-guardian added to PyPI",
       "source": "Pypi.org",
-      "published": "2026-05-27T08:28:30Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+      "published": "2026-06-02T16:50:02Z",
+      "description": "Generic Workflow Conservation Engine — analyze any workflow for cost efficiency and detect waste"
     },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/11.5.0/": {
-      "title": "wexample-wex-addon-services-platform 11.5.0",
-      "source": "Pypi.org",
-      "published": "2026-05-27T06:20:02Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    "https://dzone.com/articles/langgraph-ai-config-migration": {
+      "title": "Migrate a Hardcoded LangGraph Agent to LaunchDarkly AI Configs in 20 Minutes",
+      "source": "Dzone.com",
+      "published": "2026-06-02T16:00:01Z",
+      "description": "In this tutorial, you’ll run a small LangGraph agent locally, then migrate its hardcoded prompts, model choice, and tools into LaunchDarkly AI Configs. After the migration, every prompt tweak, model swap, or tool change ships as a LaunchDarkly update instead …"
     },
-    "https://www.cnn.com/markets/stocks/INIO": {
-      "title": "symbol__ Stock Quote Price and Forecast - CNN",
+    "https://github.com/TerseAI/Terse": {
+      "title": "Show HN: Terse, TypeScript First Workflow Builder",
+      "source": "Github.com",
+      "published": "2026-06-02T15:50:50Z",
+      "description": "Hi!After months of building, we are now opening up Terse for beta/early access and made our repo public.Terse is an Open Source (SU License) typescript first Zapier/n8n alternative built to work with Claude Code from the ground up.We found that UI Workflow bu…"
+    },
+    "http://wwd.com/sourcing-journal/industry-news/coppel-teams-up-with-first-insight-1238988599/": {
+      "title": "Tech Tuesday: Coppel Teams with First Insight",
+      "source": "WWD",
+      "published": "2026-06-02T14:00:00Z",
+      "description": "Coppel teams up with First Insight's AI tools to optimize pricing, assortments, and design for its private label growth strategy."
+    },
+    "https://nypost.com/video/us-military-takes-down-drug-smugglers-transporting-391-lbs-of-cocaine/": {
+      "title": "US military takes down drug smugglers transporting 391 lbs. of cocaine (Video) - New York Post",
       "source": "Tavily",
-      "published": "Wed, 27 May 2026 20:47:39 GMT",
-      "description": "Your effort and contribution in providing this feedback is much appreciated. * INIO share price: temporarily unavailable. We are sorry, but this information is temporarily unavailable. * INIO stock price change: temporarily unavailable. * INIO market open/close: temporarily unavailable. INNIO Holdin"
-    },
-    "https://nypost.com/video/watch-moment-civil-rights-leader-asked-if-charlie-kirk-was-dangerous-extremist/": {
-      "title": "Watch moment civil rights leader asked if Charlie Kirk was ‘dangerous extremist’ (Video) - New York Post",
-      "source": "Tavily",
-      "published": "Tue, 26 May 2026 18:17:33 GMT",
-      "description": "Image 2: Watch moment civil rights leader asked if Charlie Kirk was ‘dangerous extremist’. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of t"
-    },
-    "https://nypost.com/video/should-mets-consider-trading-francisco-lindor-bobby-valentines-2000-ws-regret-the-show-ep-202/": {
-      "title": "Should Mets Consider Trading Francisco Lindor? + Bobby Valentine’s 2000 WS Regret | The Show Ep. 202 - New York Post",
-      "source": "Tavily",
-      "published": "Tue, 26 May 2026 22:30:00 GMT",
+      "published": "Mon, 01 Jun 2026 20:59:01 GMT",
       "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
     },
-    "https://nypost.com/video/rfk-jr-leaves-meeting-to-wrangle-highly-venomous-rattlesnake-in-his-driveway/": {
-      "title": "RFK Jr. leaves meeting to wrangle highly venomous rattlesnake in his driveway (Video) - New York Post",
+    "https://nypost.com/video/carlos-mendoza-is-confident-mets-can-still-make-the-playoffs-will-tarik-skubal-get-traded-the-show-ep-203/": {
+      "title": "Carlos Mendoza Is Confident Mets Can Still Make The Playoffs + Will Tarik Skubal Get Traded? | The Show Ep. 203 - New York Post",
       "source": "Tavily",
-      "published": "Sat, 30 May 2026 13:49:00 GMT",
+      "published": "Tue, 02 Jun 2026 22:51:12 GMT",
       "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
     },
-    "https://nypost.com/video/if-the-mets-are-sellers-at-the-trade-deadline-should-francisco-lindor-be-available-the-show/": {
-      "title": "If the Mets are sellers at the trade deadline, should Francisco Lindor be available? | The Show - New York Post",
+    "https://nypost.com/video/vibes-are-high-outside-madison-square-garden-the-day-after-knicks-win-game-1/": {
+      "title": "Vibes are HIGH outside Madison Square Garden the day after Knicks win Game 1 (Video) - New York Post",
       "source": "Tavily",
-      "published": "Wed, 27 May 2026 22:00:00 GMT",
-      "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
-    },
-    "https://nypost.com/video/usmnt-fans-have-high-expectations-heading-into-the-world-cup/": {
-      "title": "USMNT fans have HIGH expectations heading into the World Cup (Video) - New York Post",
-      "source": "Tavily",
-      "published": "Wed, 27 May 2026 22:30:00 GMT",
+      "published": "Fri, 05 Jun 2026 00:00:42 GMT",
       "description": "#### NYP - Strictly Necessary Cookies and Similar Technologies. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish"
     },
-    "http://www.constructiondive.com/news/gilbane-breaks-ground-philadelphia-cancer-lab/821306/": {
-      "title": "Gilbane breaks ground on $450M Philadelphia cancer lab - Construction Dive",
+    "https://nypost.com/video/mets-gaining-momentum-again-presented-by-your-local-ford-dealers/": {
+      "title": "Mets gaining momentum again? | Presented By Your Local Ford Dealers (Video) - New York Post",
       "source": "Tavily",
-      "published": "Wed, 27 May 2026 17:14:19 GMT",
-      "description": "Bill Gates-backed TerraPower Isotopes tapped the Providence, Rhode Island-based contractor to head up preconstruction and construction of the core and shell building. A new manufacturing facility in Philadelphia, dedicated to producing cancer-fighting molecules, broke ground earlier this month. Gilb"
+      "published": "Mon, 01 Jun 2026 13:00:00 GMT",
+      "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
     },
-    "https://www.csoonline.com/article/4177019/trapdoor-malware-campaign-puts-developer-workstations-in-ciso-spotlight.html": {
-      "title": "TrapDoor malware campaign puts developer workstations in CISO spotlight - csoonline.com",
+    "https://nypost.com/video/aaron-judge-out-of-tuesdays-lineup-with-bone-bruise-in-shoulder/": {
+      "title": "Aaron Judge out of Tuesday’s lineup with bone bruise in shoulder (Video) - New York Post",
       "source": "Tavily",
-      "published": "Tue, 26 May 2026 00:00:00 GMT",
-      "description": "## Malicious packages across npm, PyPI, and Crates.io show how poisoned developer workflows can become a route into enterprise systems. A malicious package campaign across npm, PyPI, and Crates.io has put developer workstations back under scrutiny, after researchers said it targeted developer workfl"
+      "published": "Tue, 02 Jun 2026 23:04:28 GMT",
+      "description": "# Aaron Judge out of Tuesday’s lineup with bone bruise in shoulder (Video) | New York Post. # Aaron Judge out of Tuesday’s lineup with bone bruise in shoulder. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may no"
     },
-    "https://theokpost.com/news/business/usa-rare-earth-ceo-quotes-taylor-swift-defends-lutnick-deal-and-calls-critics-haters-we-have-some-follow-up-questions-2/2026/05/28/": {
-      "title": "USA Rare Earth CEO Quotes Taylor Swift, Defends Lutnick Deal and Calls Critics Haters. We Have Some Follow-Up Questions. - The Oklahoma Post",
+    "https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/": {
+      "title": "VS Code Vulnerability Allows One-Click GitHub Token Theft - SecurityWeek",
       "source": "Tavily",
-      "published": "Thu, 28 May 2026 14:17:50 GMT",
-      "description": "To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. The technical storage or access is strictly necessary for the legitimate p"
+      "published": "Thu, 04 Jun 2026 08:14:52 GMT",
+      "description": "### SECURITYWEEK NETWORK:."
     },
-    "https://letsdatascience.com/news/seo-poisoning-distributes-fake-gemini-and-claude-installers-34ef26bf": {
-      "title": "SEO Poisoning Distributes Fake Gemini and Claude Installers - Let's Data Science",
+    "https://nypost.com/video/a-special-message-to-the-knicks-from-some-of-the-faces-of-new-york/": {
+      "title": "A special message to the Knicks from some of the faces of New York… (Video) - New York Post",
       "source": "Tavily",
-      "published": "Tue, 26 May 2026 08:11:50 GMT",
-      "description": "Security researchers at **EclecticIQ** identified an SEO poisoning campaign in **early March 2026** that used typosquatted domains to impersonate Gemini CLI and Claude Code installation pages, according to EclecticIQ's report and coverage by **Infosecurity Magazine** and **SOC Prime**. Victims who c"
+      "published": "Wed, 03 Jun 2026 12:00:00 GMT",
+      "description": "# A special message to the Knicks from some of the faces of New York… (Video) | New York Post. A special message to the Knicks from some of the faces of New York... You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you m"
+    },
+    "https://nypost.com/video/knicks-are-2-wins-away-but-is-the-hard-part-still-aheadny-got-game/": {
+      "title": "Knicks Are 2 Wins Away.. But Is The Hard Part Still Ahead?|NY Got Game (Video) - New York Post",
+      "source": "Tavily",
+      "published": "Sun, 07 Jun 2026 23:52:46 GMT",
+      "description": "But Is The Hard Part Still Ahead?|NY Got Game (Video) | New York Post. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do n"
+    },
+    "https://nypost.com/video/mitchell-robinson-looks-comfortable-in-practice-with-wrap-on-hand-knicks-practice-report/": {
+      "title": "Mitchell Robinson looks “comfortable” in practice with wrap on hand | Knicks Practice Report (Video) - New York Post",
+      "source": "Tavily",
+      "published": "Tue, 02 Jun 2026 23:35:00 GMT",
+      "description": "# Mitchell Robinson looks “comfortable” in practice with wrap on hand | Knicks Practice Report (Video) | New York Post. Mitchell Robinson looks \"comfortable\" in practice with wrap on hand | Knicks Practice Report. # Mitchell Robinson looks “comfortable” in practice with wrap on hand | Knicks Practic"
     }
   },
   "social": {
@@ -200,11 +194,11 @@
       "published": "",
       "content": "Workflow automation for technical teams to build AI solutions that integrate with any app or API at no-code speed and code flexibility. Open and self-hostable."
     },
-    "https://x.com/n8n_io/status/2041569006444810633": {
+    "https://x.com/n8n_io/status/2029900720984437235": {
       "platform": "twitter",
-      "title": "Etienne Lescot built n8n as Code, a tool that lets you create n8n ...",
+      "title": "n8n Community",
       "published": "",
-      "content": "Etienne Lescot built n8n as Code, a tool that lets you create n8n workflows directly in Cursor, VS Code, Claude Code, or OpenClaw."
+      "content": "The n8n Forum is a community space to ask questions, collaborate, share workflows, and connects with other builders."
     },
     "https://x.com/n8n_io/status/1924480363759374511": {
       "platform": "twitter",
@@ -212,35 +206,35 @@
       "published": "",
       "content": "New to n8n or already building advanced workflows? Either way, you'll want to check out these 25 useful tips from Nate Herk."
     },
-    "https://x.com/n8n_io/status/2028757963771412630": {
+    "https://x.com/n8n_io/status/1945755525947269344": {
       "platform": "twitter",
-      "title": "This n8n template shows five ways to evaluate AI outputs. Use ...",
+      "title": "Unlock the power of AI sentiment analysis, no coding or data ...",
       "published": "",
-      "content": "This n8n template shows five ways to evaluate AI outputs. Use Google Sheets or data tables to compare models like Gemini, Claude, GPT,"
+      "content": "With n8n, automate how you read customer feedback, social media, and market news to make smarter, faster decisions. Build your own AI-powered"
     },
-    "https://x.com/n8n_io/status/2016436170092089844": {
+    "https://x.com/n8n_io/status/2041569006444810633": {
+      "platform": "twitter",
+      "title": "Etienne Lescot built n8n as Code, a tool that lets you create n8n ...",
+      "published": "",
+      "content": "Etienne Lescot built n8n as Code, a tool that lets you create n8n workflows directly in Cursor, VS Code, Claude Code, or OpenClaw."
+    },
+    "https://x.com/n8n_io/status/1952376515032715669": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
-      "content": "With Chat Hub, you can expose powerful n8n AI agents to Sales, Support, Marketing and more without them needing to understand nodes or JSON. ✓"
+      "content": "n8n.io (@n8n_io). 200 likes 13 replies. Automations, right at your fingertips. What's your take on this n8n physical button?"
     },
-    "https://x.com/n8n_io/status/1987883157174071582": {
+    "https://x.com/n8n_io/status/1943233821186404650": {
       "platform": "twitter",
-      "title": "Connect AI-powered n8n workflows with your @Oracle Database in ...",
+      "title": "we'd love to chat!⚡️ #n8n #Automation #NoCode #DevCommunity",
       "published": "",
-      "content": "Connect AI-powered n8n workflows with your @Oracle Database in just a few clicks. Use the new Oracle Database node for CRUD or custom SQL"
+      "content": "Hey #WeAreDevelopers! n8n is here for the first time, come see live demos of automation workflows by our team, YouTubers, and community."
     },
-    "https://x.com/n8n_io/status/2018358796628734106": {
-      "platform": "twitter",
-      "title": "n8n now has an Official AI Benchmark We tested 60+ models across ...",
-      "published": "",
-      "content": "n8n now has an Official AI Benchmark We tested 60+ models across 8 categories to find which ones actually perform best inside n8n."
-    },
-    "https://x.com/n8n_io/status/1935351988218167766": {
+    "https://x.com/n8n_io/status/1928360890635534567": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
-      "content": "Steps to get more modular workflows: 1. Select a set of connected nodes 2. Right-click and select Convert to sub-workflow (or Alt + X) 3. Watch magic happen."
+      "content": "Discover over 2,000+ freely downloadable templates in our workflow library! Whether you need an AI agent to generate your weekly TPS reports"
     }
   }
 }

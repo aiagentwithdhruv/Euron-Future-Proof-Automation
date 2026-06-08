@@ -1,6 +1,6 @@
 {
   "competitor": "Lindy",
-  "saved_at": "2026-06-01T08:36:19.023460+00:00",
+  "saved_at": "2026-06-08T08:11:18.711839+00:00",
   "site": {
     "https://www.lindy.ai": {
       "http_status": null,
@@ -31,66 +31,73 @@
     }
   },
   "news": {
-    "https://pitchbook.com/news/articles/want-to-invest-in-my-startup-talk-to-my-agent": {
-      "title": "Want to invest in my startup? Talk to my agent. - PitchBook",
+    "https://skift.com/2026/06/03/ai-agents-debate-at-skift-data-ai-summit-2026/": {
+      "title": "AI Agents Debate at Skift Data + AI Summit 2026 - Skift",
       "source": "Tavily",
-      "published": "Fri, 29 May 2026 17:04:32 GMT",
-      "description": "## There’s a big gap in VCs’ and founders’ comfort with AI agents in the fundraising process—and it’s creating new tensions. Polsia, an AI agent orchestration startup, had its agent of the same name raise a $30 million funding round at a $250 million valuation this month. Ben Broca, Polsia’s founder"
+      "published": "Wed, 03 Jun 2026 17:09:22 GMT",
+      "description": "# **The Skift Takeaway**. Skift Data + AI Summit 2026. The debate opened on a single question: optimize for the AI agent or the human? Harris said the agent is not the customer, and that building for the guest is how a hotel finally owns the relationship. He argued that chasing the transaction helpe"
     },
-    "https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html": {
-      "title": "Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too - CNBC",
+    "https://www.forbes.com/sites/bernardmarr/2026/06/03/the-7-ai-agent-guardrails-every-business-needs-before-things-go-wrong/": {
+      "title": "The 7 AI Agent Guardrails Every Business Needs Before Things Go Wrong - Forbes",
       "source": "Tavily",
-      "published": "Wed, 27 May 2026 12:32:01 GMT",
-      "description": "# Your AI agent can now trade for you on Robinhood. * Robinhood unveiled tools that let AI agents trade stocks and make purchases on users' behalf. * \"Our mission has always been to democratize finance for all, and now, that mission extends to AI agents,\" CEO Vlad Tenev said. Robinhood unveiled tool"
+      "published": "Wed, 03 Jun 2026 00:00:00 GMT",
+      "description": "# The 7 AI Agent Guardrails Every Business Needs Before Things Go Wrong. AI agents are moving from hype to deployment, and that is where things start to get serious. For the past couple of years, most of the conversation has focused on what AI agents can do. The more important question is whether bu"
     },
-    "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/": {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that - TechCrunch",
+    "https://www.theinformation.com/articles/meta-looks-charge-200-month-planned-hatch-ai-agent": {
+      "title": "Meta Looks to Charge Up to $200 a Month for Planned ‘Hatch’ AI Agent - The Information",
       "source": "Tavily",
-      "published": "Fri, 29 May 2026 18:49:19 GMT",
-      "description": "Artificial intelligence is changing the world, and simultaneously inventing a whole new language to describe how it’s doing it. But it generally refers to AI that’s more capable than the average human at many, if not most, tasks. OpenAI CEO Sam Altman once described AGI as the “equivalent of a media"
+      "published": "Wed, 03 Jun 2026 22:01:33 GMT",
+      "description": "# Meta Looks to Charge Up to $200 a Month for Planned ‘Hatch’ AI Agent — The Information. ## Subscribe to The Information. Unlimited access to our journalism, newsletters, charts and data library, and event discounts. # Meta Looks to Charge Up to $200 a Month for Planned ‘Hatch’ AI Agent. Image 2: M"
     },
-    "https://www.gsmarena.com/vertu_unveils_alphafold_its_first_bookstyle_foldable_and_boasts_about_its_hermes_ai_agent-news-73049.php": {
-      "title": "Vertu unveils AlphaFold, its first book-style foldable and boasts about its Hermes AI agent - GSMArena.com news - GSMArena.com",
+    "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/": {
+      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off - WIRED",
       "source": "Tavily",
-      "published": "Fri, 29 May 2026 18:49:02 GMT",
-      "description": "# Vertu unveils AlphaFold, its first book-style foldable and boasts about its Hermes AI agent. Vertu is on a foldable phone kick – following the Quantum Flip, the luxury brand has now launched the AlphaFold globally, its first book-style foldable. And while it has the requisite premium materials, th"
+      "published": "Tue, 02 Jun 2026 18:00:00 GMT",
+      "description": "# Meet Microsoft Scout, Your AI Coworker That Never Logs Off. Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks. Scout, an always-on AI agent announced at Microsoft’s Build developer conference on Tuesday, can go through your work me"
     },
-    "https://www.hospitalitynet.org/news/4132660/bcd-launches-model-context-protocol-framework-to-accelerate-agentic-ai-within-its-open-tripsource-platform": {
-      "title": "BCD launches Model Context Protocol framework to accelerate agentic AI within its open Tripsource platform - Hospitality Net",
+    "https://wwd.com/business-news/retail/ai-agents-influencing-what-consumers-buy-think-feel-and-engage-accenture-survey-1238975444/": {
+      "title": "AI Agents Influencing Not Just What Consumers Buy, but How They Think, Feel and Engage: Accenture Survey - WWD",
       "source": "Tavily",
-      "published": "Thu, 28 May 2026 12:45:32 GMT",
-      "description": "# BCD launches Model Context Protocol framework to accelerate agentic AI within its open Tripsource platform. ## This milestone reinforces BCD's commitment to delivering greater value to its customers through agentic AI and an open approach to travel management. BCD's Model Context Protocol framewor"
+      "published": "Wed, 03 Jun 2026 11:00:00 GMT",
+      "description": "# AI Agents Influencing Not Just What Consumers Buy, but How They Think, Feel and Engage: Accenture Survey. * Share this article on Talk. More than a third of behaviorally loyal consumers (those who choose from one to three preferred brands in a category and don’t deviate from them) would let an AI "
     },
-    "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/": {
-      "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails - SecurityWeek",
+    "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/": {
+      "title": "Microsoft offers devs a better way to control AI agent behavior - TechCrunch",
       "source": "Tavily",
-      "published": "Thu, 28 May 2026 12:00:00 GMT",
-      "description": "France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time. Other causes of drift are explained in detail in France-based Edamame’s announcement of its solution to c"
+      "published": "Tue, 02 Jun 2026 18:00:00 GMT",
+      "description": "As AI agents grow ever more capable, enterprises racing to put them to work across applications, workflows, and products face a new challenge: ensuring an agent does what it’s supposed to do when it’s deployed across different environments. Microsoft is trying to solve this problem with a new open-s"
     },
-    "https://opentools.ai/news/cognition-scott-wu-ai-coding-agents-augment-not-replace": {
-      "title": "Cognition CEO Scott Wu: AI Coding Agents Should Augment, Not Replace Developers - OpenTools",
+    "https://macaubusiness.com/agnt8x-launches-the-worlds-first-ai-agent-recruitment-and-workforce-management-platform/": {
+      "title": "agnt8x Launches the World's First AI Agent Recruitment and Workforce Management Platform - Macau Business",
       "source": "Tavily",
-      "published": "Sat, 30 May 2026 04:30:51 GMT",
-      "description": "# Cognition CEO Scott Wu: AI Coding Agents Should Augment, Not Replace Developers. Cognition CEO Scott Wu says Devin is 'somewhere between a junior and mid‑level engineer' and insists the goal is augmentation, not replacement — even as 89% of his own engineers' code now comes from AI. ## The $26 Bil"
+      "published": "Thu, 04 Jun 2026 07:05:23 GMT",
+      "description": "# agnt8x Launches the World’s First AI Agent Recruitment and Workforce Management Platform. *One platform to find, hire, onboard, manage and orchestrate AI agents across every major LLM provider, governed by one Passport, one audit trail and one contract, and built to become the neutral marketplace "
     },
-    "https://cryptobriefing.com/coreweave-agentic-ai-sandboxes-launch/": {
-      "title": "CoreWeave launches agentic AI tools to enhance real-world learning - Crypto Briefing",
+    "https://letsdatascience.com/news/accenture-survey-finds-ai-agents-reshape-consumer-behavior-3ace8e87": {
+      "title": "Accenture Survey Finds AI Agents Reshape Consumer Behavior - Let's Data Science",
       "source": "Tavily",
-      "published": "Thu, 28 May 2026 12:32:38 GMT",
-      "description": "The former Ethereum mining company rolls out secure sandbox environments designed to let AI agents learn from live production scenarios while cutting training costs. CoreWeave, the AI infrastructure company that once made its living mining Ethereum, just unveiled a product that lets AI models learn "
+      "published": "Wed, 03 Jun 2026 11:00:00 GMT",
+      "description": "According to Accenture's global survey reported by WWD, more than 25,000 consumers across 16 countries were polled online between Jan. 7 and Jan. 22 for the report titled \"Talk to My AI Agent.\" The survey found that **74 percent** of respondents would trust a personal AI agent more than their best f"
     },
-    "https://markets.ft.com/data/announce/detail?dockey=600-202605281603BIZWIRE_USPRX____20260528_BW515345-1": {
-      "title": "Asana Acquires StackAI, Adding Cross-System Execution for Human-Agent Teams – Company Announcement - Financial Times",
+    "https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/": {
+      "title": "Meta enters enterprise AI race with new business agent - Reuters",
       "source": "Tavily",
-      "published": "Thu, 28 May 2026 20:03:00 GMT",
-      "description": "### Asana Acquires StackAI, Adding Cross-System Execution for Human-Agent Teams. *Acquisition adds orchestration for complex workflows that span enterprise systems, data, and teams*. (NYSE: ASAN)(LTSE: ASAN), the operating system for human-agent teams, today announced it has completed the acquisitio"
+      "published": "Wed, 03 Jun 2026 15:20:36 GMT",
+      "description": "# Meta enters enterprise AI race with new business agent. LONDON, June 3 (Reuters) - Meta Platforms (META.O), opens new tab on Wednesday unveiled an artificial intelligence agent aimed at helping businesses carry out day-to-day operations, positioning the social media giant as a player in the enterp"
     },
-    "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/": {
-      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans - TechCrunch",
+    "https://www.phoronix.com/news/Microsoft-Intelligent-Terminal": {
+      "title": "Microsoft Announces Open-Source \"Intelligent Terminal\" - Phoronix",
       "source": "Tavily",
-      "published": "Fri, 29 May 2026 16:13:47 GMT",
-      "description": "# Cognition’s Scott Wu says AI coding agents shouldn’t replace humans. Cognition is the maker of Devin, one of the first and, arguably, most successful AI coding agents. In fact, in the blog post announcing that raise, Cognition laid out a vision where “we are shifting to a world of self-driving sof"
+      "published": "Tue, 02 Jun 2026 19:18:00 GMT",
+      "description": "# Microsoft Announces Open-Source \"Intelligent Terminal\". Under the MIT license it's the Intelligent Terminal. Microsoft's Intelligent Terminal is a fork of the Windows Terminal code to add native AI agent integration. The Intelligent Terminal includes an agent status bar built into the terminal, an"
     }
   },
-  "social": {}
+  "social": {
+    "https://www.linkedin.com/in/lindy-aini-40094a252": {
+      "platform": "linkedin",
+      "title": "Lindy Aini - -- - Swissport",
+      "published": "",
+      "content": "Lindy Aini\n--\nEverett, Washington, United States\nN/A connections, N/A followers\n\n\nAbout\nN/A\n\n\nExperience\nSwissport\n[Swissport](N/A)  \nN/A - Present\nN/A\n\n\n\nEducation\nN/A"
+    }
+  }
 }
