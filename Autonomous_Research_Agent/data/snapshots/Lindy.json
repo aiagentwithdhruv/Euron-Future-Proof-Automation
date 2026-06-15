@@ -1,6 +1,6 @@
 {
   "competitor": "Lindy",
-  "saved_at": "2026-06-08T08:11:18.711839+00:00",
+  "saved_at": "2026-06-15T09:23:54.162830+00:00",
   "site": {
     "https://www.lindy.ai": {
       "http_status": null,
@@ -31,73 +31,66 @@
     }
   },
   "news": {
-    "https://skift.com/2026/06/03/ai-agents-debate-at-skift-data-ai-summit-2026/": {
-      "title": "AI Agents Debate at Skift Data + AI Summit 2026 - Skift",
+    "https://www.forbes.com/sites/allbusiness/2026/06/11/what-ai-agents-actually-do-for-customer-service-and-how-to-pick-one/": {
+      "title": "What AI Agents Actually Do For Customer Service—And How To Pick One - Forbes",
       "source": "Tavily",
-      "published": "Wed, 03 Jun 2026 17:09:22 GMT",
-      "description": "# **The Skift Takeaway**. Skift Data + AI Summit 2026. The debate opened on a single question: optimize for the AI agent or the human? Harris said the agent is not the customer, and that building for the guest is how a hotel finally owns the relationship. He argued that chasing the transaction helpe"
+      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "description": "# What AI Agents Actually Do For Customer Service—And How To Pick One. Forbes contributors publish independent expert analyses and insights. An AI agent doesn't just respond to customers; it resolves their problems independently, without human involvement. About one-third of service calls are alread"
     },
-    "https://www.forbes.com/sites/bernardmarr/2026/06/03/the-7-ai-agent-guardrails-every-business-needs-before-things-go-wrong/": {
-      "title": "The 7 AI Agent Guardrails Every Business Needs Before Things Go Wrong - Forbes",
+    "https://www.consultancy.uk/news/44487/ai-agents-are-redefining-customer-experience-cortex-reply": {
+      "title": "AI agents are redefining customer experience: Cortex Reply - Consultancy.uk",
       "source": "Tavily",
-      "published": "Wed, 03 Jun 2026 00:00:00 GMT",
-      "description": "# The 7 AI Agent Guardrails Every Business Needs Before Things Go Wrong. AI agents are moving from hype to deployment, and that is where things start to get serious. For the past couple of years, most of the conversation has focused on what AI agents can do. The more important question is whether bu"
+      "published": "Fri, 12 Jun 2026 05:04:00 GMT",
+      "description": "Part of Consultancy.org Consultancy.uk. # AI agents are redefining customer experience: Cortex Reply. ***A new wave of specialised AI agents is fundamentally changing how companies approach customer experience by shifting the industry focus from merely deflecting calls to delivering high-satisfactio"
     },
-    "https://www.theinformation.com/articles/meta-looks-charge-200-month-planned-hatch-ai-agent": {
-      "title": "Meta Looks to Charge Up to $200 a Month for Planned ‘Hatch’ AI Agent - The Information",
+    "https://www.csoonline.com/article/4184681/5-runtime-signals-for-catching-a-compromised-ai-agent.html": {
+      "title": "5 runtime signals for catching a compromised AI agent - csoonline.com",
       "source": "Tavily",
-      "published": "Wed, 03 Jun 2026 22:01:33 GMT",
-      "description": "# Meta Looks to Charge Up to $200 a Month for Planned ‘Hatch’ AI Agent — The Information. ## Subscribe to The Information. Unlimited access to our journalism, newsletters, charts and data library, and event discounts. # Meta Looks to Charge Up to $200 a Month for Planned ‘Hatch’ AI Agent. Image 2: M"
+      "published": "Mon, 15 Jun 2026 00:00:00 GMT",
+      "description": "## Once a signal of exploitation risk, Willison’s ‘lethal trifecta’ describes the baseline operations of every AI agent today. As a result, agent security is no longer architectural. In June 2025, Simon Willison, the engineer who coined the term “prompt injection,” published a warning that circulate"
     },
-    "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/": {
-      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off - WIRED",
+    "https://totaltele.com/telinta-and-vida-team-up-to-bring-ai-agents-to-telecom-service-providers/": {
+      "title": "Telinta and Vida Team Up to Bring AI Agents to Telecom Service Providers - Total Telecom",
       "source": "Tavily",
-      "published": "Tue, 02 Jun 2026 18:00:00 GMT",
-      "description": "# Meet Microsoft Scout, Your AI Coworker That Never Logs Off. Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks. Scout, an always-on AI agent announced at Microsoft’s Build developer conference on Tuesday, can go through your work me"
+      "published": "Mon, 08 Jun 2026 13:56:25 GMT",
+      "description": "# Telinta and Vida Team Up to Bring AI Agents to Telecom Service Providers. (NYSE American: VIDA), a leading AI agent operating system, have partnered to bring intelligent multi-language, multi-modal AI agent capabilities to telecom service providers using Telinta’s hosted Softswitch and Billing pla"
     },
-    "https://wwd.com/business-news/retail/ai-agents-influencing-what-consumers-buy-think-feel-and-engage-accenture-survey-1238975444/": {
-      "title": "AI Agents Influencing Not Just What Consumers Buy, but How They Think, Feel and Engage: Accenture Survey - WWD",
+    "https://www.aol.com/articles/ai-agent-cover-while-youre-202152000.html": {
+      "title": "Can an AI agent cover for you while you're at the beach? - AOL.com",
       "source": "Tavily",
-      "published": "Wed, 03 Jun 2026 11:00:00 GMT",
-      "description": "# AI Agents Influencing Not Just What Consumers Buy, but How They Think, Feel and Engage: Accenture Survey. * Share this article on Talk. More than a third of behaviorally loyal consumers (those who choose from one to three preferred brands in a category and don’t deviate from them) would let an AI "
+      "published": "Fri, 12 Jun 2026 05:24:35 GMT",
+      "description": "# Can an AI agent cover for you while you're at the beach? \"There is a productivity dip when someone is out, so this is about the team taking the smallest hit by having AI make clear what's due while someone is out,\" Bryan Ackermann, head of AI strategy and transformation for Korn Ferry, told CBS Ne"
     },
-    "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/": {
-      "title": "Microsoft offers devs a better way to control AI agent behavior - TechCrunch",
+    "https://asianbusinessreview.com/news/consumers-want-ai-agents-shop-idealised-selves": {
+      "title": "Consumers want AI agents to shop for \"idealised\" selves - Asian Business Review",
       "source": "Tavily",
-      "published": "Tue, 02 Jun 2026 18:00:00 GMT",
-      "description": "As AI agents grow ever more capable, enterprises racing to put them to work across applications, workflows, and products face a new challenge: ensuring an agent does what it’s supposed to do when it’s deployed across different environments. Microsoft is trying to solve this problem with a new open-s"
+      "published": "Thu, 11 Jun 2026 00:41:08 GMT",
+      "description": "More consumers want AI agents to shop for their “idealised self,” with 63% saying they want agents to support goals such as making healthier choices, staying on budget, or upgrading more intentionally, according to Accenture’s Consumer Pulse Research 2026. Among active generative AI users, 26% said "
     },
-    "https://macaubusiness.com/agnt8x-launches-the-worlds-first-ai-agent-recruitment-and-workforce-management-platform/": {
-      "title": "agnt8x Launches the World's First AI Agent Recruitment and Workforce Management Platform - Macau Business",
+    "https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/": {
+      "title": "Coinbase debuts AI agent that can trade and pay for premium research - TechCrunch",
       "source": "Tavily",
-      "published": "Thu, 04 Jun 2026 07:05:23 GMT",
-      "description": "# agnt8x Launches the World’s First AI Agent Recruitment and Workforce Management Platform. *One platform to find, hire, onboard, manage and orchestrate AI agents across every major LLM provider, governed by one Passport, one audit trail and one contract, and built to become the neutral marketplace "
+      "published": "Thu, 11 Jun 2026 17:00:00 GMT",
+      "description": "# Coinbase debuts AI agent that can trade and pay for premium research. As AI agent traffic surpasses human traffic on the internet, companies working in commerce and finance are building tools that allow agents to take action on behalf of users at a rapid pace. Days after trading platform Robinhood"
     },
-    "https://letsdatascience.com/news/accenture-survey-finds-ai-agents-reshape-consumer-behavior-3ace8e87": {
-      "title": "Accenture Survey Finds AI Agents Reshape Consumer Behavior - Let's Data Science",
+    "https://zamin.uz/en/technology/206597-coinbase-introduces-ai-agent-for-trading-and-purchasing-analytics.html": {
+      "title": "Coinbase introduces AI agent for trading and purchasing analytics - Zamin.uz",
       "source": "Tavily",
-      "published": "Wed, 03 Jun 2026 11:00:00 GMT",
-      "description": "According to Accenture's global survey reported by WWD, more than 25,000 consumers across 16 countries were polled online between Jan. 7 and Jan. 22 for the report titled \"Talk to My AI Agent.\" The survey found that **74 percent** of respondents would trust a personal AI agent more than their best f"
+      "published": "Thu, 11 Jun 2026 17:27:21 GMT",
+      "description": "# Coinbase introduces AI agent for trading and purchasing analytics. As AI agent traffic on the internet surpasses human traffic, Coinbase has launched a new agent capable of trading independently on behalf of users and paying for paid research. Users can integrate the agent into their main accounts"
     },
-    "https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/": {
-      "title": "Meta enters enterprise AI race with new business agent - Reuters",
+    "https://zamin.uz/en/technology/206368-jedify-raises-24-million-for-ai-agents.html": {
+      "title": "Jedify raises $24 million for AI agents - Zamin.uz",
       "source": "Tavily",
-      "published": "Wed, 03 Jun 2026 15:20:36 GMT",
-      "description": "# Meta enters enterprise AI race with new business agent. LONDON, June 3 (Reuters) - Meta Platforms (META.O), opens new tab on Wednesday unveiled an artificial intelligence agent aimed at helping businesses carry out day-to-day operations, positioning the social media giant as a player in the enterp"
+      "published": "Wed, 10 Jun 2026 13:52:24 GMT",
+      "description": "# Jedify raises $24 million for AI agents. While AI providers offer their products as ready-made solutions, in practice, AI agents cannot work effectively without learning the specific nuances of a business. As reported by TechCrunch, the startup raised $24 million in a Series A investment round led"
     },
-    "https://www.phoronix.com/news/Microsoft-Intelligent-Terminal": {
-      "title": "Microsoft Announces Open-Source \"Intelligent Terminal\" - Phoronix",
+    "https://markets.businessinsider.com/news/stocks/close-launches-chloe-an-ai-sales-agent-built-directly-into-the-crm-1036237154": {
+      "title": "Close Launches Chloe, an AI Sales Agent Built Directly Into the CRM - markets.businessinsider.com",
       "source": "Tavily",
-      "published": "Tue, 02 Jun 2026 19:18:00 GMT",
-      "description": "# Microsoft Announces Open-Source \"Intelligent Terminal\". Under the MIT license it's the Intelligent Terminal. Microsoft's Intelligent Terminal is a fork of the Windows Terminal code to add native AI agent integration. The Intelligent Terminal includes an agent status bar built into the terminal, an"
+      "published": "Tue, 09 Jun 2026 22:55:07 GMT",
+      "description": "# Close Launches Chloe, an AI Sales Agent Built Directly Into the CRM. SAN FRANCISCO, June 09, 2026 (GLOBE NEWSWIRE) -- After helping 306 businesses make more than 818,000 calls during beta, Close today announced the general availability of Chloe, an AI sales agent built directly into the CRM, now a"
     }
   },
-  "social": {
-    "https://www.linkedin.com/in/lindy-aini-40094a252": {
-      "platform": "linkedin",
-      "title": "Lindy Aini - -- - Swissport",
-      "published": "",
-      "content": "Lindy Aini\n--\nEverett, Washington, United States\nN/A connections, N/A followers\n\n\nAbout\nN/A\n\n\nExperience\nSwissport\n[Swissport](N/A)  \nN/A - Present\nN/A\n\n\n\nEducation\nN/A"
-    }
-  }
+  "social": {}
 }
