@@ -1,6 +1,6 @@
 {
   "competitor": "Lindy",
-  "saved_at": "2026-06-15T09:23:54.162830+00:00",
+  "saved_at": "2026-06-22T09:11:15.819910+00:00",
   "site": {
     "https://www.lindy.ai": {
       "http_status": null,
@@ -31,65 +31,65 @@
     }
   },
   "news": {
-    "https://www.forbes.com/sites/allbusiness/2026/06/11/what-ai-agents-actually-do-for-customer-service-and-how-to-pick-one/": {
-      "title": "What AI Agents Actually Do For Customer Service—And How To Pick One - Forbes",
+    "https://www.ynetnews.com/tech-and-digital/article/sj8jfkqmzg": {
+      "title": "Booking flights, building presentations and searching the web: how to start using AI agents - Ynetnews",
       "source": "Tavily",
-      "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "description": "# What AI Agents Actually Do For Customer Service—And How To Pick One. Forbes contributors publish independent expert analyses and insights. An AI agent doesn't just respond to customers; it resolves their problems independently, without human involvement. About one-third of service calls are alread"
+      "published": "Fri, 19 Jun 2026 16:18:20 GMT",
+      "description": "## AI agents do not just answer questions: they can browse, analyze information, prepare presentations and complete complex tasks with minimal input while requiring smart, safe and careful use. In this article, we explain what AI agents actually are, where they can already be used today and how the "
     },
-    "https://www.consultancy.uk/news/44487/ai-agents-are-redefining-customer-experience-cortex-reply": {
-      "title": "AI agents are redefining customer experience: Cortex Reply - Consultancy.uk",
+    "https://www.itnews.com.au/news/suncorp-to-have-ai-agents-in-insurance-claims-process-as-soon-as-this-month-626708?utm_source=feed&utm_medium=rss&utm_campaign=editors_picks": {
+      "title": "Suncorp to have AI agents in insurance claims process as soon as this month - iTnews",
       "source": "Tavily",
-      "published": "Fri, 12 Jun 2026 05:04:00 GMT",
-      "description": "Part of Consultancy.org Consultancy.uk. # AI agents are redefining customer experience: Cortex Reply. ***A new wave of specialised AI agents is fundamentally changing how companies approach customer experience by shifting the industry focus from merely deflecting calls to delivering high-satisfactio"
+      "published": "Sun, 21 Jun 2026 20:49:00 GMT",
+      "description": "## Suncorp to have AI agents in insurance claims process as soon as this month ## In Pictures: iTnews State of Security Breakfast Roadshow 2026 - Brisbane ## How Lendi Group rebuilt its mortgage platform for the agentic era ## CBA appoints new group CIO ## LMG bets on Slack as an enterprise platform"
     },
-    "https://www.csoonline.com/article/4184681/5-runtime-signals-for-catching-a-compromised-ai-agent.html": {
-      "title": "5 runtime signals for catching a compromised AI agent - csoonline.com",
+    "https://www.itnews.com.au/news/how-lendi-group-rebuilt-its-mortgage-platform-for-the-agentic-era-626308?utm_source=feed&utm_medium=rss&utm_campaign=editors_picks": {
+      "title": "How Lendi Group rebuilt its mortgage platform for the agentic era - iTnews",
       "source": "Tavily",
-      "published": "Mon, 15 Jun 2026 00:00:00 GMT",
-      "description": "## Once a signal of exploitation risk, Willison’s ‘lethal trifecta’ describes the baseline operations of every AI agent today. As a result, agent security is no longer architectural. In June 2025, Simon Willison, the engineer who coined the term “prompt injection,” published a warning that circulate"
+      "published": "Sun, 21 Jun 2026 19:00:00 GMT",
+      "description": "## How Lendi Group rebuilt its mortgage platform for the agentic era ## CBA appoints new group CIO ## LMG bets on Slack as an enterprise platform ## ASD draws a hard line on developers lacking security skills ## NAB taps Databricks' Genie AI tools to derive more value from its data. # How Lendi Grou"
     },
-    "https://totaltele.com/telinta-and-vida-team-up-to-bring-ai-agents-to-telecom-service-providers/": {
-      "title": "Telinta and Vida Team Up to Bring AI Agents to Telecom Service Providers - Total Telecom",
+    "https://www.businessinsider.com/ai-agent-called-hotels-negotiated-prices-big-tech-software-engineer-2026-6": {
+      "title": "I built an AI tool that negotiated hotel prices for me. One hotel suspected it was AI, but it got me a better deal. - Business Insider",
       "source": "Tavily",
-      "published": "Mon, 08 Jun 2026 13:56:25 GMT",
-      "description": "# Telinta and Vida Team Up to Bring AI Agents to Telecom Service Providers. (NYSE American: VIDA), a leading AI agent operating system, have partnered to bring intelligent multi-language, multi-modal AI agent capabilities to telecom service providers using Telinta’s hosted Softswitch and Billing pla"
+      "published": "Fri, 19 Jun 2026 11:11:01 GMT",
+      "description": "# I built an AI tool that negotiated hotel prices for me. One hotel suspected it was AI, but it got me a better deal. It was directed at an AI agent I'd built to call hotels and negotiate room rates on my behalf. One night in May, I set the tool loose on hotels across the United States to test wheth"
     },
-    "https://www.aol.com/articles/ai-agent-cover-while-youre-202152000.html": {
-      "title": "Can an AI agent cover for you while you're at the beach? - AOL.com",
+    "https://chainstoreage.com/accenture-customers-trust-ai-agents-perform-these-tasks-them": {
+      "title": "Accenture: Customers trust AI agents to perform these tasks for them - Chain Store Age",
       "source": "Tavily",
-      "published": "Fri, 12 Jun 2026 05:24:35 GMT",
-      "description": "# Can an AI agent cover for you while you're at the beach? \"There is a productivity dip when someone is out, so this is about the team taking the smallest hit by having AI make clear what's due while someone is out,\" Bryan Ackermann, head of AI strategy and transformation for Korn Ferry, told CBS Ne"
+      "published": "Mon, 15 Jun 2026 13:45:54 GMT",
+      "description": "The latestAccentureConsumer Pulse Research of more than 25,000 consumers in 16 countries, presented in the study “Talk to my AI Agent,” shows that 74% of respondents are also open to an agent completing commerce tasks such as negotiating deals, resolving complaints, and re-ordering or renewing subsc"
     },
-    "https://asianbusinessreview.com/news/consumers-want-ai-agents-shop-idealised-selves": {
-      "title": "Consumers want AI agents to shop for \"idealised\" selves - Asian Business Review",
+    "https://www.fiercehealthcare.com/ai-and-machine-learning/cedars-voice-ai-agent-has-handled-nearly-400k-patient-calls-april-2025": {
+      "title": "Cedar’s voice AI agent has handled nearly 400K patient calls since April 2025 launch - Fierce Healthcare",
       "source": "Tavily",
-      "published": "Thu, 11 Jun 2026 00:41:08 GMT",
-      "description": "More consumers want AI agents to shop for their “idealised self,” with 63% saying they want agents to support goals such as making healthier choices, staying on budget, or upgrading more intentionally, according to Accenture’s Consumer Pulse Research 2026. Among active generative AI users, 26% said "
+      "published": "Mon, 15 Jun 2026 13:00:00 GMT",
+      "description": "# Cedar’s voice AI agent has handled nearly 400K patient calls since April 2025 launch. Cedar voice AI Artificial Intelligence Billing and Coding. Cedar, a patient financial platform for healthcare providers, announced Monday its artificial intelligence voice agent has handled nearly 400,000 patient"
     },
-    "https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/": {
-      "title": "Coinbase debuts AI agent that can trade and pay for premium research - TechCrunch",
+    "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget": {
+      "title": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget - VentureBeat",
       "source": "Tavily",
-      "published": "Thu, 11 Jun 2026 17:00:00 GMT",
-      "description": "# Coinbase debuts AI agent that can trade and pay for premium research. As AI agent traffic surpasses human traffic on the internet, companies working in commerce and finance are building tools that allow agents to take action on behalf of users at a rapid pace. Days after trading platform Robinhood"
+      "published": "Thu, 18 Jun 2026 18:13:54 GMT",
+      "description": "# New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget. To address this challenge, researchers at Renmin University of China and Microsoft Research introduced Arbor, a framework that upgrades AI-driven research and optimization from a sequence of trial-and-err"
     },
-    "https://zamin.uz/en/technology/206597-coinbase-introduces-ai-agent-for-trading-and-purchasing-analytics.html": {
-      "title": "Coinbase introduces AI agent for trading and purchasing analytics - Zamin.uz",
+    "https://www.csoonline.com/article/4187155/microsoft-says-web-enabled-ai-agents-can-trigger-host-level-rce.html": {
+      "title": "Microsoft says web-enabled AI agents can trigger host-level RCE - csoonline.com",
       "source": "Tavily",
-      "published": "Thu, 11 Jun 2026 17:27:21 GMT",
-      "description": "# Coinbase introduces AI agent for trading and purchasing analytics. As AI agent traffic on the internet surpasses human traffic, Coinbase has launched a new agent capable of trading independently on behalf of users and paying for paid research. Users can integrate the agent into their main accounts"
+      "published": "Fri, 19 Jun 2026 00:00:00 GMT",
+      "description": "## Microsoft’s AutoJack research shows how a malicious webpage rendered by an AI browsing agent can reach local MCP services and execute arbitrary processes on the underlying system. Microsoft is warning of a novel remote code execution (RCE) path possible through web-enabled AI agents, demonstratin"
     },
-    "https://zamin.uz/en/technology/206368-jedify-raises-24-million-for-ai-agents.html": {
-      "title": "Jedify raises $24 million for AI agents - Zamin.uz",
+    "https://www.accountingtoday.com/news/gusto-releases-ai-agents-for-accounting-firm-development": {
+      "title": "Gusto releases AI agents for accounting firm development - Accounting Today",
       "source": "Tavily",
-      "published": "Wed, 10 Jun 2026 13:52:24 GMT",
-      "description": "# Jedify raises $24 million for AI agents. While AI providers offer their products as ready-made solutions, in practice, AI agents cannot work effectively without learning the specific nuances of a business. As reported by TechCrunch, the startup raised $24 million in a Series A investment round led"
+      "published": "Tue, 16 Jun 2026 20:30:30 GMT",
+      "description": "Gusto, typically known as a payroll and human capital solutions provider, has entered the accounting practice management arena with the introduction of six new AI agents focused specifically on business development for CPA firms. Today, Gusto is introducing a new suite of AI agents designed to help "
     },
-    "https://markets.businessinsider.com/news/stocks/close-launches-chloe-an-ai-sales-agent-built-directly-into-the-crm-1036237154": {
-      "title": "Close Launches Chloe, an AI Sales Agent Built Directly Into the CRM - markets.businessinsider.com",
+    "https://www.news-medical.net/news/20260621/Autonomous-medical-AI-outperforms-doctors-in-simulated-EHR-cases.aspx": {
+      "title": "Autonomous medical AI outperforms doctors in simulated EHR cases - News-Medical",
       "source": "Tavily",
-      "published": "Tue, 09 Jun 2026 22:55:07 GMT",
-      "description": "# Close Launches Chloe, an AI Sales Agent Built Directly Into the CRM. SAN FRANCISCO, June 09, 2026 (GLOBE NEWSWIRE) -- After helping 306 businesses make more than 818,000 calls during beta, Close today announced the general availability of Chloe, an AI sales agent built directly into the CRM, now a"
+      "published": "Mon, 22 Jun 2026 03:27:00 GMT",
+      "description": "_**A new study shows how MIRA turned clinical reasoning into structured EHR actions, outperforming physicians in simulated emergency cases while underscoring the safeguards needed before autonomous AI reaches real care.**_. Image 4: MIRA is an autonomous medical AI agent that operates within an EHR "
     }
   },
   "social": {}

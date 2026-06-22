@@ -1,6 +1,6 @@
 {
   "competitor": "n8n",
-  "saved_at": "2026-06-15T09:23:49.984037+00:00",
+  "saved_at": "2026-06-22T09:11:08.615913+00:00",
   "site": {
     "https://n8n.io": {
       "http_status": null,
@@ -22,169 +22,175 @@
     },
     "https://blog.n8n.io": {
       "http_status": 200,
-      "content_hash": "11dae0aa83edac946e40862dd21f9338e6b0ae0052d5a98f6882679677a89b95",
+      "content_hash": "c5099d2c50ed1ac4f9e45d13251e858be485a901d6eaf0364f76d970f6ff8c74",
       "title": "Guide, Tutorials, and Updates on Workflow Automation - n8n Blog",
       "meta_description": "Discover insights, tutorials, and updates on workflow automation. Learn how to enhance your automation processes with expert advice and detailed guides.",
       "headings": [
-        "LLM Routing: From Strategy Selection to Production Architecture",
+        "Agent-to-Agent (A2A) Protocol: How Cross-Agent Communication Works in Production",
         "Explore by use case",
+        "LLM Routing: From Strategy Selection to Production Architecture",
         "Best AI Governance Tools for Enterprise-Grade Compliance",
         "Top Process Orchestration Tools and Their Key Benefits",
         "Production AI Playbook: Complex Agent Patterns",
         "Integration Patterns: How To Choose for Your Architecture",
         "LLM Observability: What To Instrument and How To Act on It",
         "n8n targets a 200 person UK team by 2029 as it makes the UK an integral part of its international expansion",
-        "Trace n8n workflow and node executions with OpenTelemetry",
-        "How to monitor usage and performance of AI steps"
+        "Trace n8n workflow and node executions with OpenTelemetry"
       ],
       "pricing_hints": [],
       "status": "ok"
     }
   },
   "news": {
-    "https://pypi.org/project/wexample-wex-addon-services-platform/12.4.3/": {
-      "title": "wexample-wex-addon-services-platform 12.4.3",
+    "https://velane.sh/": {
+      "title": "Show HN: An n8n alternative where coding agents build the workflows, not humans",
+      "source": "Velane.sh",
+      "published": "2026-06-20T18:44:59Z",
+      "description": "n8n is built for humans dragging nodes on a canvas. That breaks down at B2B scale (embedding in a product, multi-tenant scalability, etc). n8n does have an MCP server so agents can create workflows too, but it outputs raw JSON. That's fine for n8n's engine, b…"
+    },
+    "https://pypi.org/project/n8nc/0.4.5/": {
+      "title": "n8nc 0.4.5",
       "source": "Pypi.org",
-      "published": "2026-06-13T19:53:24Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://pypi.org/project/agents-shipgate/0.13.0/": {
-      "title": "agents-shipgate 0.13.0",
-      "source": "Pypi.org",
-      "published": "2026-06-12T20:51:27Z",
-      "description": "The deterministic merge gate for AI-generated agent capability changes. Agent release readiness for tool-using AI agents. CLI + GitHub Action. Scans MCP, OpenAPI, OpenAI Agents SDK, Anthropic, Google ADK, LangChain, CrewAI, OpenAI API, Codex config, Codex plu…"
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/12.4.2/": {
-      "title": "wexample-wex-addon-services-platform 12.4.2",
-      "source": "Pypi.org",
-      "published": "2026-06-12T16:44:15Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/12.4.0/": {
-      "title": "wexample-wex-addon-services-platform 12.4.0",
-      "source": "Pypi.org",
-      "published": "2026-06-12T12:52:48Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://www.gov.uk/government/news/britain-powers-ahead-on-ai-with-billions-of-pounds-of-new-investment-and-thousands-of-jobs-secured-as-london-tech-week-wraps-up": {
-      "title": "Britain powers ahead on AI with billions of pounds of new investment and thousands of jobs secured as London Tech Week wraps up",
-      "source": "Www.gov.uk",
-      "published": "2026-06-12T11:42:47Z",
-      "description": "More than £6 billion of new investment and around 8,000 new jobs have been announced this week, as companies from around the world choose to build, hire and scale here."
-    },
-    "https://pypi.org/project/wexample-wex-addon-services-platform/12.3.0/": {
-      "title": "wexample-wex-addon-services-platform 12.3.0",
-      "source": "Pypi.org",
-      "published": "2026-06-12T09:00:14Z",
-      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
-    },
-    "https://buffer.com/resources/social-media-api-multi-platform-posting/": {
-      "title": "Which Social Media APIs Support Multi-Platform Posting? 6 Free + Paid Options",
-      "source": "Buffer.com",
-      "published": "2026-06-11T15:01:44Z",
-      "description": "Compare the social media APIs that support multi-platform posting in 2026 — Buffer, Ayrshare, Postiz, Post for Me, Zernio, and native platform APIs. Pricing, coverage, and how to choose."
-    },
-    "https://wanderer-flow.de/blog/we-have-been-drawing-flows-for-20-years-but-we-are-not-using-their-power/": {
-      "title": "Show HN: We Have Been Drawing Flows for Years. But We Are Not Using Their Power",
-      "source": "Wanderer-flow.de",
-      "published": "2026-06-11T12:57:55Z",
-      "description": "Article URL: https://wanderer-flow.de/blog/we-have-been-drawing-flows-for-20-years-but-we-are-not-using-their-power/\nComments URL: https://news.ycombinator.com/item?id=[phone]\nPoints: 1\n# Comments: 0"
-    },
-    "https://pypi.org/project/n8nc/0.4.4/": {
-      "title": "n8nc 0.4.4",
-      "source": "Pypi.org",
-      "published": "2026-06-11T12:40:09Z",
+      "published": "2026-06-20T18:00:38Z",
       "description": "CLI for n8n workflow automation"
     },
-    "https://www.helpnetsecurity.com/2026/06/11/owasp-prompt-injection-ai-security-failures/": {
-      "title": "Prompt injection still drives most agentic AI security failures in production",
-      "source": "Help Net Security",
-      "published": "2026-06-11T05:00:19Z",
-      "description": "A backdoor sat on PyPI for three hours in March 2026. Nearly 47,000 downloads occurred during the window. The compromised package, LiteLLM, serves as the language-model gateway for CrewAI, DSPy, Microsoft GraphRAG, and dozens of other AI agent frameworks. Any…"
+    "https://www.nngroup.com/articles/vibe-architects/": {
+      "title": "Vibe Architects: Agentic Vibe Coders",
+      "source": "Nngroup.com",
+      "published": "2026-06-19T17:00:00Z",
+      "description": "Nondevelopers are building complex agentic AI systems on intuition developed through many hours of experimentation, YouTube videos, and Reddit threads."
     },
-    "https://buffer.com/resources/coding-kitty-case-study/": {
-      "title": "How the Engineer Behind Coding Kitty Built a Full Video Publishing Engine on Buffer's API",
-      "source": "Buffer.com",
-      "published": "2026-06-11T00:00:14Z",
-      "description": "A full-stack developer who builds everything himself chose Buffer's API over three platform integrations. Here's how the developer behind coding.kitty automated his publishing."
+    "https://www.storagereview.com/news/ctera-integrates-with-n8n-to-extend-enterprise-file-data-to-ai-workflows": {
+      "title": "CTERA Integrates with n8n to Extend Enterprise File Data to AI Workflows",
+      "source": "Storagereview.com",
+      "published": "2026-06-19T15:10:51Z",
+      "description": "CTERA has announced a new integration with n8n, the agentic workflow automation platform, to connect enterprise file data with AI services, applications, and business processes. The integration extends the CTERA Intelligent Data Platform into the rapidly grow…"
     },
-    "https://github.com/supermemoryai/supermemory": {
-      "title": "Show HN: Local Context and Memory Stack",
-      "source": "Github.com",
-      "published": "2026-06-10T16:46:48Z",
-      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. - supermemoryai/supermemory"
+    "https://www.digitaljournal.com/article/langflow-flaw-unsecured-ai-tools-create-new-attack-surface/": {
+      "title": "Langflow flaw: Unsecured AI tools create new attack surface",
+      "source": "Digital Journal",
+      "published": "2026-06-18T20:17:47Z",
+      "description": "Langflow, widely used for building and orchestrating large language model (LLM) workflows, contains a defect in its file upload functionality that allows an attacker to write files to arbitrary locations on a target system.\nThe post Langflow flaw: Unsecured A…"
     },
-    "https://www.lakedrops.com/en/blog/test-replay-debug-closing-feedback-loop": {
-      "title": "LakeDrops Drupal Consulting, Development and Hosting: Test, Replay, Debug: Closing the Feedback Loop",
-      "source": "Lakedrops.com",
-      "published": "2026-06-10T14:20:00Z",
-      "description": "Test, Replay, Debug: Closing the Feedback Loop\n\n \n \n \n \n \n \n \n \n \n\n \r\n\n\n\r\n\n \n\r\n\n\n Jürgen Haas\nWed 10 Jun 2026 - 16:20\n\n\n Building workflows blind - configure, deploy, hope, check logs - was the reality for years. ECA's integrated test, replay, and debug featu…"
+    "https://team0.ai": {
+      "title": "Show HN: The AI assistant I could give my non-technical friends",
+      "source": "Team0.ai",
+      "published": "2026-06-18T15:00:51Z",
+      "description": "AI that runs your business with you. Team0 is an AI Chief of Staff that learns your business from your inbox, calendar, and meetings, moves first — reaching out before you ask, already with a draft — and never starts from zero."
     },
-    "https://pypi.org/project/undetected-playwright-ecom/": {
-      "title": "undetected-playwright-ecom added to PyPI",
+    "https://financialpost.com/pmn/business-wire-news-releases-pmn/testmu-ai-launches-official-n8n-partner-integration-bringing-real-browser-infrastructure-to-ai-agent-workflows": {
+      "title": "TestMu AI Launches Official n8n partner integration, Bringing Real Browser Infrastructure to AI Agent Workflows",
+      "source": "Financial Post",
+      "published": "2026-06-18T13:26:03Z",
+      "description": "Developers can now access TestMu AI Browser Cloud directly from n8n workflows, enabling AI agents to operate across 3,000+ browser and operating system environments SAN FRANCISCO & NOIDA, India — TestMu AI (formerly LambdaTest), the world’s first Full-Stack A…"
+    },
+    "https://pypi.org/project/wago-plc-mcp-server/": {
+      "title": "wago-plc-mcp-server added to PyPI",
       "source": "Pypi.org",
-      "published": "2026-06-10T13:52:56Z",
-      "description": "The Python antidetect browser framework — Playwright CDP for Multilogin, GoLogin, AdsPower, Dolphin. Fingerprint audit, fleet ops, stealth automation."
+      "published": "2026-06-18T08:22:38Z",
+      "description": "MCP server for integrating WAGO PLCs with the WDx REST API"
     },
-    "https://www.globenewswire.com/news-release/2026/06/10/3309664/0/en/CTERA-Adds-Integration-for-n8n-to-Enable-Agentic-Automation-with-Trusted-and-Organized-File-Data.html": {
-      "title": "CTERA Adds Integration for n8n to Enable Agentic Automation with Trusted and Organized File Data",
-      "source": "GlobeNewswire",
-      "published": "2026-06-10T12:03:00Z",
-      "description": "New integration enables organizations to build intelligent, content-aware workflows and agentic automation using trusted enterprise file data New integration enables organizations to build intelligent, content-aware workflows and agentic automation using trus…"
+    "https://pypi.org/project/wexample-wex-addon-services-platform/12.7.2/": {
+      "title": "wexample-wex-addon-services-platform 12.7.2",
+      "source": "Pypi.org",
+      "published": "2026-06-18T07:15:44Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
     },
-    "https://nypost.com/video/israel-dismantles-irans-defense-systems-with-massive-strikes/": {
-      "title": "Watch: Israel DISMANTLES Iran’s Defense Systems with Massive Strikes - New York Post",
+    "https://pypi.org/project/wexample-wex-addon-services-platform/12.7.1/": {
+      "title": "wexample-wex-addon-services-platform 12.7.1",
+      "source": "Pypi.org",
+      "published": "2026-06-18T04:49:45Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    },
+    "https://www.xda-developers.com/replaced-entire-browser-extension-stack-local-llm-not-going-back/": {
+      "title": "I replaced my entire browser extension stack with one local LLM, and I'm not going back",
+      "source": "XDA Developers",
+      "published": "2026-06-17T19:30:23Z",
+      "description": "Local LLMs give you more control"
+    },
+    "https://pypi.org/project/trio-retina/": {
+      "title": "trio-retina added to PyPI",
+      "source": "Pypi.org",
+      "published": "2026-06-17T17:37:52Z",
+      "description": "Model-agnostic computer-vision pipeline: turn any detector (YOLO, VLM, Grounding DINO) into structured tracking events — zone intrusion, line-crossing, dwell, counting — over video or RTSP. The state layer for world models."
+    },
+    "https://pypi.org/project/wexample-wex-addon-services-platform/12.7.0/": {
+      "title": "wexample-wex-addon-services-platform 12.7.0",
+      "source": "Pypi.org",
+      "published": "2026-06-17T07:59:45Z",
+      "description": "Platform services (n8n, gitlab, jenkins...) for wex"
+    },
+    "https://thedigitalads.in/blog/instagram-marketing-reels-aesthetic-clinics-indore": {
+      "title": "Instagram Reels & AI Video Marketing: Growth Engine for Indore Clinics",
+      "source": "Thedigitalads.in",
+      "published": "2026-06-17T06:55:29Z",
+      "description": "Instagram is the new front door for dental and aesthetic clinics. Learn how to leverage Instagram Reels, patient case studies, and AI video editing to attract high-value cosmetic patients in Indore."
+    },
+    "https://buffer.com/resources/every-team-feature-in-buffer-built-for-agencies/": {
+      "title": "Every Team Feature in Buffer, Built for Agencies",
+      "source": "Buffer.com",
+      "published": "2026-06-17T04:15:43Z",
+      "description": "From shared content planning to client reporting to enforceable 2FA, here's how agencies run their whole social operation on Buffer."
+    },
+    "https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk": {
+      "title": "Novo Nordisk Breach Exposes Software Development Pipeline Risk - Dark Reading",
       "source": "Tavily",
-      "published": "Tue, 09 Jun 2026 13:38:57 GMT",
-      "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. These cookies are necessary for the website to function and cannot be switched off"
+      "published": "Thu, 18 Jun 2026 20:05:50 GMT",
+      "description": "A leaked GitHub token underscores what most organizations get wrong: Treating secrets management as a tooling problem rather than an identity problem. A recent — and likely massive — breach at Novo Nordisk, where attackers reportedly gained an initial foothold using a single GitHub access token, und"
     },
-    "https://nypost.com/video/is-sean-manaea-the-key-to-the-mets-second-half-turnaround-presented-by-your-local-ford-dealers/": {
-      "title": "Is Sean Manaea the Key to the Mets’ Second-Half Turnaround? | Presented By Your Local Ford Dealers - New York Post",
+    "https://nypost.com/video/yankees-scout-matt-hyde-tells-us-how-he-found-ben-rice-cam-schlittler-the-show-ep-205/": {
+      "title": "Yankees Scout Matt Hyde Tells Us How He Found Ben Rice & Cam Schlittler | The Show Ep. 205 - New York Post",
       "source": "Tavily",
-      "published": "Mon, 08 Jun 2026 13:35:55 GMT",
+      "published": "Tue, 16 Jun 2026 21:56:46 GMT",
+      "description": "# Yankees Scout Matt Hyde Tells Us How He Found Ben Rice & Cam Schlittler | The Show Ep. 205 (Video) | New York Post. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all se"
+    },
+    "https://nypost.com/video/can-the-mets-sweep-the-reds-in-cincinnati/": {
+      "title": "Can the Mets Sweep the Reds in Cincinnati? | Presented By Your Local Ford Dealers (Video) - New York Post",
+      "source": "Tavily",
+      "published": "Mon, 15 Jun 2026 13:00:00 GMT",
       "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
     },
-    "https://nypost.com/video/giants-minicamp-2-odell-beckham-jr-looks-good-linebackers-are-big/": {
-      "title": "Giants Minicamp #2: Odell Beckham Jr. looks good, linebackers are BIG (Video) - New York Post",
+    "https://nypost.com/video/french-president-shares-new-angle-of-trumps-historic-iran-deal-signing/": {
+      "title": "French President shares new angle of Trump’s historic Iran deal signing (Video) - New York Post",
       "source": "Tavily",
-      "published": "Wed, 10 Jun 2026 00:06:14 GMT",
-      "description": "#### NYP - Strictly Necessary Cookies and Similar Technologies. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish"
-    },
-    "https://nypost.com/video/americans-play-guess-that-flag-before-world-cup-2026-commences/": {
-      "title": "Americans play ‘guess that flag’ before World Cup 2026 commences (Video) - New York Post",
-      "source": "Tavily",
-      "published": "Wed, 10 Jun 2026 18:21:15 GMT",
+      "published": "Fri, 19 Jun 2026 16:58:18 GMT",
       "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
     },
-    "https://nypost.com/video/mets-win-7-of-10-real-turnaround-or-more-false-hope-straight-outta-flushing-presented-by-your-local-ford-dealer/": {
-      "title": "Mets Win 7 of 10: Real Turnaround or More False Hope? | Straight Outta Flushing | Presented By Your Local Ford Dealer - New York Post",
+    "https://nypost.com/video/endocrinologist-reveals-the-surprising-foods-wrecking-your-vaginal-health-and-the-daily-staple-she-still-recommends/": {
+      "title": "Endocrinologist reveals the surprising foods wrecking your vaginal health — and the daily staple she still recommends - New York Post",
       "source": "Tavily",
-      "published": "Mon, 08 Jun 2026 13:25:45 GMT",
-      "description": "#### NYP - Strictly Necessary Cookies and Similar Technologies. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish"
+      "published": "Mon, 15 Jun 2026 10:00:00 GMT",
+      "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
     },
-    "https://nypost.com/video/moroccans-gather-to-support-their-squad-at-this-queens-hookah-lounge/": {
-      "title": "Moroccans gather to support their squad at this Queens hookah lounge (Video) - New York Post",
+    "https://nypost.com/video/trump-backed-kennedy-center-board-scrambles-to-block-name-removal-deadline/": {
+      "title": "Trump-backed Kennedy Center board scrambles to block name removal deadline (Video) - New York Post",
       "source": "Tavily",
-      "published": "Mon, 08 Jun 2026 18:00:00 GMT",
-      "description": "#### NYP - Strictly Necessary Cookies and Similar Technologies. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish"
+      "published": "Mon, 15 Jun 2026 15:24:10 GMT",
+      "description": "You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our third party partners such as advertising networks"
     },
-    "https://nypost.com/video/is-this-the-mets-rotation-weve-been-waiting-for-presented-by-your-local-ford/": {
-      "title": "Is This the Mets Rotation We’ve Been Waiting For? | Presented By Your Local Ford (Video) - New York Post",
+    "https://www.pehub.com/tpg-to-acquire-waste-eliminator-and-liberty-waste-solutions/": {
+      "title": "TPG to acquire Waste Eliminator and Liberty Waste Solutions - pehub.com",
       "source": "Tavily",
-      "published": "Mon, 08 Jun 2026 13:36:17 GMT",
-      "description": "Is This the Mets Rotation We've Been Waiting For? You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish for us or our"
+      "published": "Wed, 17 Jun 2026 13:36:15 GMT",
+      "description": "# TPG to acquire Waste Eliminator and Liberty Waste Solutions | PE Hub. Responsible use of your data. We and our 16 partners process your personal data, e.g. your IP-number, using technology such as cookies to store and access information on your device in order to serve personalized ads and content"
     },
-    "https://nypost.com/cover/june-10-2026/": {
+    "https://nypost.com/cover/june-20-2026/": {
       "title": "Next cover - New York Post",
       "source": "Tavily",
-      "published": "Wed, 10 Jun 2026 05:18:37 GMT",
+      "published": "Sat, 20 Jun 2026 04:53:04 GMT",
       "description": "#### NYP - Strictly Necessary Cookies and Similar Technologies. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish"
     },
-    "https://nypost.com/video/can-americans-identify-any-of-these-soccer-superstars/": {
-      "title": "Can Americans identify any of these soccer superstars? (Video) - New York Post",
+    "https://www.pehub.com/ipo-window-open-for-ai-infra-businesses-says-carta-nordic-capital-to-acquire-finance-platform-liberis/": {
+      "title": "IPO window open for AI infra businesses, says Carta; Nordic Capital to acquire finance platform Liberis - pehub.com",
       "source": "Tavily",
-      "published": "Wed, 10 Jun 2026 19:00:00 GMT",
-      "description": "#### NYP - Strictly Necessary Cookies and Similar Technologies. You can set your browser to block or alert you about these cookies, but without them, performance of the site may be affected and you may not be able to take full advantage of all services and/or features of the site. If you do not wish"
+      "published": "Thu, 18 Jun 2026 08:58:25 GMT",
+      "description": "# IPO window open for AI infra businesses, says Carta; Nordic Capital to acquire finance platform Liberis | PE Hub. Responsible use of your data. We and our 16 partners process your personal data, e.g. your IP-number, using technology such as cookies to store and access information on your device in"
+    },
+    "https://www.espn.com/radio/play/_/id/49117096": {
+      "title": "ESPN FC - USMNT takes on the Socceroos - ESPN",
+      "source": "Tavily",
+      "published": "Mon, 15 Jun 2026 23:02:48 GMT",
+      "description": "# ESPN FC - USMNT takes on the Socceroos | ESPN. ESPN FC - USMNT takes on the Socceroos. Some US states provide residents (or their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. If you are logge"
     }
   },
   "social": {
@@ -192,13 +198,13 @@
       "platform": "twitter",
       "title": "n8n.io (@n8n_io) / X",
       "published": "",
-      "content": "Workflow automation for technical teams to build AI solutions that integrate with any app or API at no-code speed and code flexibility. Rolling out this week to n8n Cloud (Trial, Starter, Pro). A new n8n cheat sheet is out. After the great response to the one we shared a couple of weeks ago, here’s "
+      "content": "Workflow automation for technical teams to build AI solutions that integrate with any app or API at no-code speed and code flexibility. More people building agents is a win for everyone. We're here for the long term 🫡. A new n8n cheat sheet is out. After the great response to the one we shared a cou"
     },
-    "https://x.com/n8n_io/status/2029900720984437235": {
+    "https://x.com/n8n_io/status/1924480363759374511": {
       "platform": "twitter",
-      "title": "n8n Community",
+      "title": "New to n8n or already building advanced workflows? Either way ...",
       "published": "",
-      "content": "The n8n Forum is a community space to ask questions, collaborate, share workflows, and connects with other builders."
+      "content": "New to n8n or already building advanced workflows? Either way, you'll want to check out these 25 useful tips from Nate Herk."
     },
     "https://x.com/n8n_io/status/1945755525947269344": {
       "platform": "twitter",
@@ -212,11 +218,11 @@
       "published": "",
       "content": "Etienne Lescot built n8n as Code, a tool that lets you create n8n workflows directly in Cursor, VS Code, Claude Code, or OpenClaw."
     },
-    "https://x.com/n8n_io/status/1937163866254803309": {
+    "https://x.com/n8n_io/status/1952376515032715669": {
       "platform": "twitter",
       "title": "n8n.io",
       "published": "",
-      "content": "This workflow by Nasser takes the title, subtitles and some other meta information from your YouTube videos and uses AI to generate a full"
+      "content": "n8n.io (@n8n_io). 200 likes 12 replies. Automations, right at your fingertips. What's your take on this n8n physical button?"
     },
     "https://x.com/n8n_io/status/1943233821186404650": {
       "platform": "twitter",
@@ -224,11 +230,11 @@
       "published": "",
       "content": "Hey #WeAreDevelopers! n8n is here for the first time, come see live demos of automation workflows by our team, YouTubers, and community."
     },
-    "https://x.com/n8n_io/status/1992949252973322584": {
+    "https://x.com/n8n_io/status/2029900720984437235": {
       "platform": "twitter",
-      "title": "In this new n8n podcast episode, he walks through his workflows ...",
+      "title": "n8n.io on X: \"The n8n Forum is a community space to ask questions, collaborate, share workflows, and connects with other builders. If you enjoy helping others, you can also join the Answer & Earn program. When your answer is marked as a solution, you earn points, and top contributors receive\" / X",
       "published": "",
-      "content": "In this new n8n podcast episode, he walks through his workflows and 38+ blueprints that his community uses to automate service businesses."
+      "content": "## Post. The n8n Forum is a community space to ask questions, collaborate, share workflows, and connects with other builders. If you enjoy helping others, you can also join the Answer & Earn program. When your answer is marked as a solution, you earn points, and top contributors receive rewards each"
     }
   }
 }
